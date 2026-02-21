@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>LexiVerse</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body class="landing-page">
+
+    <div class="overlay">
+        <div class="landing-container">
+
+            <h1 class="logo">LEXIVERSE</h1>
+
+            <div class="button-group">
+                <button class="main-btn" onclick="resumeReading()">OPEN</button>
+                <button class="main-btn" onclick="startNew()">NEW</button>
+                <button class="main-btn" onclick="openInfo('howModal')">HOW TO PLAY</button>
+                <button class="main-btn" onclick="openInfo('aboutModal')">ABOUT US</button>
+                <button class="main-btn" onclick="openInfo('contactModal')">CONTACT US</button>
+            </div>
+
+        </div>
+    </div>
+
+    <script src="js/app.js"></script>
+
+    <!-- HOW TO PLAY MODAL -->
+<div class="info-modal" id="howModal">
+    <div class="info-content">
+        <span class="close-info" onclick="closeInfo('howModal')">×</span>
+        <h2>How To Play</h2>
+        <p>1. Read the passage carefully.</p>
+        <p>2. Complex words appear in red.</p>
+        <p>3. Click a word to explore its meaning, synonyms, antonyms, examples, and evolution.</p>
+        <p>4. Use Next and Previous to navigate passages.</p>
+        <p>5. OPEN resumes your progress. NEW starts fresh.</p>
+    </div>
+</div>
+
+<!-- ABOUT US MODAL -->
+<div class="info-modal" id="aboutModal">
+    <div class="info-content">
+        <span class="close-info" onclick="closeInfo('aboutModal')">×</span>
+        <h2>About LexiVerse</h2>
+        <p>LexiVerse is a layered vocabulary experience.</p>
+        <p>It blends storytelling with linguistic evolution.</p>
+        <p>Every word carries history: from Latin roots to modern usage.</p>
+        <p>Built to make reading immersive and intelligent.</p>
+    </div>
+</div>
+
+<!-- CONTACT US MODAL -->
+<div class="info-modal" id="contactModal">
+    <div class="info-content">
+        <span class="close-info" onclick="closeInfo('contactModal')">×</span>
+        <h2>Contact Us</h2>
+        <p>Email: rswarke1972@gmail.com</p>
+        <p>Suggestions and collaborations welcome.</p>
+    </div>
+</div>
+</body>
+</html>
