@@ -1,11 +1,23 @@
+let wordData; // only here
 let currentStoryIndex = 0;
 
-document.addEventListener("DOMContentLoaded", function () {
+fetch("js/words.json")
+  .then(response => response.json())
+  .then(data => {
+      wordData = data;
+
+      // After JSON loads, start the app
+      startApp();
+  })
+  .catch(error => {
+      console.error("Error loading words.json:", error);
+  });
+
+function startApp() {
 
     const prevBtn = document.getElementById("prevBtn");
     const nextBtn = document.getElementById("nextBtn");
 
-    // 🔥 Determine whether OPEN or NEW was clicked
     const startMode = localStorage.getItem("lexiverse_start_mode");
 
     if (startMode === "new") {
@@ -17,16 +29,9 @@ document.addEventListener("DOMContentLoaded", function () {
         currentStoryIndex = savedIndex ? parseInt(savedIndex) : 0;
     }
 
-    function updateButtons() {
-        prevBtn.disabled = currentStoryIndex === 0;
-        nextBtn.disabled = currentStoryIndex === passages.length - 1;
-    }
-
     function loadStory(index) {
 
         currentStoryIndex = index;
-
-        // Save progress
         localStorage.setItem("lexiverse_current_story", index);
 
         const story = passages[index];
@@ -35,25 +40,21 @@ document.addEventListener("DOMContentLoaded", function () {
         document.getElementById("story-subtitle").innerText = story.subtitle;
         document.getElementById("story-content").innerHTML = story.content;
 
-        // 🔥 IMPORTANT: Update button state AFTER loading
         prevBtn.disabled = currentStoryIndex === 0;
         nextBtn.disabled = currentStoryIndex === passages.length - 1;
     }
 
     nextBtn.addEventListener("click", function () {
         if (currentStoryIndex < passages.length - 1) {
-            currentStoryIndex++;
-            loadStory(currentStoryIndex);
+            loadStory(currentStoryIndex + 1);
         }
     });
 
     prevBtn.addEventListener("click", function () {
         if (currentStoryIndex > 0) {
-            currentStoryIndex--;
-            loadStory(currentStoryIndex);
+            loadStory(currentStoryIndex - 1);
         }
     });
 
-    // 🔥 Now load correct story
     loadStory(currentStoryIndex);
-});
+}

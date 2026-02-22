@@ -16,8 +16,14 @@
 
             <div class="button-group">
                 <button class="main-btn" onclick="resumeReading()">OPEN</button>
-                <button class="main-btn" onclick="startNew()">NEW</button>
+                <button class="main-btn" onclick="goToSelectPassage()">SELECT STORY</button>
                 <button class="main-btn" onclick="openInfo('howModal')">HOW TO PLAY</button>
+                <button onclick="window.location.href='allwords.html'" class="main-btn">
+                    SHOW ALL WORDS
+                </button>
+                <div id="allWordsSection" class="all-words-section hidden">
+                    <div id="allWordsContainer" class="word-grid"></div>
+                </div>
                 <button class="main-btn" onclick="openInfo('aboutModal')">ABOUT US</button>
                 <button class="main-btn" onclick="openInfo('contactModal')">CONTACT US</button>
             </div>
@@ -34,7 +40,7 @@
         <h2>How To Play</h2>
         <p>1. Read the passage carefully.</p>
         <p>2. Complex words appear in red.</p>
-        <p>3. Click a word to explore its meaning, synonyms, antonyms, examples, and evolution.</p>
+        <p>3. Click a word to explore its pronounciations (in US, UK and INDIAN accents), meaning, synonyms, antonyms, examples, and evolution.</p>
         <p>4. Use Next and Previous to navigate passages.</p>
         <p>5. OPEN resumes your progress. NEW starts fresh.</p>
     </div>

@@ -1,11 +1,17 @@
 // modal.js
+let availableVoices = [];
+
+function loadVoices() {
+    availableVoices = speechSynthesis.getVoices();
+}
+
+speechSynthesis.onvoiceschanged = loadVoices;
 
 function openModal(word) {
 
     const modal = document.getElementById("wordModal");
     const modalBody = document.getElementById("modalBody");
-
-    const data = wordData[word];
+    const data = wordData[word.toLowerCase()];
 
     // Safety check
     if (!data) {
@@ -46,6 +52,10 @@ function openModal(word) {
     // ===== BUILD FULL MODAL CONTENT =====
     modalBody.innerHTML = `
         <h2 class="modal-word-title">${word.toUpperCase()}</h2>
+        <p class="modal-ipa">${data.ipa || ""}</p>
+        <button onclick="pronounceWord('${word}', 'us')">🔊 🇺🇸 US</button>
+        <button onclick="pronounceWord('${word}', 'uk')">🔊 🇬🇧 UK</button>
+        <button onclick="pronounceWord('${word}', 'in')">🔊 🇮🇳 IN</button>
 
         <div class="modal-section">
             <p><strong>Meaning:</strong> ${data.meaning}</p>
@@ -73,6 +83,31 @@ function openModal(word) {
     modal.classList.add("active");
 }
 
+function pronounceWord(word, accent = "us") {
+
+    const utterance = new SpeechSynthesisUtterance(word);
+    const voices = speechSynthesis.getVoices();
+
+    let selectedVoice;
+
+    if (accent === "uk") {
+        selectedVoice = voices.find(v => v.lang.toLowerCase().includes("gb"));
+    }
+    else if (accent === "in") {
+        selectedVoice = voices.find(v => v.lang.toLowerCase().includes("in"));
+    }
+    else {
+        selectedVoice = voices.find(v => v.lang.toLowerCase().includes("us"));
+    }
+
+    if (selectedVoice) {
+        utterance.voice = selectedVoice;
+    }
+
+    utterance.rate = 0.9;
+    speechSynthesis.cancel();
+    speechSynthesis.speak(utterance);
+}
 
 // Close Modal
 function closeModal() {

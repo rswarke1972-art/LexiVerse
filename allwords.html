@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>LexiVerse - All Words</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+    <button class="back-btn" onclick="goHome()">← Back</button>
+
+    <div class="allwords-container">
+        <h1>All Words</h1>
+        <div id="wordsGrid" class="words-grid"></div>
+    </div>
+
+    <!-- Modal -->
+    <div id="wordModal" class="modal">
+        <div class="modal-content">
+            <span class="close-btn">&times;</span>
+            <div id="modalBody"></div>
+        </div>
+    </div>
+
+    <script src="js/modal.js"></script>
+    <script src="js/allwords.js"></script>
+</body>
+</html>

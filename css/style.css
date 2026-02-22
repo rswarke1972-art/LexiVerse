@@ -64,8 +64,6 @@
     transform: scale(1.05);
     background: linear-gradient(90deg, #ff1a1a, #990000);
 }
-
-
 /* ========================= */
 /* STORY PAGE */
 /* ========================= */
@@ -322,7 +320,7 @@
 
 .info-content {
     background: #111;
-    color: #fff;
+    color: white;
     padding: 40px;
     width: 90%;
     max-width: 600px;
@@ -342,4 +340,81 @@
     right: 20px;
     font-size: 24px;
     cursor: pointer;
+}
+
+.allwords-container {
+    background: black;
+    text-align: center;
+    padding: 40px;
+}
+
+.words-grid {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 12px;
+    margin-top: 30px;
+}
+
+.word-btn {
+    background: red;
+    color: white;
+    border: 1px solid orangered;
+    padding: 5px 14px;
+    width: 140px;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: 0.2s ease;
+}
+
+.word-btn:hover {
+    background: #ff2b2b;
+    color: blue;
+}
+
+.back-btn {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    background-color: #ff0000;
+    color: white;
+    border: none;
+    padding: 10px 25px;
+    border-radius: 8px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: 0.3s ease;
+}
+
+.back-btn:hover {
+    background-color: #cc0000;
+}
+
+.black-bg {
+    background-color: black;
+    color: white;
+    min-height: 100vh;
+    padding: 40px;
+}
+
+.select-container {
+    text-align: center;
+}
+
+.passage-btn {
+    display: block;
+    margin: 15px auto;
+    width: 320px;
+    padding: 12px;
+    background-color: #ff0000;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: 0.3s ease;
+}
+
+.passage-btn:hover {
+    background-color: #cc0000;
 }
