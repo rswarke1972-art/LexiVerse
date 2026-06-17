@@ -356,7 +356,7 @@
     margin-top: 30px;
 }
 
-.word-btn {
+.word-grid-btn {
     background: red;
     color: white;
     border: 1px solid orangered;
@@ -367,9 +367,9 @@
     transition: 0.2s ease;
 }
 
-.word-btn:hover {
+.word-grid-btn:hover {
     background: #ff2b2b;
-    color: blue;
+    color: white; /* Changed hover color to white instead of ugly blue */
 }
 
 .back-btn {

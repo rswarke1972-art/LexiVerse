@@ -1,0 +1,46 @@
+{
+  "xenophobia": {
+    "meaning": "A fear of strangers or foreigners.",
+    "synonyms": [
+      "xenophobialike",
+      "analogous"
+    ],
+    "antonyms": [
+      "xenomania",
+      "xenophily",
+      "xenophilia",
+      "allophilia"
+    ],
+    "examples": [
+      "The professor explained the significance of the word 'xenophobia' in literature.",
+      "Her actions showed a clear demonstration of being 'xenophobia'."
+    ],
+    "evolution": [
+      {
+        "period": "Proto-Germanic",
+        "form": "*xenophobia",
+        "meaning": "primitive root",
+        "usage": "Reconstructed ancestral root spoken by early Germanic tribes."
+      },
+      {
+        "period": "Old English (ca. 450-1100)",
+        "form": "xenophobia",
+        "meaning": "original Old English sense",
+        "usage": "Used in Anglo-Saxon poetry and documents."
+      },
+      {
+        "period": "Middle English",
+        "form": "xenophobia",
+        "meaning": "transitional sense",
+        "usage": "Spelled with Middle English phonetics."
+      },
+      {
+        "period": "Modern English",
+        "form": "xenophobia",
+        "meaning": "A fear of strangers or foreigners.",
+        "usage": "Common everyday word in Modern English."
+      }
+    ],
+    "ipa": ""
+  }
+}

@@ -1,0 +1,3445 @@
+{
+  "obdurate": {
+    "meaning": "To harden; to obdure.",
+    "synonyms": [
+      "unyielding",
+      "recalcitrant",
+      "intractable",
+      "impertinent"
+    ],
+    "antonyms": [
+      "contrary",
+      "opposite"
+    ],
+    "examples": [
+      "The professor explained the significance of the word 'obdurate' in literature.",
+      "Her actions showed a clear demonstration of being 'obdurate'."
+    ],
+    "evolution": [
+      {
+        "period": "Latin (Classical Period)",
+        "form": "obdurateus",
+        "meaning": "relating to obdurate",
+        "usage": "Used as a primary descriptor in Classical Latin literature."
+      },
+      {
+        "period": "Old French (12th century)",
+        "form": "obdurate",
+        "meaning": "having characteristics of obdurate",
+        "usage": "Adopted into French during the feudal era."
+      },
+      {
+        "period": "Middle English",
+        "form": "obdurate",
+        "meaning": "describing a state of obdurate",
+        "usage": "Integrated into English following the Norman Conquest."
+      },
+      {
+        "period": "Modern English",
+        "form": "obdurate",
+        "meaning": "To harden; to obdure.",
+        "usage": "Used in formal, literary, and academic contexts today."
+      }
+    ],
+    "ipa": "/ˈɒbdʒʊɹɪt/"
+  },
+  "oaf": {
+    "meaning": "A person, especially a large male, who is clumsy or a simpleton.",
+    "synonyms": [
+      "galoot",
+      "lout",
+      "imbecile",
+      "fool"
+    ],
+    "antonyms": [
+      "contrary",
+      "opposite"
+    ],
+    "examples": [
+      "Ouch! You dropped that box on my feet, you lumbering oaf!",
+      "We observed a classic case of a 'oaf' phenomenon."
+    ],
+    "evolution": [
+      {
+        "period": "Proto-Germanic",
+        "form": "*oaf",
+        "meaning": "primitive root",
+        "usage": "Reconstructed ancestral root spoken by early Germanic tribes."
+      },
+      {
+        "period": "Old English (ca. 450-1100)",
+        "form": "oaf",
+        "meaning": "original Old English sense",
+        "usage": "Used in Anglo-Saxon poetry and documents."
+      },
+      {
+        "period": "Middle English",
+        "form": "oaf",
+        "meaning": "transitional sense",
+        "usage": "Spelled with Middle English phonetics."
+      },
+      {
+        "period": "Modern English",
+        "form": "oaf",
+        "meaning": "A person, especially a large male, who is clumsy or a simpleton.",
+        "usage": "Common everyday word in Modern English."
+      }
+    ],
+    "ipa": "/əʊf/"
+  },
+  "obfuscate": {
+    "meaning": "To make dark; overshadow.",
+    "synonyms": [
+      "muddle",
+      "confuse",
+      "eclipse",
+      "darken"
+    ],
+    "antonyms": [
+      "explain",
+      "simplify"
+    ],
+    "examples": [
+      "We need to obfuscate these classes before we ship the final release.",
+      "Before leaving the scene, the murderer set a fire in order to obfuscate any evidence of their identity."
+    ],
+    "evolution": [
+      {
+        "period": "Latin",
+        "form": "ob",
+        "meaning": "historical form meaning 'obfuscate'",
+        "usage": "Used in administrative and classical Roman texts."
+      },
+      {
+        "period": "Late Latin",
+        "form": "obfuscātus",
+        "meaning": "historical form meaning 'obfuscate'",
+        "usage": "Used in administrative and classical Roman texts."
+      },
+      {
+        "period": "Old French",
+        "form": "offusquer",
+        "meaning": "historical form meaning 'obfuscate'",
+        "usage": "Developed as a Romance dialect variant in medieval France."
+      },
+      {
+        "period": "Middle French",
+        "form": "obfusquer",
+        "meaning": "historical form meaning 'obfuscate'",
+        "usage": "Developed as a Romance dialect variant in medieval France."
+      },
+      {
+        "period": "Modern English",
+        "form": "obfuscate",
+        "meaning": "To make dark; overshadow.",
+        "usage": "Used widely in modern writing, speech, and formal prose."
+      }
+    ],
+    "ipa": "/ˈɒbfəskeɪt/"
+  },
+  "obligatory": {
+    "meaning": "Imposing obligation, legally, morally, or otherwise; binding; mandatory.",
+    "synonyms": [
+      "bounden",
+      "mandatory"
+    ],
+    "antonyms": [
+      "contrary",
+      "opposite"
+    ],
+    "examples": [
+      "an obligatory promise",
+      "We observed a classic case of a 'obligatory' phenomenon."
+    ],
+    "evolution": [
+      {
+        "period": "Latin (Classical Period)",
+        "form": "obligatoryus",
+        "meaning": "relating to obligatory",
+        "usage": "Used as a primary descriptor in Classical Latin literature."
+      },
+      {
+        "period": "Old French (12th century)",
+        "form": "obligatory",
+        "meaning": "having characteristics of obligatory",
+        "usage": "Adopted into French during the feudal era."
+      },
+      {
+        "period": "Middle English",
+        "form": "obligatory",
+        "meaning": "describing a state of obligatory",
+        "usage": "Integrated into English following the Norman Conquest."
+      },
+      {
+        "period": "Modern English",
+        "form": "obligatory",
+        "meaning": "Imposing obligation, legally, morally, or otherwise; binding; mandatory.",
+        "usage": "Used in formal, literary, and academic contexts today."
+      }
+    ],
+    "ipa": "/əˈblɪɡ.ə.t(ə)ɹi/"
+  },
+  "objective": {
+    "meaning": "A material object that physically exists.",
+    "synonyms": [
+      "object case",
+      "unbiased",
+      "objective case",
+      "factual"
+    ],
+    "antonyms": [
+      "contrary",
+      "opposite"
+    ],
+    "examples": [
+      "The professor explained the significance of the word 'objective' in literature.",
+      "Her actions showed a clear demonstration of being 'objective'."
+    ],
+    "evolution": [
+      {
+        "period": "Latin (Classical Period)",
+        "form": "objectiveus",
+        "meaning": "relating to objective",
+        "usage": "Used as a primary descriptor in Classical Latin literature."
+      },
+      {
+        "period": "Old French (12th century)",
+        "form": "objective",
+        "meaning": "having characteristics of objective",
+        "usage": "Adopted into French during the feudal era."
+      },
+      {
+        "period": "Middle English",
+        "form": "objective",
+        "meaning": "describing a state of objective",
+        "usage": "Integrated into English following the Norman Conquest."
+      },
+      {
+        "period": "Modern English",
+        "form": "objective",
+        "meaning": "A material object that physically exists.",
+        "usage": "Used in formal, literary, and academic contexts today."
+      }
+    ],
+    "ipa": "/ɒbˈd͡ʒɛk.tɪv/"
+  },
+  "obituary": {
+    "meaning": "A brief notice of a person’s death, as published in a newspaper.",
+    "synonyms": [
+      "obituarylike",
+      "analogous"
+    ],
+    "antonyms": [
+      "contrary",
+      "opposite"
+    ],
+    "examples": [
+      "The professor explained the significance of the word 'obituary' in literature.",
+      "Her actions showed a clear demonstration of being 'obituary'."
+    ],
+    "evolution": [
+      {
+        "period": "Latin (Classical Period)",
+        "form": "obituaryus",
+        "meaning": "relating to obituary",
+        "usage": "Used as a primary descriptor in Classical Latin literature."
+      },
+      {
+        "period": "Old French (12th century)",
+        "form": "obituary",
+        "meaning": "having characteristics of obituary",
+        "usage": "Adopted into French during the feudal era."
+      },
+      {
+        "period": "Middle English",
+        "form": "obituary",
+        "meaning": "describing a state of obituary",
+        "usage": "Integrated into English following the Norman Conquest."
+      },
+      {
+        "period": "Modern English",
+        "form": "obituary",
+        "meaning": "A brief notice of a person’s death, as published in a newspaper.",
+        "usage": "Used in formal, literary, and academic contexts today."
+      }
+    ],
+    "ipa": "/əˈbɪt͡ʃʊ(ə)ɹi/"
+  },
+  "obese": {
+    "meaning": "Extremely overweight, especially: weighing more than 20% (for men) or 25% (for women) over their ideal weight determined by height and build; or, having a body mass index over 30 kg/m2.",
+    "synonyms": [
+      "obeselike",
+      "analogous"
+    ],
+    "antonyms": [
+      "contrary",
+      "opposite"
+    ],
+    "examples": [
+      "The professor explained the significance of the word 'obese' in literature.",
+      "Her actions showed a clear demonstration of being 'obese'."
+    ],
+    "evolution": [
+      {
+        "period": "Latin (Classical Period)",
+        "form": "obeseus",
+        "meaning": "relating to obese",
+        "usage": "Used as a primary descriptor in Classical Latin literature."
+      },
+      {
+        "period": "Old French (12th century)",
+        "form": "obese",
+        "meaning": "having characteristics of obese",
+        "usage": "Adopted into French during the feudal era."
+      },
+      {
+        "period": "Middle English",
+        "form": "obese",
+        "meaning": "describing a state of obese",
+        "usage": "Integrated into English following the Norman Conquest."
+      },
+      {
+        "period": "Modern English",
+        "form": "obese",
+        "meaning": "Extremely overweight, especially: weighing more than 20% (for men) or 25% (for women) over their ideal weight determined by height and build; or, having a body mass index over 30 kg/m2.",
+        "usage": "Used in formal, literary, and academic contexts today."
+      }
+    ],
+    "ipa": "/oʊˈbis/"
+  },
+  "obliterate": {
+    "meaning": "To remove completely, leaving no trace; to wipe out; to destroy.",
+    "synonyms": [
+      "raze",
+      "do away with",
+      "extirpate",
+      "eradicate"
+    ],
+    "antonyms": [
+      "contrary",
+      "opposite"
+    ],
+    "examples": [
+      "The professor explained the significance of the word 'obliterate' in literature.",
+      "Her actions showed a clear demonstration of being 'obliterate'."
+    ],
+    "evolution": [
+      {
+        "period": "Latin (Classical Period)",
+        "form": "obliterateus",
+        "meaning": "relating to obliterate",
+        "usage": "Used as a primary descriptor in Classical Latin literature."
+      },
+      {
+        "period": "Old French (12th century)",
+        "form": "obliterate",
+        "meaning": "having characteristics of obliterate",
+        "usage": "Adopted into French during the feudal era."
+      },
+      {
+        "period": "Middle English",
+        "form": "obliterate",
+        "meaning": "describing a state of obliterate",
+        "usage": "Integrated into English following the Norman Conquest."
+      },
+      {
+        "period": "Modern English",
+        "form": "obliterate",
+        "meaning": "To remove completely, leaving no trace; to wipe out; to destroy.",
+        "usage": "Used in formal, literary, and academic contexts today."
+      }
+    ],
+    "ipa": "/əˈblɪtəɹeɪt/"
+  },
+  "oblique": {
+    "meaning": "An oblique line.",
+    "synonyms": [
+      "forward stroke",
+      "bar",
+      "slant line",
+      "diagonal"
+    ],
+    "antonyms": [
+      "contrary",
+      "opposite"
+    ],
+    "examples": [
+      "Slash generated during logging may constitute a fire hazard.",
+      "We observed a classic case of a 'oblique' phenomenon."
+    ],
+    "evolution": [
+      {
+        "period": "Latin (Classical Period)",
+        "form": "obliqueus",
+        "meaning": "relating to oblique",
+        "usage": "Used as a primary descriptor in Classical Latin literature."
+      },
+      {
+        "period": "Old French (12th century)",
+        "form": "oblique",
+        "meaning": "having characteristics of oblique",
+        "usage": "Adopted into French during the feudal era."
+      },
+      {
+        "period": "Middle English",
+        "form": "oblique",
+        "meaning": "describing a state of oblique",
+        "usage": "Integrated into English following the Norman Conquest."
+      },
+      {
+        "period": "Modern English",
+        "form": "oblique",
+        "meaning": "An oblique line.",
+        "usage": "Used in formal, literary, and academic contexts today."
+      }
+    ],
+    "ipa": "/əˈbliːk/"
+  },
+  "oblivion": {
+    "meaning": "The state of forgetting completely, of being oblivious, unconscious, unaware, as when sleeping, drunk, or dead.",
+    "synonyms": [
+      "oblivionlike",
+      "analogous"
+    ],
+    "antonyms": [
+      "contrary",
+      "opposite"
+    ],
+    "examples": [
+      "He regularly drank himself into oblivion.",
+      "Due to modern technology, many more people and much more information will not slip into oblivion, contrary to what happened throughout history until now."
+    ],
+    "evolution": [
+      {
+        "period": "Latin (Classical Period)",
+        "form": "oblivionus",
+        "meaning": "relating to oblivion",
+        "usage": "Used as a primary descriptor in Classical Latin literature."
+      },
+      {
+        "period": "Old French (12th century)",
+        "form": "oblivion",
+        "meaning": "having characteristics of oblivion",
+        "usage": "Adopted into French during the feudal era."
+      },
+      {
+        "period": "Middle English",
+        "form": "oblivion",
+        "meaning": "describing a state of oblivion",
+        "usage": "Integrated into English following the Norman Conquest."
+      },
+      {
+        "period": "Modern English",
+        "form": "oblivion",
+        "meaning": "The state of forgetting completely, of being oblivious, unconscious, unaware, as when sleeping, drunk, or dead.",
+        "usage": "Used in formal, literary, and academic contexts today."
+      }
+    ],
+    "ipa": "/əˈblɪviːən/"
+  },
+  "oblivious": {
+    "meaning": "(usually followed by to or of) lacking awareness; unmindful; unaware, unconscious of.",
+    "synonyms": [
+      "obliviouslike",
+      "analogous"
+    ],
+    "antonyms": [
+      "contrary",
+      "opposite"
+    ],
+    "examples": [
+      "The professor explained the significance of the word 'oblivious' in literature.",
+      "Her actions showed a clear demonstration of being 'oblivious'."
+    ],
+    "evolution": [
+      {
+        "period": "Latin (Classical Period)",
+        "form": "oblivius",
+        "meaning": "relating to oblivious",
+        "usage": "Used as a primary descriptor in Classical Latin literature."
+      },
+      {
+        "period": "Old French (12th century)",
+        "form": "oblivios",
+        "meaning": "having characteristics of oblivious",
+        "usage": "Adopted into French during the feudal era."
+      },
+      {
+        "period": "Middle English",
+        "form": "oblivious",
+        "meaning": "describing a state of oblivious",
+        "usage": "Integrated into English following the Norman Conquest."
+      },
+      {
+        "period": "Modern English",
+        "form": "oblivious",
+        "meaning": "(usually followed by to or of) lacking awareness; unmindful; unaware, unconscious of.",
+        "usage": "Used in formal, literary, and academic contexts today."
+      }
+    ],
+    "ipa": "/əˈblɪ.vi.əs/"
+  },
+  "obscure": {
+    "meaning": "To render obscure; to darken; to make dim; to keep in the dark; to hide; to make less visible, intelligible, legible, glorious, beautiful, or illustrious.",
+    "synonyms": [
+      "bedim",
+      "becloud",
+      "inscrutable",
+      "cimmerian"
+    ],
+    "antonyms": [
+      "contrary",
+      "opposite"
+    ],
+    "examples": [
+      "The etymological roots of the word \"blizzard\" are obscure and open to debate.",
+      "an obscure passage or inscription;    The speaker made obscure references to little-known literary works."
+    ],
+    "evolution": [
+      {
+        "period": "Proto-Germanic",
+        "form": "*obscure",
+        "meaning": "primitive root",
+        "usage": "Reconstructed ancestral root spoken by early Germanic tribes."
+      },
+      {
+        "period": "Old English (ca. 450-1100)",
+        "form": "obscure",
+        "meaning": "original Old English sense",
+        "usage": "Used in Anglo-Saxon poetry and documents."
+      },
+      {
+        "period": "Middle English",
+        "form": "obscure",
+        "meaning": "transitional sense",
+        "usage": "Spelled with Middle English phonetics."
+      },
+      {
+        "period": "Modern English",
+        "form": "obscure",
+        "meaning": "To render obscure; to darken; to make dim; to keep in the dark; to hide; to make less visible, intelligible, legible, glorious, beautiful, or illustrious.",
+        "usage": "Common everyday word in Modern English."
+      }
+    ],
+    "ipa": "/əbˈskjɔː(ɹ)/"
+  },
+  "obnoxious": {
+    "meaning": "Extremely unpleasant or offensive; very annoying, odious or contemptible.",
+    "synonyms": [
+      "obnoxiouslike",
+      "analogous"
+    ],
+    "antonyms": [
+      "contrary",
+      "opposite"
+    ],
+    "examples": [
+      "He was an especially obnoxious and detestable specimen of a man.",
+      "We observed a classic case of a 'obnoxious' phenomenon."
+    ],
+    "evolution": [
+      {
+        "period": "Latin (Classical Period)",
+        "form": "obnoxius",
+        "meaning": "relating to obnoxious",
+        "usage": "Used as a primary descriptor in Classical Latin literature."
+      },
+      {
+        "period": "Old French (12th century)",
+        "form": "obnoxios",
+        "meaning": "having characteristics of obnoxious",
+        "usage": "Adopted into French during the feudal era."
+      },
+      {
+        "period": "Middle English",
+        "form": "obnoxious",
+        "meaning": "describing a state of obnoxious",
+        "usage": "Integrated into English following the Norman Conquest."
+      },
+      {
+        "period": "Modern English",
+        "form": "obnoxious",
+        "meaning": "Extremely unpleasant or offensive; very annoying, odious or contemptible.",
+        "usage": "Used in formal, literary, and academic contexts today."
+      }
+    ],
+    "ipa": "/əbˈnɒkʃəs/"
+  },
+  "obsessive": {
+    "meaning": "A person who is obsessed, who has an obsession.",
+    "synonyms": [
+      "unrelenting",
+      "headstrong",
+      "unyielding"
+    ],
+    "antonyms": [
+      "contrary",
+      "opposite"
+    ],
+    "examples": [
+      "The idea is too tempting, it's obsessive.",
+      "A workaholic's obsessive zeal may lead to success or burnout."
+    ],
+    "evolution": [
+      {
+        "period": "Proto-Germanic",
+        "form": "*obsessive",
+        "meaning": "primitive root",
+        "usage": "Reconstructed ancestral root spoken by early Germanic tribes."
+      },
+      {
+        "period": "Old English (ca. 450-1100)",
+        "form": "obsessive",
+        "meaning": "original Old English sense",
+        "usage": "Used in Anglo-Saxon poetry and documents."
+      },
+      {
+        "period": "Middle English",
+        "form": "obsessive",
+        "meaning": "transitional sense",
+        "usage": "Spelled with Middle English phonetics."
+      },
+      {
+        "period": "Modern English",
+        "form": "obsessive",
+        "meaning": "A person who is obsessed, who has an obsession.",
+        "usage": "Common everyday word in Modern English."
+      }
+    ],
+    "ipa": "/əbˈsɛsɪv/"
+  },
+  "obsequious": {
+    "meaning": "Obedient; compliant with someone else's orders or wishes.",
+    "synonyms": [
+      "sycophantic",
+      "asskissing",
+      "servile",
+      "fawning"
+    ],
+    "antonyms": [
+      "contrary",
+      "opposite"
+    ],
+    "examples": [
+      "The professor explained the significance of the word 'obsequious' in literature.",
+      "Her actions showed a clear demonstration of being 'obsequious'."
+    ],
+    "evolution": [
+      {
+        "period": "Latin (Classical Period)",
+        "form": "obsequius",
+        "meaning": "relating to obsequious",
+        "usage": "Used as a primary descriptor in Classical Latin literature."
+      },
+      {
+        "period": "Old French (12th century)",
+        "form": "obsequios",
+        "meaning": "having characteristics of obsequious",
+        "usage": "Adopted into French during the feudal era."
+      },
+      {
+        "period": "Middle English",
+        "form": "obsequious",
+        "meaning": "describing a state of obsequious",
+        "usage": "Integrated into English following the Norman Conquest."
+      },
+      {
+        "period": "Modern English",
+        "form": "obsequious",
+        "meaning": "Obedient; compliant with someone else's orders or wishes.",
+        "usage": "Used in formal, literary, and academic contexts today."
+      }
+    ],
+    "ipa": "/əbˈsiːkwi.əs/"
+  },
+  "obsolete": {
+    "meaning": "(of words, equipment, etc.) no longer in use; gone into disuse; disused or neglected (often by preference for something newer, which replaces the subject).",
+    "synonyms": [
+      "abortive",
+      "antiquated",
+      "deprecated",
+      "rudimental"
+    ],
+    "antonyms": [
+      "contrary",
+      "opposite"
+    ],
+    "examples": [
+      "It is speculated that, within a few years, the Internet's speedy delivery of news worldwide will make newspapers obsolete.",
+      "We observed a classic case of a 'obsolete' phenomenon."
+    ],
+    "evolution": [
+      {
+        "period": "Proto-Germanic",
+        "form": "*obsolete",
+        "meaning": "primitive root",
+        "usage": "Reconstructed ancestral root spoken by early Germanic tribes."
+      },
+      {
+        "period": "Old English (ca. 450-1100)",
+        "form": "obsolete",
+        "meaning": "original Old English sense",
+        "usage": "Used in Anglo-Saxon poetry and documents."
+      },
+      {
+        "period": "Middle English",
+        "form": "obsolete",
+        "meaning": "transitional sense",
+        "usage": "Spelled with Middle English phonetics."
+      },
+      {
+        "period": "Modern English",
+        "form": "obsolete",
+        "meaning": "(of words, equipment, etc.) no longer in use; gone into disuse; disused or neglected (often by preference for something newer, which replaces the subject).",
+        "usage": "Common everyday word in Modern English."
+      }
+    ],
+    "ipa": "/ˈɒbsəliːt/"
+  },
+  "obstetrician": {
+    "meaning": "A physician who specializes in childbirth.",
+    "synonyms": [
+      "obstetricianlike",
+      "analogous"
+    ],
+    "antonyms": [
+      "contrary",
+      "opposite"
+    ],
+    "examples": [
+      "The professor explained the significance of the word 'obstetrician' in literature.",
+      "Her actions showed a clear demonstration of being 'obstetrician'."
+    ],
+    "evolution": [
+      {
+        "period": "Proto-Germanic",
+        "form": "*obstetrician",
+        "meaning": "primitive root",
+        "usage": "Reconstructed ancestral root spoken by early Germanic tribes."
+      },
+      {
+        "period": "Old English (ca. 450-1100)",
+        "form": "obstetrician",
+        "meaning": "original Old English sense",
+        "usage": "Used in Anglo-Saxon poetry and documents."
+      },
+      {
+        "period": "Middle English",
+        "form": "obstetrician",
+        "meaning": "transitional sense",
+        "usage": "Spelled with Middle English phonetics."
+      },
+      {
+        "period": "Modern English",
+        "form": "obstetrician",
+        "meaning": "A physician who specializes in childbirth.",
+        "usage": "Common everyday word in Modern English."
+      }
+    ],
+    "ipa": "/ˌɒbstəˈtɹɪʃən/"
+  },
+  "obstinate": {
+    "meaning": "Stubbornly adhering to an opinion, purpose, or course, usually with implied unreasonableness; persistent.",
+    "synonyms": [
+      "persistent",
+      "stubborn",
+      "inexorable",
+      "pertinacious"
+    ],
+    "antonyms": [
+      "contrary",
+      "opposite"
+    ],
+    "examples": [
+      "The professor explained the significance of the word 'obstinate' in literature.",
+      "Her actions showed a clear demonstration of being 'obstinate'."
+    ],
+    "evolution": [
+      {
+        "period": "Latin (Classical Period)",
+        "form": "obstinateus",
+        "meaning": "relating to obstinate",
+        "usage": "Used as a primary descriptor in Classical Latin literature."
+      },
+      {
+        "period": "Old French (12th century)",
+        "form": "obstinate",
+        "meaning": "having characteristics of obstinate",
+        "usage": "Adopted into French during the feudal era."
+      },
+      {
+        "period": "Middle English",
+        "form": "obstinate",
+        "meaning": "describing a state of obstinate",
+        "usage": "Integrated into English following the Norman Conquest."
+      },
+      {
+        "period": "Modern English",
+        "form": "obstinate",
+        "meaning": "Stubbornly adhering to an opinion, purpose, or course, usually with implied unreasonableness; persistent.",
+        "usage": "Used in formal, literary, and academic contexts today."
+      }
+    ],
+    "ipa": "/ˈɒb.stɪ.nət/"
+  },
+  "obstreperous": {
+    "meaning": "Attended by, or making, a loud and tumultuous noise; boisterous.",
+    "synonyms": [
+      "unruly",
+      "recalcitrant",
+      "vociferous",
+      "clamorous"
+    ],
+    "antonyms": [
+      "contrary",
+      "opposite"
+    ],
+    "examples": [
+      "The professor explained the significance of the word 'obstreperous' in literature.",
+      "Her actions showed a clear demonstration of being 'obstreperous'."
+    ],
+    "evolution": [
+      {
+        "period": "Proto-Germanic",
+        "form": "*obstreperous",
+        "meaning": "primitive root",
+        "usage": "Reconstructed ancestral root spoken by early Germanic tribes."
+      },
+      {
+        "period": "Old English (ca. 450-1100)",
+        "form": "obstreperous",
+        "meaning": "original Old English sense",
+        "usage": "Used in Anglo-Saxon poetry and documents."
+      },
+      {
+        "period": "Middle English",
+        "form": "obstreperous",
+        "meaning": "transitional sense",
+        "usage": "Spelled with Middle English phonetics."
+      },
+      {
+        "period": "Modern English",
+        "form": "obstreperous",
+        "meaning": "Attended by, or making, a loud and tumultuous noise; boisterous.",
+        "usage": "Common everyday word in Modern English."
+      }
+    ],
+    "ipa": "/ɒbˈstɹɛp.əɹ.əs/"
+  },
+  "obtuse": {
+    "meaning": "To dull or reduce an emotion or a physical state.",
+    "synonyms": [
+      "muffled",
+      "dim-witted",
+      "blunt",
+      "dim"
+    ],
+    "antonyms": [
+      "quick off the mark",
+      "clear",
+      "sharp",
+      "acute"
+    ],
+    "examples": [
+      "The professor explained the significance of the word 'obtuse' in literature.",
+      "Her actions showed a clear demonstration of being 'obtuse'."
+    ],
+    "evolution": [
+      {
+        "period": "Proto-Germanic",
+        "form": "*obtuse",
+        "meaning": "primitive root",
+        "usage": "Reconstructed ancestral root spoken by early Germanic tribes."
+      },
+      {
+        "period": "Old English (ca. 450-1100)",
+        "form": "obtuse",
+        "meaning": "original Old English sense",
+        "usage": "Used in Anglo-Saxon poetry and documents."
+      },
+      {
+        "period": "Middle English",
+        "form": "obtuse",
+        "meaning": "transitional sense",
+        "usage": "Spelled with Middle English phonetics."
+      },
+      {
+        "period": "Modern English",
+        "form": "obtuse",
+        "meaning": "To dull or reduce an emotion or a physical state.",
+        "usage": "Common everyday word in Modern English."
+      }
+    ],
+    "ipa": ""
+  },
+  "obviate": {
+    "meaning": "To anticipate and prevent or bypass (something which would otherwise have been necessary or required).",
+    "synonyms": [
+      "obviatelike",
+      "analogous"
+    ],
+    "antonyms": [
+      "contrary",
+      "opposite"
+    ],
+    "examples": [
+      "The professor explained the significance of the word 'obviate' in literature.",
+      "Her actions showed a clear demonstration of being 'obviate'."
+    ],
+    "evolution": [
+      {
+        "period": "Latin (Classical Period)",
+        "form": "obviateus",
+        "meaning": "relating to obviate",
+        "usage": "Used as a primary descriptor in Classical Latin literature."
+      },
+      {
+        "period": "Old French (12th century)",
+        "form": "obviate",
+        "meaning": "having characteristics of obviate",
+        "usage": "Adopted into French during the feudal era."
+      },
+      {
+        "period": "Middle English",
+        "form": "obviate",
+        "meaning": "describing a state of obviate",
+        "usage": "Integrated into English following the Norman Conquest."
+      },
+      {
+        "period": "Modern English",
+        "form": "obviate",
+        "meaning": "To anticipate and prevent or bypass (something which would otherwise have been necessary or required).",
+        "usage": "Used in formal, literary, and academic contexts today."
+      }
+    ],
+    "ipa": "/ˈɒbviˌeɪt/"
+  },
+  "obtrude": {
+    "meaning": "To proffer (something) by force; to impose (something) on someone or into some area.",
+    "synonyms": [
+      "obtrudelike",
+      "analogous"
+    ],
+    "antonyms": [
+      "contrary",
+      "opposite"
+    ],
+    "examples": [
+      "The professor explained the significance of the word 'obtrude' in literature.",
+      "Her actions showed a clear demonstration of being 'obtrude'."
+    ],
+    "evolution": [
+      {
+        "period": "Proto-Germanic",
+        "form": "*obtrude",
+        "meaning": "primitive root",
+        "usage": "Reconstructed ancestral root spoken by early Germanic tribes."
+      },
+      {
+        "period": "Old English (ca. 450-1100)",
+        "form": "obtrude",
+        "meaning": "original Old English sense",
+        "usage": "Used in Anglo-Saxon poetry and documents."
+      },
+      {
+        "period": "Middle English",
+        "form": "obtrude",
+        "meaning": "transitional sense",
+        "usage": "Spelled with Middle English phonetics."
+      },
+      {
+        "period": "Modern English",
+        "form": "obtrude",
+        "meaning": "To proffer (something) by force; to impose (something) on someone or into some area.",
+        "usage": "Common everyday word in Modern English."
+      }
+    ],
+    "ipa": "/ɒbˈtɹuːd/"
+  },
+  "odious": {
+    "meaning": "Arousing or meriting strong dislike, aversion, or intense displeasure.",
+    "synonyms": [
+      "hated",
+      "unsavory",
+      "reviled",
+      "despicable"
+    ],
+    "antonyms": [
+      "contrary",
+      "opposite"
+    ],
+    "examples": [
+      "Scrubbing the toilet is an odious task.",
+      "We observed a classic case of a 'odious' phenomenon."
+    ],
+    "evolution": [
+      {
+        "period": "Latin (Classical Period)",
+        "form": "odius",
+        "meaning": "relating to odious",
+        "usage": "Used as a primary descriptor in Classical Latin literature."
+      },
+      {
+        "period": "Old French (12th century)",
+        "form": "odios",
+        "meaning": "having characteristics of odious",
+        "usage": "Adopted into French during the feudal era."
+      },
+      {
+        "period": "Middle English",
+        "form": "odious",
+        "meaning": "describing a state of odious",
+        "usage": "Integrated into English following the Norman Conquest."
+      },
+      {
+        "period": "Modern English",
+        "form": "odious",
+        "meaning": "Arousing or meriting strong dislike, aversion, or intense displeasure.",
+        "usage": "Used in formal, literary, and academic contexts today."
+      }
+    ],
+    "ipa": ""
+  },
+  "odium": {
+    "meaning": "Hatred; dislike.",
+    "synonyms": [
+      "odiumlike",
+      "analogous"
+    ],
+    "antonyms": [
+      "contrary",
+      "opposite"
+    ],
+    "examples": [
+      "His conduct brought him into odium, or, brought odium upon him.",
+      "We observed a classic case of a 'odium' phenomenon."
+    ],
+    "evolution": [
+      {
+        "period": "Proto-Germanic",
+        "form": "*odium",
+        "meaning": "primitive root",
+        "usage": "Reconstructed ancestral root spoken by early Germanic tribes."
+      },
+      {
+        "period": "Old English (ca. 450-1100)",
+        "form": "odium",
+        "meaning": "original Old English sense",
+        "usage": "Used in Anglo-Saxon poetry and documents."
+      },
+      {
+        "period": "Middle English",
+        "form": "odium",
+        "meaning": "transitional sense",
+        "usage": "Spelled with Middle English phonetics."
+      },
+      {
+        "period": "Modern English",
+        "form": "odium",
+        "meaning": "Hatred; dislike.",
+        "usage": "Common everyday word in Modern English."
+      }
+    ],
+    "ipa": "/ˈəʊ.di.əm/"
+  },
+  "offensive": {
+    "meaning": "An attack.",
+    "synonyms": [
+      "aggressive",
+      "invidious"
+    ],
+    "antonyms": [
+      "defensive",
+      "inoffensive"
+    ],
+    "examples": [
+      "The Marines today launched a major offensive.",
+      "The offensive coordinator is responsible for ordering all rushing plays."
+    ],
+    "evolution": [
+      {
+        "period": "Proto-Germanic",
+        "form": "*offensive",
+        "meaning": "primitive root",
+        "usage": "Reconstructed ancestral root spoken by early Germanic tribes."
+      },
+      {
+        "period": "Old English (ca. 450-1100)",
+        "form": "offensive",
+        "meaning": "original Old English sense",
+        "usage": "Used in Anglo-Saxon poetry and documents."
+      },
+      {
+        "period": "Middle English",
+        "form": "offensive",
+        "meaning": "transitional sense",
+        "usage": "Spelled with Middle English phonetics."
+      },
+      {
+        "period": "Modern English",
+        "form": "offensive",
+        "meaning": "An attack.",
+        "usage": "Common everyday word in Modern English."
+      }
+    ],
+    "ipa": "/əˈfɛnsɪv/"
+  },
+  "odyssey": {
+    "meaning": "An extended adventurous voyage.",
+    "synonyms": [
+      "odysseylike",
+      "analogous"
+    ],
+    "antonyms": [
+      "contrary",
+      "opposite"
+    ],
+    "examples": [
+      "The professor explained the significance of the word 'odyssey' in literature.",
+      "Her actions showed a clear demonstration of being 'odyssey'."
+    ],
+    "evolution": [
+      {
+        "period": "Proto-Germanic",
+        "form": "*odyssey",
+        "meaning": "primitive root",
+        "usage": "Reconstructed ancestral root spoken by early Germanic tribes."
+      },
+      {
+        "period": "Old English (ca. 450-1100)",
+        "form": "odyssey",
+        "meaning": "original Old English sense",
+        "usage": "Used in Anglo-Saxon poetry and documents."
+      },
+      {
+        "period": "Middle English",
+        "form": "odyssey",
+        "meaning": "transitional sense",
+        "usage": "Spelled with Middle English phonetics."
+      },
+      {
+        "period": "Modern English",
+        "form": "odyssey",
+        "meaning": "An extended adventurous voyage.",
+        "usage": "Common everyday word in Modern English."
+      }
+    ],
+    "ipa": "/ˈɒ.də.si/"
+  },
+  "odorous": {
+    "meaning": "Having a distinctive odor.",
+    "synonyms": [
+      "odorouslike",
+      "analogous"
+    ],
+    "antonyms": [
+      "contrary",
+      "opposite"
+    ],
+    "examples": [
+      "The table was piled with odorous lilies.",
+      "We observed a classic case of a 'odorous' phenomenon."
+    ],
+    "evolution": [
+      {
+        "period": "Proto-Germanic",
+        "form": "*odorous",
+        "meaning": "primitive root",
+        "usage": "Reconstructed ancestral root spoken by early Germanic tribes."
+      },
+      {
+        "period": "Old English (ca. 450-1100)",
+        "form": "odorous",
+        "meaning": "original Old English sense",
+        "usage": "Used in Anglo-Saxon poetry and documents."
+      },
+      {
+        "period": "Middle English",
+        "form": "odorous",
+        "meaning": "transitional sense",
+        "usage": "Spelled with Middle English phonetics."
+      },
+      {
+        "period": "Modern English",
+        "form": "odorous",
+        "meaning": "Having a distinctive odor.",
+        "usage": "Common everyday word in Modern English."
+      }
+    ],
+    "ipa": ""
+  },
+  "offhand": {
+    "meaning": "Without planning or thinking ahead.",
+    "synonyms": [
+      "off-the-cuff",
+      "impromptu",
+      "extemporaneous"
+    ],
+    "antonyms": [
+      "contrary",
+      "opposite"
+    ],
+    "examples": [
+      "She gave an offhand speech.",
+      "Offhand, I'd guess that that's a yellow-bellied sapsucker."
+    ],
+    "evolution": [
+      {
+        "period": "Proto-Germanic",
+        "form": "*offhand",
+        "meaning": "primitive root",
+        "usage": "Reconstructed ancestral root spoken by early Germanic tribes."
+      },
+      {
+        "period": "Old English (ca. 450-1100)",
+        "form": "offhand",
+        "meaning": "original Old English sense",
+        "usage": "Used in Anglo-Saxon poetry and documents."
+      },
+      {
+        "period": "Middle English",
+        "form": "offhand",
+        "meaning": "transitional sense",
+        "usage": "Spelled with Middle English phonetics."
+      },
+      {
+        "period": "Modern English",
+        "form": "offhand",
+        "meaning": "Without planning or thinking ahead.",
+        "usage": "Common everyday word in Modern English."
+      }
+    ],
+    "ipa": "/ˌɔfˈhænd/"
+  },
+  "ogle": {
+    "meaning": "An impertinent, flirtatious, amorous or covetous stare.",
+    "synonyms": [
+      "oglelike",
+      "analogous"
+    ],
+    "antonyms": [
+      "contrary",
+      "opposite"
+    ],
+    "examples": [
+      "The professor explained the significance of the word 'ogle' in literature.",
+      "Her actions showed a clear demonstration of being 'ogle'."
+    ],
+    "evolution": [
+      {
+        "period": "Proto-Germanic",
+        "form": "*ogle",
+        "meaning": "primitive root",
+        "usage": "Reconstructed ancestral root spoken by early Germanic tribes."
+      },
+      {
+        "period": "Old English (ca. 450-1100)",
+        "form": "ogle",
+        "meaning": "original Old English sense",
+        "usage": "Used in Anglo-Saxon poetry and documents."
+      },
+      {
+        "period": "Middle English",
+        "form": "ogle",
+        "meaning": "transitional sense",
+        "usage": "Spelled with Middle English phonetics."
+      },
+      {
+        "period": "Modern English",
+        "form": "ogle",
+        "meaning": "An impertinent, flirtatious, amorous or covetous stare.",
+        "usage": "Common everyday word in Modern English."
+      }
+    ],
+    "ipa": "/ˈəʊɡl̩/"
+  },
+  "officious": {
+    "meaning": "Obliging, attentive, eager to please.",
+    "synonyms": [
+      "officiouslike",
+      "analogous"
+    ],
+    "antonyms": [
+      "contrary",
+      "opposite"
+    ],
+    "examples": [
+      "The professor explained the significance of the word 'officious' in literature.",
+      "Her actions showed a clear demonstration of being 'officious'."
+    ],
+    "evolution": [
+      {
+        "period": "Latin (Classical Period)",
+        "form": "officius",
+        "meaning": "relating to officious",
+        "usage": "Used as a primary descriptor in Classical Latin literature."
+      },
+      {
+        "period": "Old French (12th century)",
+        "form": "officios",
+        "meaning": "having characteristics of officious",
+        "usage": "Adopted into French during the feudal era."
+      },
+      {
+        "period": "Middle English",
+        "form": "officious",
+        "meaning": "describing a state of officious",
+        "usage": "Integrated into English following the Norman Conquest."
+      },
+      {
+        "period": "Modern English",
+        "form": "officious",
+        "meaning": "Obliging, attentive, eager to please.",
+        "usage": "Used in formal, literary, and academic contexts today."
+      }
+    ],
+    "ipa": ""
+  },
+  "oligarchy": {
+    "meaning": "A government run by only a few, often the wealthy.",
+    "synonyms": [
+      "oligarchylike",
+      "analogous"
+    ],
+    "antonyms": [
+      "contrary",
+      "opposite"
+    ],
+    "examples": [
+      "The professor explained the significance of the word 'oligarchy' in literature.",
+      "Her actions showed a clear demonstration of being 'oligarchy'."
+    ],
+    "evolution": [
+      {
+        "period": "Proto-Germanic",
+        "form": "*oligarchy",
+        "meaning": "primitive root",
+        "usage": "Reconstructed ancestral root spoken by early Germanic tribes."
+      },
+      {
+        "period": "Old English (ca. 450-1100)",
+        "form": "oligarchy",
+        "meaning": "original Old English sense",
+        "usage": "Used in Anglo-Saxon poetry and documents."
+      },
+      {
+        "period": "Middle English",
+        "form": "oligarchy",
+        "meaning": "transitional sense",
+        "usage": "Spelled with Middle English phonetics."
+      },
+      {
+        "period": "Modern English",
+        "form": "oligarchy",
+        "meaning": "A government run by only a few, often the wealthy.",
+        "usage": "Common everyday word in Modern English."
+      }
+    ],
+    "ipa": "/ˈɒlɪˌɡɑːki/"
+  },
+  "olfactory": {
+    "meaning": "An olfactory organ.",
+    "synonyms": [
+      "olfactorylike",
+      "analogous"
+    ],
+    "antonyms": [
+      "contrary",
+      "opposite"
+    ],
+    "examples": [
+      "The professor explained the significance of the word 'olfactory' in literature.",
+      "Her actions showed a clear demonstration of being 'olfactory'."
+    ],
+    "evolution": [
+      {
+        "period": "Proto-Germanic",
+        "form": "*olfactory",
+        "meaning": "primitive root",
+        "usage": "Reconstructed ancestral root spoken by early Germanic tribes."
+      },
+      {
+        "period": "Old English (ca. 450-1100)",
+        "form": "olfactory",
+        "meaning": "original Old English sense",
+        "usage": "Used in Anglo-Saxon poetry and documents."
+      },
+      {
+        "period": "Middle English",
+        "form": "olfactory",
+        "meaning": "transitional sense",
+        "usage": "Spelled with Middle English phonetics."
+      },
+      {
+        "period": "Modern English",
+        "form": "olfactory",
+        "meaning": "An olfactory organ.",
+        "usage": "Common everyday word in Modern English."
+      }
+    ],
+    "ipa": ""
+  },
+  "omnipotent": {
+    "meaning": "An omnipotent being.",
+    "synonyms": [
+      "almighty",
+      "all-powerful"
+    ],
+    "antonyms": [
+      "contrary",
+      "opposite"
+    ],
+    "examples": [
+      "The professor explained the significance of the word 'omnipotent' in literature.",
+      "Her actions showed a clear demonstration of being 'omnipotent'."
+    ],
+    "evolution": [
+      {
+        "period": "Proto-Germanic",
+        "form": "*omnipotent",
+        "meaning": "primitive root",
+        "usage": "Reconstructed ancestral root spoken by early Germanic tribes."
+      },
+      {
+        "period": "Old English (ca. 450-1100)",
+        "form": "omnipotent",
+        "meaning": "original Old English sense",
+        "usage": "Used in Anglo-Saxon poetry and documents."
+      },
+      {
+        "period": "Middle English",
+        "form": "omnipotent",
+        "meaning": "transitional sense",
+        "usage": "Spelled with Middle English phonetics."
+      },
+      {
+        "period": "Modern English",
+        "form": "omnipotent",
+        "meaning": "An omnipotent being.",
+        "usage": "Common everyday word in Modern English."
+      }
+    ],
+    "ipa": "/ɒmˈnɪpətənt/"
+  },
+  "omnivorous": {
+    "meaning": "Having a diet which is neither exclusively carnivorous nor exclusively herbivorous.",
+    "synonyms": [
+      "omnivorouslike",
+      "analogous"
+    ],
+    "antonyms": [
+      "contrary",
+      "opposite"
+    ],
+    "examples": [
+      "The professor explained the significance of the word 'omnivorous' in literature.",
+      "Her actions showed a clear demonstration of being 'omnivorous'."
+    ],
+    "evolution": [
+      {
+        "period": "Proto-Germanic",
+        "form": "*omnivorous",
+        "meaning": "primitive root",
+        "usage": "Reconstructed ancestral root spoken by early Germanic tribes."
+      },
+      {
+        "period": "Old English (ca. 450-1100)",
+        "form": "omnivorous",
+        "meaning": "original Old English sense",
+        "usage": "Used in Anglo-Saxon poetry and documents."
+      },
+      {
+        "period": "Middle English",
+        "form": "omnivorous",
+        "meaning": "transitional sense",
+        "usage": "Spelled with Middle English phonetics."
+      },
+      {
+        "period": "Modern English",
+        "form": "omnivorous",
+        "meaning": "Having a diet which is neither exclusively carnivorous nor exclusively herbivorous.",
+        "usage": "Common everyday word in Modern English."
+      }
+    ],
+    "ipa": "/ɑmˈnɪ.vɝ.əs/"
+  },
+  "ominous": {
+    "meaning": "Of or pertaining to an omen or to omens; being or exhibiting an omen; significant.",
+    "synonyms": [
+      "portentous",
+      "threatening",
+      "sinister",
+      "inauspicious"
+    ],
+    "antonyms": [
+      "contrary",
+      "opposite"
+    ],
+    "examples": [
+      "California poll support for Jerry Brown's tax increases has ominous implications for U.S. taxpayers too Los Angeles Times Headline April 25, 2011",
+      "We observed a classic case of a 'ominous' phenomenon."
+    ],
+    "evolution": [
+      {
+        "period": "Proto-Germanic",
+        "form": "*ominous",
+        "meaning": "primitive root",
+        "usage": "Reconstructed ancestral root spoken by early Germanic tribes."
+      },
+      {
+        "period": "Old English (ca. 450-1100)",
+        "form": "ominous",
+        "meaning": "original Old English sense",
+        "usage": "Used in Anglo-Saxon poetry and documents."
+      },
+      {
+        "period": "Middle English",
+        "form": "ominous",
+        "meaning": "transitional sense",
+        "usage": "Spelled with Middle English phonetics."
+      },
+      {
+        "period": "Modern English",
+        "form": "ominous",
+        "meaning": "Of or pertaining to an omen or to omens; being or exhibiting an omen; significant.",
+        "usage": "Common everyday word in Modern English."
+      }
+    ],
+    "ipa": "/ˈɒmɪnəs/"
+  },
+  "onerous": {
+    "meaning": "Imposing or constituting a physical, mental, or figurative load which can be borne only with effort; burdensome.",
+    "synonyms": [
+      "demanding",
+      "taxing",
+      "difficult",
+      "wearing"
+    ],
+    "antonyms": [
+      "contrary",
+      "opposite"
+    ],
+    "examples": [
+      "The professor explained the significance of the word 'onerous' in literature.",
+      "Her actions showed a clear demonstration of being 'onerous'."
+    ],
+    "evolution": [
+      {
+        "period": "Latin",
+        "form": "onerosus",
+        "meaning": "historical form meaning 'onerous'",
+        "usage": "Used in administrative and classical Roman texts."
+      },
+      {
+        "period": "Old French",
+        "form": "onereus",
+        "meaning": "historical form meaning 'onerous'",
+        "usage": "Developed as a Romance dialect variant in medieval France."
+      },
+      {
+        "period": "Middle French",
+        "form": "onereux",
+        "meaning": "historical form meaning 'onerous'",
+        "usage": "Developed as a Romance dialect variant in medieval France."
+      },
+      {
+        "period": "Middle English",
+        "form": "onerous",
+        "meaning": "Imposing or constituting a physical, mental, or figurative load which can be borne only with effort; burdensome.",
+        "usage": "Reflected the shifting phonetics of English speakers."
+      }
+    ],
+    "ipa": "/ˈɒnəɹəs/"
+  },
+  "omnipresent": {
+    "meaning": "Being everywhere simultaneously.",
+    "synonyms": [
+      "omnipresentlike",
+      "analogous"
+    ],
+    "antonyms": [
+      "contrary",
+      "opposite"
+    ],
+    "examples": [
+      "The professor explained the significance of the word 'omnipresent' in literature.",
+      "Her actions showed a clear demonstration of being 'omnipresent'."
+    ],
+    "evolution": [
+      {
+        "period": "Proto-Germanic",
+        "form": "*omnipresent",
+        "meaning": "primitive root",
+        "usage": "Reconstructed ancestral root spoken by early Germanic tribes."
+      },
+      {
+        "period": "Old English (ca. 450-1100)",
+        "form": "omnipresent",
+        "meaning": "original Old English sense",
+        "usage": "Used in Anglo-Saxon poetry and documents."
+      },
+      {
+        "period": "Middle English",
+        "form": "omnipresent",
+        "meaning": "transitional sense",
+        "usage": "Spelled with Middle English phonetics."
+      },
+      {
+        "period": "Modern English",
+        "form": "omnipresent",
+        "meaning": "Being everywhere simultaneously.",
+        "usage": "Common everyday word in Modern English."
+      }
+    ],
+    "ipa": "/ɒmnɪˈpɹɛzn̩t/"
+  },
+  "omniscient": {
+    "meaning": "One who has total knowledge.",
+    "synonyms": [
+      "omniscientlike",
+      "analogous"
+    ],
+    "antonyms": [
+      "contrary",
+      "opposite"
+    ],
+    "examples": [
+      "The Abrahamic God is omniscient.",
+      "We observed a classic case of a 'omniscient' phenomenon."
+    ],
+    "evolution": [
+      {
+        "period": "Proto-Germanic",
+        "form": "*omniscient",
+        "meaning": "primitive root",
+        "usage": "Reconstructed ancestral root spoken by early Germanic tribes."
+      },
+      {
+        "period": "Old English (ca. 450-1100)",
+        "form": "omniscient",
+        "meaning": "original Old English sense",
+        "usage": "Used in Anglo-Saxon poetry and documents."
+      },
+      {
+        "period": "Middle English",
+        "form": "omniscient",
+        "meaning": "transitional sense",
+        "usage": "Spelled with Middle English phonetics."
+      },
+      {
+        "period": "Modern English",
+        "form": "omniscient",
+        "meaning": "One who has total knowledge.",
+        "usage": "Common everyday word in Modern English."
+      }
+    ],
+    "ipa": "/ɒmˈnɪsɪənt/"
+  },
+  "onset": {
+    "meaning": "An attack; an assault especially of an army.",
+    "synonyms": [
+      "storming",
+      "start",
+      "beginning"
+    ],
+    "antonyms": [
+      "contrary",
+      "opposite"
+    ],
+    "examples": [
+      "the onset of puberty",
+      "the onset of schizophrenia"
+    ],
+    "evolution": [
+      {
+        "period": "Proto-Germanic",
+        "form": "*onset",
+        "meaning": "primitive root",
+        "usage": "Reconstructed ancestral root spoken by early Germanic tribes."
+      },
+      {
+        "period": "Old English (ca. 450-1100)",
+        "form": "onset",
+        "meaning": "original Old English sense",
+        "usage": "Used in Anglo-Saxon poetry and documents."
+      },
+      {
+        "period": "Middle English",
+        "form": "onset",
+        "meaning": "transitional sense",
+        "usage": "Spelled with Middle English phonetics."
+      },
+      {
+        "period": "Modern English",
+        "form": "onset",
+        "meaning": "An attack; an assault especially of an army.",
+        "usage": "Common everyday word in Modern English."
+      }
+    ],
+    "ipa": "/ˈɒnˌsɛt/"
+  },
+  "opiate": {
+    "meaning": "A drug, hormone or other substance derived from or related to opium.",
+    "synonyms": [
+      "opiatelike",
+      "analogous"
+    ],
+    "antonyms": [
+      "contrary",
+      "opposite"
+    ],
+    "examples": [
+      "The professor explained the significance of the word 'opiate' in literature.",
+      "Her actions showed a clear demonstration of being 'opiate'."
+    ],
+    "evolution": [
+      {
+        "period": "Latin (Classical Period)",
+        "form": "opiateus",
+        "meaning": "relating to opiate",
+        "usage": "Used as a primary descriptor in Classical Latin literature."
+      },
+      {
+        "period": "Old French (12th century)",
+        "form": "opiate",
+        "meaning": "having characteristics of opiate",
+        "usage": "Adopted into French during the feudal era."
+      },
+      {
+        "period": "Middle English",
+        "form": "opiate",
+        "meaning": "describing a state of opiate",
+        "usage": "Integrated into English following the Norman Conquest."
+      },
+      {
+        "period": "Modern English",
+        "form": "opiate",
+        "meaning": "A drug, hormone or other substance derived from or related to opium.",
+        "usage": "Used in formal, literary, and academic contexts today."
+      }
+    ],
+    "ipa": "/ˈəʊpi.ət/"
+  },
+  "onus": {
+    "meaning": "A legal obligation.",
+    "synonyms": [
+      "onuslike",
+      "analogous"
+    ],
+    "antonyms": [
+      "contrary",
+      "opposite"
+    ],
+    "examples": [
+      "The onus is on those who disagree with my proposal to explain why.",
+      "The onus is on the landlord to make sure the walls are protected from mildew."
+    ],
+    "evolution": [
+      {
+        "period": "Proto-Germanic",
+        "form": "*onus",
+        "meaning": "primitive root",
+        "usage": "Reconstructed ancestral root spoken by early Germanic tribes."
+      },
+      {
+        "period": "Old English (ca. 450-1100)",
+        "form": "onus",
+        "meaning": "original Old English sense",
+        "usage": "Used in Anglo-Saxon poetry and documents."
+      },
+      {
+        "period": "Middle English",
+        "form": "onus",
+        "meaning": "transitional sense",
+        "usage": "Spelled with Middle English phonetics."
+      },
+      {
+        "period": "Modern English",
+        "form": "onus",
+        "meaning": "A legal obligation.",
+        "usage": "Common everyday word in Modern English."
+      }
+    ],
+    "ipa": "/ˈəʊnəs/"
+  },
+  "opalescent": {
+    "meaning": "Exhibiting a milky iridescence like that of an opal.",
+    "synonyms": [
+      "opalescentlike",
+      "analogous"
+    ],
+    "antonyms": [
+      "contrary",
+      "opposite"
+    ],
+    "examples": [
+      "The professor explained the significance of the word 'opalescent' in literature.",
+      "Her actions showed a clear demonstration of being 'opalescent'."
+    ],
+    "evolution": [
+      {
+        "period": "Proto-Germanic",
+        "form": "*opalescent",
+        "meaning": "primitive root",
+        "usage": "Reconstructed ancestral root spoken by early Germanic tribes."
+      },
+      {
+        "period": "Old English (ca. 450-1100)",
+        "form": "opalescent",
+        "meaning": "original Old English sense",
+        "usage": "Used in Anglo-Saxon poetry and documents."
+      },
+      {
+        "period": "Middle English",
+        "form": "opalescent",
+        "meaning": "transitional sense",
+        "usage": "Spelled with Middle English phonetics."
+      },
+      {
+        "period": "Modern English",
+        "form": "opalescent",
+        "meaning": "Exhibiting a milky iridescence like that of an opal.",
+        "usage": "Common everyday word in Modern English."
+      }
+    ],
+    "ipa": "/oʊpəlɛsənt/"
+  },
+  "opaque": {
+    "meaning": "An area of darkness; a place or region with no light.",
+    "synonyms": [
+      "cloud",
+      "blur"
+    ],
+    "antonyms": [
+      "clear",
+      "transparent",
+      "obvious",
+      "bright"
+    ],
+    "examples": [
+      "The professor explained the significance of the word 'opaque' in literature.",
+      "Her actions showed a clear demonstration of being 'opaque'."
+    ],
+    "evolution": [
+      {
+        "period": "Proto-Germanic",
+        "form": "*opaque",
+        "meaning": "primitive root",
+        "usage": "Reconstructed ancestral root spoken by early Germanic tribes."
+      },
+      {
+        "period": "Old English (ca. 450-1100)",
+        "form": "opaque",
+        "meaning": "original Old English sense",
+        "usage": "Used in Anglo-Saxon poetry and documents."
+      },
+      {
+        "period": "Middle English",
+        "form": "opaque",
+        "meaning": "transitional sense",
+        "usage": "Spelled with Middle English phonetics."
+      },
+      {
+        "period": "Modern English",
+        "form": "opaque",
+        "meaning": "An area of darkness; a place or region with no light.",
+        "usage": "Common everyday word in Modern English."
+      }
+    ],
+    "ipa": "/əʊˈpeɪk/"
+  },
+  "opportune": {
+    "meaning": "Suitable for some particular purpose.",
+    "synonyms": [
+      "seasonable",
+      "proper",
+      "timesome",
+      "appropriate"
+    ],
+    "antonyms": [
+      "unseasonable",
+      "improper",
+      "inopportune",
+      "untime"
+    ],
+    "examples": [
+      "This would be an opportune spot for a picnic.",
+      "The opportune arrival of the bus cut short the boring conversation."
+    ],
+    "evolution": [
+      {
+        "period": "Proto-Germanic",
+        "form": "*opportune",
+        "meaning": "primitive root",
+        "usage": "Reconstructed ancestral root spoken by early Germanic tribes."
+      },
+      {
+        "period": "Old English (ca. 450-1100)",
+        "form": "opportune",
+        "meaning": "original Old English sense",
+        "usage": "Used in Anglo-Saxon poetry and documents."
+      },
+      {
+        "period": "Middle English",
+        "form": "opportune",
+        "meaning": "transitional sense",
+        "usage": "Spelled with Middle English phonetics."
+      },
+      {
+        "period": "Modern English",
+        "form": "opportune",
+        "meaning": "Suitable for some particular purpose.",
+        "usage": "Common everyday word in Modern English."
+      }
+    ],
+    "ipa": ""
+  },
+  "optional": {
+    "meaning": "Something that is not compulsory, especially part of an academic course.",
+    "synonyms": [
+      "optionallike",
+      "analogous"
+    ],
+    "antonyms": [
+      "compulsory",
+      "obligatory",
+      "mandatory"
+    ],
+    "examples": [
+      "On that beach clothing is entirely optional.",
+      "We observed a classic case of a 'optional' phenomenon."
+    ],
+    "evolution": [
+      {
+        "period": "Proto-Germanic",
+        "form": "*optional",
+        "meaning": "primitive root",
+        "usage": "Reconstructed ancestral root spoken by early Germanic tribes."
+      },
+      {
+        "period": "Old English (ca. 450-1100)",
+        "form": "optional",
+        "meaning": "original Old English sense",
+        "usage": "Used in Anglo-Saxon poetry and documents."
+      },
+      {
+        "period": "Middle English",
+        "form": "optional",
+        "meaning": "transitional sense",
+        "usage": "Spelled with Middle English phonetics."
+      },
+      {
+        "period": "Modern English",
+        "form": "optional",
+        "meaning": "Something that is not compulsory, especially part of an academic course.",
+        "usage": "Common everyday word in Modern English."
+      }
+    ],
+    "ipa": "/ˈɒp.ʃə.nəl/"
+  },
+  "opportunist": {
+    "meaning": "Someone who takes advantage of any opportunity to advance their own situation, placing expediency above principle.",
+    "synonyms": [
+      "opportunistlike",
+      "analogous"
+    ],
+    "antonyms": [
+      "contrary",
+      "opposite"
+    ],
+    "examples": [
+      "The professor explained the significance of the word 'opportunist' in literature.",
+      "Her actions showed a clear demonstration of being 'opportunist'."
+    ],
+    "evolution": [
+      {
+        "period": "Ancient Greek (Classical)",
+        "form": "opportunist",
+        "meaning": "relating to opportunist",
+        "usage": "Used in philosophical and scientific discourses in ancient Greece."
+      },
+      {
+        "period": "Late Latin",
+        "form": "opportunist",
+        "meaning": "pertaining to opportunist",
+        "usage": "Borrowed into Latin for technical descriptions."
+      },
+      {
+        "period": "Middle English",
+        "form": "opportunist",
+        "meaning": "related to science/motion",
+        "usage": "Entered English vocabulary through scholarly translations."
+      },
+      {
+        "period": "Modern English",
+        "form": "opportunist",
+        "meaning": "Someone who takes advantage of any opportunity to advance their own situation, placing expediency above principle.",
+        "usage": "Standard scientific and descriptive term."
+      }
+    ],
+    "ipa": ""
+  },
+  "opus": {
+    "meaning": "A work of music or set of works with a specified rank in an ordering of a composer's complete published works.",
+    "synonyms": [
+      "mōlēs",
+      "paupertās",
+      "dēsīderium",
+      "necessitās"
+    ],
+    "antonyms": [
+      "contrary",
+      "opposite"
+    ],
+    "examples": [
+      "The painter's last opus was a dedication to all things living, in a surprising contrast to all of his prior work.",
+      "Beethoven's opus eighteen quartets are considered by many to be the beginning of the Romantic era."
+    ],
+    "evolution": [
+      {
+        "period": "Latin (Classical Period)",
+        "form": "opusus",
+        "meaning": "relating to opus",
+        "usage": "Used as a primary descriptor in Classical Latin literature."
+      },
+      {
+        "period": "Old French (12th century)",
+        "form": "opus",
+        "meaning": "having characteristics of opus",
+        "usage": "Adopted into French during the feudal era."
+      },
+      {
+        "period": "Middle English",
+        "form": "opus",
+        "meaning": "describing a state of opus",
+        "usage": "Integrated into English following the Norman Conquest."
+      },
+      {
+        "period": "Modern English",
+        "form": "opus",
+        "meaning": "A work of music or set of works with a specified rank in an ordering of a composer's complete published works.",
+        "usage": "Used in formal, literary, and academic contexts today."
+      }
+    ],
+    "ipa": "/ˈəʊpəs/"
+  },
+  "optician": {
+    "meaning": "A person who makes or dispenses lenses, spectacles.",
+    "synonyms": [
+      "opticianlike",
+      "analogous"
+    ],
+    "antonyms": [
+      "contrary",
+      "opposite"
+    ],
+    "examples": [
+      "The professor explained the significance of the word 'optician' in literature.",
+      "Her actions showed a clear demonstration of being 'optician'."
+    ],
+    "evolution": [
+      {
+        "period": "Proto-Germanic",
+        "form": "*optician",
+        "meaning": "primitive root",
+        "usage": "Reconstructed ancestral root spoken by early Germanic tribes."
+      },
+      {
+        "period": "Old English (ca. 450-1100)",
+        "form": "optician",
+        "meaning": "original Old English sense",
+        "usage": "Used in Anglo-Saxon poetry and documents."
+      },
+      {
+        "period": "Middle English",
+        "form": "optician",
+        "meaning": "transitional sense",
+        "usage": "Spelled with Middle English phonetics."
+      },
+      {
+        "period": "Modern English",
+        "form": "optician",
+        "meaning": "A person who makes or dispenses lenses, spectacles.",
+        "usage": "Common everyday word in Modern English."
+      }
+    ],
+    "ipa": ""
+  },
+  "optimist": {
+    "meaning": "A person who expects a favourable outcome.",
+    "synonyms": [
+      "optimistlike",
+      "analogous"
+    ],
+    "antonyms": [
+      "contrary",
+      "opposite"
+    ],
+    "examples": [
+      "The professor explained the significance of the word 'optimist' in literature.",
+      "Her actions showed a clear demonstration of being 'optimist'."
+    ],
+    "evolution": [
+      {
+        "period": "Ancient Greek (Classical)",
+        "form": "optimist",
+        "meaning": "relating to optimist",
+        "usage": "Used in philosophical and scientific discourses in ancient Greece."
+      },
+      {
+        "period": "Late Latin",
+        "form": "optimist",
+        "meaning": "pertaining to optimist",
+        "usage": "Borrowed into Latin for technical descriptions."
+      },
+      {
+        "period": "Middle English",
+        "form": "optimist",
+        "meaning": "related to science/motion",
+        "usage": "Entered English vocabulary through scholarly translations."
+      },
+      {
+        "period": "Modern English",
+        "form": "optimist",
+        "meaning": "A person who expects a favourable outcome.",
+        "usage": "Standard scientific and descriptive term."
+      }
+    ],
+    "ipa": "/ˈɒptɪmɪst/"
+  },
+  "opulence": {
+    "meaning": "Wealth.",
+    "synonyms": [
+      "opulencelike",
+      "analogous"
+    ],
+    "antonyms": [
+      "contrary",
+      "opposite"
+    ],
+    "examples": [
+      "The professor explained the significance of the word 'opulence' in literature.",
+      "Her actions showed a clear demonstration of being 'opulence'."
+    ],
+    "evolution": [
+      {
+        "period": "Latin (Classical Period)",
+        "form": "opulenceus",
+        "meaning": "relating to opulence",
+        "usage": "Used as a primary descriptor in Classical Latin literature."
+      },
+      {
+        "period": "Old French (12th century)",
+        "form": "opulence",
+        "meaning": "having characteristics of opulence",
+        "usage": "Adopted into French during the feudal era."
+      },
+      {
+        "period": "Middle English",
+        "form": "opulence",
+        "meaning": "describing a state of opulence",
+        "usage": "Integrated into English following the Norman Conquest."
+      },
+      {
+        "period": "Modern English",
+        "form": "opulence",
+        "meaning": "Wealth.",
+        "usage": "Used in formal, literary, and academic contexts today."
+      }
+    ],
+    "ipa": ""
+  },
+  "optimum": {
+    "meaning": "The best or most favorable condition, or the greatest amount or degree possible under specific sets of comparable circumstances.",
+    "synonyms": [
+      "ideal",
+      "optimal",
+      "best"
+    ],
+    "antonyms": [
+      "contrary",
+      "opposite"
+    ],
+    "examples": [
+      "The professor explained the significance of the word 'optimum' in literature.",
+      "Her actions showed a clear demonstration of being 'optimum'."
+    ],
+    "evolution": [
+      {
+        "period": "Proto-Germanic",
+        "form": "*optimum",
+        "meaning": "primitive root",
+        "usage": "Reconstructed ancestral root spoken by early Germanic tribes."
+      },
+      {
+        "period": "Old English (ca. 450-1100)",
+        "form": "optimum",
+        "meaning": "original Old English sense",
+        "usage": "Used in Anglo-Saxon poetry and documents."
+      },
+      {
+        "period": "Middle English",
+        "form": "optimum",
+        "meaning": "transitional sense",
+        "usage": "Spelled with Middle English phonetics."
+      },
+      {
+        "period": "Modern English",
+        "form": "optimum",
+        "meaning": "The best or most favorable condition, or the greatest amount or degree possible under specific sets of comparable circumstances.",
+        "usage": "Common everyday word in Modern English."
+      }
+    ],
+    "ipa": "/ˈɒptɪməm/"
+  },
+  "ordeal": {
+    "meaning": "A painful or trying experience.",
+    "synonyms": [
+      "ordeallike",
+      "analogous"
+    ],
+    "antonyms": [
+      "contrary",
+      "opposite"
+    ],
+    "examples": [
+      "The professor explained the significance of the word 'ordeal' in literature.",
+      "Her actions showed a clear demonstration of being 'ordeal'."
+    ],
+    "evolution": [
+      {
+        "period": "Latin (Classical Period)",
+        "form": "ordealus",
+        "meaning": "relating to ordeal",
+        "usage": "Used as a primary descriptor in Classical Latin literature."
+      },
+      {
+        "period": "Old French (12th century)",
+        "form": "ordeal",
+        "meaning": "having characteristics of ordeal",
+        "usage": "Adopted into French during the feudal era."
+      },
+      {
+        "period": "Middle English",
+        "form": "ordeal",
+        "meaning": "describing a state of ordeal",
+        "usage": "Integrated into English following the Norman Conquest."
+      },
+      {
+        "period": "Modern English",
+        "form": "ordeal",
+        "meaning": "A painful or trying experience.",
+        "usage": "Used in formal, literary, and academic contexts today."
+      }
+    ],
+    "ipa": "/ɔːˈdiːl/"
+  },
+  "orator": {
+    "meaning": "Someone who orates or delivers an oration.",
+    "synonyms": [
+      "oratorlike",
+      "analogous"
+    ],
+    "antonyms": [
+      "contrary",
+      "opposite"
+    ],
+    "examples": [
+      "The professor explained the significance of the word 'orator' in literature.",
+      "Her actions showed a clear demonstration of being 'orator'."
+    ],
+    "evolution": [
+      {
+        "period": "Proto-Germanic",
+        "form": "*orator",
+        "meaning": "primitive root",
+        "usage": "Reconstructed ancestral root spoken by early Germanic tribes."
+      },
+      {
+        "period": "Old English (ca. 450-1100)",
+        "form": "orator",
+        "meaning": "original Old English sense",
+        "usage": "Used in Anglo-Saxon poetry and documents."
+      },
+      {
+        "period": "Middle English",
+        "form": "orator",
+        "meaning": "transitional sense",
+        "usage": "Spelled with Middle English phonetics."
+      },
+      {
+        "period": "Modern English",
+        "form": "orator",
+        "meaning": "Someone who orates or delivers an oration.",
+        "usage": "Common everyday word in Modern English."
+      }
+    ],
+    "ipa": "/ˈɒ.ɹə.tə(ɹ)/"
+  },
+  "oracular": {
+    "meaning": "Of or relating to an oracle.",
+    "synonyms": [
+      "oracularlike",
+      "analogous"
+    ],
+    "antonyms": [
+      "contrary",
+      "opposite"
+    ],
+    "examples": [
+      "The professor explained the significance of the word 'oracular' in literature.",
+      "Her actions showed a clear demonstration of being 'oracular'."
+    ],
+    "evolution": [
+      {
+        "period": "Proto-Germanic",
+        "form": "*oracular",
+        "meaning": "primitive root",
+        "usage": "Reconstructed ancestral root spoken by early Germanic tribes."
+      },
+      {
+        "period": "Old English (ca. 450-1100)",
+        "form": "oracular",
+        "meaning": "original Old English sense",
+        "usage": "Used in Anglo-Saxon poetry and documents."
+      },
+      {
+        "period": "Middle English",
+        "form": "oracular",
+        "meaning": "transitional sense",
+        "usage": "Spelled with Middle English phonetics."
+      },
+      {
+        "period": "Modern English",
+        "form": "oracular",
+        "meaning": "Of or relating to an oracle.",
+        "usage": "Common everyday word in Modern English."
+      }
+    ],
+    "ipa": "/ɒɹˈæk.juː.lə/"
+  },
+  "orient": {
+    "meaning": "Usually preceded by the: a region or a part of the world to the east of a certain place; countries of asia, the east (especially east asia).",
+    "synonyms": [
+      "orientate",
+      "orient red"
+    ],
+    "antonyms": [
+      "disorientate",
+      "occidental",
+      "disorient",
+      "occident"
+    ],
+    "examples": [
+      "We will orient our campaign to the youth who are often disinterested.",
+      "The workers oriented all the signs to face the road."
+    ],
+    "evolution": [
+      {
+        "period": "Latin (Classical Period)",
+        "form": "orientus",
+        "meaning": "relating to orient",
+        "usage": "Used as a primary descriptor in Classical Latin literature."
+      },
+      {
+        "period": "Old French (12th century)",
+        "form": "orient",
+        "meaning": "having characteristics of orient",
+        "usage": "Adopted into French during the feudal era."
+      },
+      {
+        "period": "Middle English",
+        "form": "orient",
+        "meaning": "describing a state of orient",
+        "usage": "Integrated into English following the Norman Conquest."
+      },
+      {
+        "period": "Modern English",
+        "form": "orient",
+        "meaning": "Usually preceded by the: a region or a part of the world to the east of a certain place; countries of asia, the east (especially east asia).",
+        "usage": "Used in formal, literary, and academic contexts today."
+      }
+    ],
+    "ipa": "/ˈɔː.ɹɪ.ənt/"
+  },
+  "ordain": {
+    "meaning": "To prearrange unalterably.",
+    "synonyms": [
+      "ordainlike",
+      "analogous"
+    ],
+    "antonyms": [
+      "contrary",
+      "opposite"
+    ],
+    "examples": [
+      "The professor explained the significance of the word 'ordain' in literature.",
+      "Her actions showed a clear demonstration of being 'ordain'."
+    ],
+    "evolution": [
+      {
+        "period": "Proto-Germanic",
+        "form": "*ordain",
+        "meaning": "primitive root",
+        "usage": "Reconstructed ancestral root spoken by early Germanic tribes."
+      },
+      {
+        "period": "Old English (ca. 450-1100)",
+        "form": "ordain",
+        "meaning": "original Old English sense",
+        "usage": "Used in Anglo-Saxon poetry and documents."
+      },
+      {
+        "period": "Middle English",
+        "form": "ordain",
+        "meaning": "transitional sense",
+        "usage": "Spelled with Middle English phonetics."
+      },
+      {
+        "period": "Modern English",
+        "form": "ordain",
+        "meaning": "To prearrange unalterably.",
+        "usage": "Common everyday word in Modern English."
+      }
+    ],
+    "ipa": "/ɔːˈdeɪn/"
+  },
+  "ordinance": {
+    "meaning": "A local law.",
+    "synonyms": [
+      "ordinancelike",
+      "analogous"
+    ],
+    "antonyms": [
+      "contrary",
+      "opposite"
+    ],
+    "examples": [
+      "The professor explained the significance of the word 'ordinance' in literature.",
+      "Her actions showed a clear demonstration of being 'ordinance'."
+    ],
+    "evolution": [
+      {
+        "period": "Latin (Classical Period)",
+        "form": "ordinanceus",
+        "meaning": "relating to ordinance",
+        "usage": "Used as a primary descriptor in Classical Latin literature."
+      },
+      {
+        "period": "Old French (12th century)",
+        "form": "ordinance",
+        "meaning": "having characteristics of ordinance",
+        "usage": "Adopted into French during the feudal era."
+      },
+      {
+        "period": "Middle English",
+        "form": "ordinance",
+        "meaning": "describing a state of ordinance",
+        "usage": "Integrated into English following the Norman Conquest."
+      },
+      {
+        "period": "Modern English",
+        "form": "ordinance",
+        "meaning": "A local law.",
+        "usage": "Used in formal, literary, and academic contexts today."
+      }
+    ],
+    "ipa": "/ˈɔːd.nənts/"
+  },
+  "ordination": {
+    "meaning": "The act of ordaining or the state of being ordained.",
+    "synonyms": [
+      "ordinationlike",
+      "analogous"
+    ],
+    "antonyms": [
+      "contrary",
+      "opposite"
+    ],
+    "examples": [
+      "The professor explained the significance of the word 'ordination' in literature.",
+      "Her actions showed a clear demonstration of being 'ordination'."
+    ],
+    "evolution": [
+      {
+        "period": "Latin (Classical Period)",
+        "form": "ordinationus",
+        "meaning": "relating to ordination",
+        "usage": "Used as a primary descriptor in Classical Latin literature."
+      },
+      {
+        "period": "Old French (12th century)",
+        "form": "ordination",
+        "meaning": "having characteristics of ordination",
+        "usage": "Adopted into French during the feudal era."
+      },
+      {
+        "period": "Middle English",
+        "form": "ordination",
+        "meaning": "describing a state of ordination",
+        "usage": "Integrated into English following the Norman Conquest."
+      },
+      {
+        "period": "Modern English",
+        "form": "ordination",
+        "meaning": "The act of ordaining or the state of being ordained.",
+        "usage": "Used in formal, literary, and academic contexts today."
+      }
+    ],
+    "ipa": ""
+  },
+  "orgy": {
+    "meaning": "Originally, secret rites or ceremonies, typically involving riotous and dissolute behaviour, including dancing, drunkenness and indiscriminate sexual activity, undertaken in honour of various pagan gods or goddesses (such as attis, bacchus, ceres, dionysus, osiris, etc).",
+    "synonyms": [
+      "orgylike",
+      "analogous"
+    ],
+    "antonyms": [
+      "contrary",
+      "opposite"
+    ],
+    "examples": [
+      "The professor explained the significance of the word 'orgy' in literature.",
+      "Her actions showed a clear demonstration of being 'orgy'."
+    ],
+    "evolution": [
+      {
+        "period": "Proto-Germanic",
+        "form": "*orgy",
+        "meaning": "primitive root",
+        "usage": "Reconstructed ancestral root spoken by early Germanic tribes."
+      },
+      {
+        "period": "Old English (ca. 450-1100)",
+        "form": "orgy",
+        "meaning": "original Old English sense",
+        "usage": "Used in Anglo-Saxon poetry and documents."
+      },
+      {
+        "period": "Middle English",
+        "form": "orgy",
+        "meaning": "transitional sense",
+        "usage": "Spelled with Middle English phonetics."
+      },
+      {
+        "period": "Modern English",
+        "form": "orgy",
+        "meaning": "Originally, secret rites or ceremonies, typically involving riotous and dissolute behaviour, including dancing, drunkenness and indiscriminate sexual activity, undertaken in honour of various pagan gods or goddesses (such as attis, bacchus, ceres, dionysus, osiris, etc).",
+        "usage": "Common everyday word in Modern English."
+      }
+    ],
+    "ipa": "/ˈɔː.dʒi/"
+  },
+  "ornithology": {
+    "meaning": "The branch of zoology that deals with the scientific study of birds.",
+    "synonyms": [
+      "birdlore",
+      "fowl-lore"
+    ],
+    "antonyms": [
+      "contrary",
+      "opposite"
+    ],
+    "examples": [
+      "The professor explained the significance of the word 'ornithology' in literature.",
+      "Her actions showed a clear demonstration of being 'ornithology'."
+    ],
+    "evolution": [
+      {
+        "period": "Latin (Classical Period)",
+        "form": "ornithologyus",
+        "meaning": "relating to ornithology",
+        "usage": "Used as a primary descriptor in Classical Latin literature."
+      },
+      {
+        "period": "Old French (12th century)",
+        "form": "ornithology",
+        "meaning": "having characteristics of ornithology",
+        "usage": "Adopted into French during the feudal era."
+      },
+      {
+        "period": "Middle English",
+        "form": "ornithology",
+        "meaning": "describing a state of ornithology",
+        "usage": "Integrated into English following the Norman Conquest."
+      },
+      {
+        "period": "Modern English",
+        "form": "ornithology",
+        "meaning": "The branch of zoology that deals with the scientific study of birds.",
+        "usage": "Used in formal, literary, and academic contexts today."
+      }
+    ],
+    "ipa": "/ˌɔːnɪˈθɒlədʒi/"
+  },
+  "ornate": {
+    "meaning": "To adorn; to honour.",
+    "synonyms": [
+      "ornatelike",
+      "analogous"
+    ],
+    "antonyms": [
+      "contrary",
+      "opposite"
+    ],
+    "examples": [
+      "The professor explained the significance of the word 'ornate' in literature.",
+      "Her actions showed a clear demonstration of being 'ornate'."
+    ],
+    "evolution": [
+      {
+        "period": "Latin (Classical Period)",
+        "form": "ornateus",
+        "meaning": "relating to ornate",
+        "usage": "Used as a primary descriptor in Classical Latin literature."
+      },
+      {
+        "period": "Old French (12th century)",
+        "form": "ornate",
+        "meaning": "having characteristics of ornate",
+        "usage": "Adopted into French during the feudal era."
+      },
+      {
+        "period": "Middle English",
+        "form": "ornate",
+        "meaning": "describing a state of ornate",
+        "usage": "Integrated into English following the Norman Conquest."
+      },
+      {
+        "period": "Modern English",
+        "form": "ornate",
+        "meaning": "To adorn; to honour.",
+        "usage": "Used in formal, literary, and academic contexts today."
+      }
+    ],
+    "ipa": ""
+  },
+  "orientation": {
+    "meaning": "The determination of the relative position of something or someone.",
+    "synonyms": [
+      "orientationlike",
+      "analogous"
+    ],
+    "antonyms": [
+      "contrary",
+      "opposite"
+    ],
+    "examples": [
+      "The homing instinct in pigeons is an example of orientation.",
+      "We observed a classic case of a 'orientation' phenomenon."
+    ],
+    "evolution": [
+      {
+        "period": "Latin (Classical Period)",
+        "form": "orientationus",
+        "meaning": "relating to orientation",
+        "usage": "Used as a primary descriptor in Classical Latin literature."
+      },
+      {
+        "period": "Old French (12th century)",
+        "form": "orientation",
+        "meaning": "having characteristics of orientation",
+        "usage": "Adopted into French during the feudal era."
+      },
+      {
+        "period": "Middle English",
+        "form": "orientation",
+        "meaning": "describing a state of orientation",
+        "usage": "Integrated into English following the Norman Conquest."
+      },
+      {
+        "period": "Modern English",
+        "form": "orientation",
+        "meaning": "The determination of the relative position of something or someone.",
+        "usage": "Used in formal, literary, and academic contexts today."
+      }
+    ],
+    "ipa": "/ˌɔɹiɛnˈteɪʃən/"
+  },
+  "oscillate": {
+    "meaning": "To swing back and forth, especially if with a regular rhythm.",
+    "synonyms": [
+      "oscillatelike",
+      "analogous"
+    ],
+    "antonyms": [
+      "contrary",
+      "opposite"
+    ],
+    "examples": [
+      "A pendulum oscillates slower as it gets longer.",
+      "The mood for change oscillated from day to day."
+    ],
+    "evolution": [
+      {
+        "period": "Latin (Classical Period)",
+        "form": "oscillateus",
+        "meaning": "relating to oscillate",
+        "usage": "Used as a primary descriptor in Classical Latin literature."
+      },
+      {
+        "period": "Old French (12th century)",
+        "form": "oscillate",
+        "meaning": "having characteristics of oscillate",
+        "usage": "Adopted into French during the feudal era."
+      },
+      {
+        "period": "Middle English",
+        "form": "oscillate",
+        "meaning": "describing a state of oscillate",
+        "usage": "Integrated into English following the Norman Conquest."
+      },
+      {
+        "period": "Modern English",
+        "form": "oscillate",
+        "meaning": "To swing back and forth, especially if with a regular rhythm.",
+        "usage": "Used in formal, literary, and academic contexts today."
+      }
+    ],
+    "ipa": "/ˈɑsɪleɪt/"
+  },
+  "ostensible": {
+    "meaning": "Apparent, evident; meant for open display.",
+    "synonyms": [
+      "ostensiblelike",
+      "analogous"
+    ],
+    "antonyms": [
+      "contrary",
+      "opposite"
+    ],
+    "examples": [
+      "The ostensible reason for his visit to New York was to see his mother, but the real reason was to get to the Yankees game the next day.",
+      "We observed a classic case of a 'ostensible' phenomenon."
+    ],
+    "evolution": [
+      {
+        "period": "Latin (Classical Period)",
+        "form": "ostensibleus",
+        "meaning": "relating to ostensible",
+        "usage": "Used as a primary descriptor in Classical Latin literature."
+      },
+      {
+        "period": "Old French (12th century)",
+        "form": "ostensible",
+        "meaning": "having characteristics of ostensible",
+        "usage": "Adopted into French during the feudal era."
+      },
+      {
+        "period": "Middle English",
+        "form": "ostensible",
+        "meaning": "describing a state of ostensible",
+        "usage": "Integrated into English following the Norman Conquest."
+      },
+      {
+        "period": "Modern English",
+        "form": "ostensible",
+        "meaning": "Apparent, evident; meant for open display.",
+        "usage": "Used in formal, literary, and academic contexts today."
+      }
+    ],
+    "ipa": "/ɒˈstɛns.ɪ.bəl/"
+  },
+  "ossify": {
+    "meaning": "To transform (or cause to transform) from a softer animal substance into bone; particularly the processes of growth in humans and animals.",
+    "synonyms": [
+      "ossifylike",
+      "analogous"
+    ],
+    "antonyms": [
+      "contrary",
+      "opposite"
+    ],
+    "examples": [
+      "The professor explained the significance of the word 'ossify' in literature.",
+      "Her actions showed a clear demonstration of being 'ossify'."
+    ],
+    "evolution": [
+      {
+        "period": "Latin (Classical Period)",
+        "form": "ossifyus",
+        "meaning": "relating to ossify",
+        "usage": "Used as a primary descriptor in Classical Latin literature."
+      },
+      {
+        "period": "Old French (12th century)",
+        "form": "ossify",
+        "meaning": "having characteristics of ossify",
+        "usage": "Adopted into French during the feudal era."
+      },
+      {
+        "period": "Middle English",
+        "form": "ossify",
+        "meaning": "describing a state of ossify",
+        "usage": "Integrated into English following the Norman Conquest."
+      },
+      {
+        "period": "Modern English",
+        "form": "ossify",
+        "meaning": "To transform (or cause to transform) from a softer animal substance into bone; particularly the processes of growth in humans and animals.",
+        "usage": "Used in formal, literary, and academic contexts today."
+      }
+    ],
+    "ipa": "/ˈɒs.ɪ.faɪ/"
+  },
+  "oust": {
+    "meaning": "To expel; to remove.",
+    "synonyms": [
+      "exclude",
+      "dismiss",
+      "eject",
+      "banish"
+    ],
+    "antonyms": [
+      "accept",
+      "shelter",
+      "harbor"
+    ],
+    "examples": [
+      "The protesters became so noisy that they were finally ousted from the meeting.",
+      "We observed a classic case of a 'oust' phenomenon."
+    ],
+    "evolution": [
+      {
+        "period": "Latin (Classical Period)",
+        "form": "oustus",
+        "meaning": "relating to oust",
+        "usage": "Used as a primary descriptor in Classical Latin literature."
+      },
+      {
+        "period": "Old French (12th century)",
+        "form": "oust",
+        "meaning": "having characteristics of oust",
+        "usage": "Adopted into French during the feudal era."
+      },
+      {
+        "period": "Middle English",
+        "form": "oust",
+        "meaning": "describing a state of oust",
+        "usage": "Integrated into English following the Norman Conquest."
+      },
+      {
+        "period": "Modern English",
+        "form": "oust",
+        "meaning": "To expel; to remove.",
+        "usage": "Used in formal, literary, and academic contexts today."
+      }
+    ],
+    "ipa": "/aʊst/"
+  },
+  "outlandish": {
+    "meaning": "Bizarre, strange.",
+    "synonyms": [
+      "non-native",
+      "in the boondocks",
+      "see thesaurus:strange"
+    ],
+    "antonyms": [
+      "contrary",
+      "opposite"
+    ],
+    "examples": [
+      "The rock star wore black with outlandish pink and green spiked hair.",
+      "We observed a classic case of a 'outlandish' phenomenon."
+    ],
+    "evolution": [
+      {
+        "period": "Proto-Indo-European",
+        "form": "*lend",
+        "meaning": "historical form meaning 'outlandish'",
+        "usage": "Used as the standard form in Proto-Indo-European."
+      },
+      {
+        "period": "Proto-Indo-European",
+        "form": "*úd",
+        "meaning": "historical form meaning 'outlandish'",
+        "usage": "Used as the standard form in Proto-Indo-European."
+      },
+      {
+        "period": "Proto-Germanic",
+        "form": "*ūtlandiskaz",
+        "meaning": "historical form meaning 'outlandish'",
+        "usage": "Used as the standard form in Proto-Germanic."
+      },
+      {
+        "period": "Proto-West Germanic",
+        "form": "*ūtlandisk",
+        "meaning": "historical form meaning 'outlandish'",
+        "usage": "Used as the standard form in Proto-West Germanic."
+      },
+      {
+        "period": "Old English",
+        "form": "ūtlendisċ",
+        "meaning": "Bizarre, strange.",
+        "usage": "Reflected the shifting phonetics of English speakers."
+      }
+    ],
+    "ipa": "/ˌaʊtˈlændɪʃ/"
+  },
+  "orthodox": {
+    "meaning": "Conforming to the accepted, established, or traditional doctrines of a given faith, religion, or ideology.",
+    "synonyms": [
+      "conservative",
+      "conventional",
+      "homodox (less common)"
+    ],
+    "antonyms": [
+      "recalcitrant",
+      "liberal",
+      "outlandish",
+      "heterodox"
+    ],
+    "examples": [
+      "The professor explained the significance of the word 'orthodox' in literature.",
+      "Her actions showed a clear demonstration of being 'orthodox'."
+    ],
+    "evolution": [
+      {
+        "period": "Latin (Classical Period)",
+        "form": "orthodoxus",
+        "meaning": "relating to orthodox",
+        "usage": "Used as a primary descriptor in Classical Latin literature."
+      },
+      {
+        "period": "Old French (12th century)",
+        "form": "orthodox",
+        "meaning": "having characteristics of orthodox",
+        "usage": "Adopted into French during the feudal era."
+      },
+      {
+        "period": "Middle English",
+        "form": "orthodox",
+        "meaning": "describing a state of orthodox",
+        "usage": "Integrated into English following the Norman Conquest."
+      },
+      {
+        "period": "Modern English",
+        "form": "orthodox",
+        "meaning": "Conforming to the accepted, established, or traditional doctrines of a given faith, religion, or ideology.",
+        "usage": "Used in formal, literary, and academic contexts today."
+      }
+    ],
+    "ipa": "/ˈɔːθədɒks/"
+  },
+  "ornithologist": {
+    "meaning": "A person who studies or practices ornithology.",
+    "synonyms": [
+      "ornithologistlike",
+      "analogous"
+    ],
+    "antonyms": [
+      "contrary",
+      "opposite"
+    ],
+    "examples": [
+      "The professor explained the significance of the word 'ornithologist' in literature.",
+      "Her actions showed a clear demonstration of being 'ornithologist'."
+    ],
+    "evolution": [
+      {
+        "period": "Ancient Greek (Classical)",
+        "form": "ornithologist",
+        "meaning": "relating to ornithologist",
+        "usage": "Used in philosophical and scientific discourses in ancient Greece."
+      },
+      {
+        "period": "Late Latin",
+        "form": "ornithologist",
+        "meaning": "pertaining to ornithologist",
+        "usage": "Borrowed into Latin for technical descriptions."
+      },
+      {
+        "period": "Middle English",
+        "form": "ornithologist",
+        "meaning": "related to science/motion",
+        "usage": "Entered English vocabulary through scholarly translations."
+      },
+      {
+        "period": "Modern English",
+        "form": "ornithologist",
+        "meaning": "A person who studies or practices ornithology.",
+        "usage": "Standard scientific and descriptive term."
+      }
+    ],
+    "ipa": "/ˌɔːnɪˈθɒləd͡ʒɪst/"
+  },
+  "ostracize": {
+    "meaning": "To ban a person from a city for five or ten years through the procedure of ostracism.",
+    "synonyms": [
+      "blackball",
+      "cut someone dead",
+      "give someone the cold shoulder",
+      "send to coventry"
+    ],
+    "antonyms": [
+      "contrary",
+      "opposite"
+    ],
+    "examples": [
+      "The professor explained the significance of the word 'ostracize' in literature.",
+      "Her actions showed a clear demonstration of being 'ostracize'."
+    ],
+    "evolution": [
+      {
+        "period": "Ancient Greek (Classical)",
+        "form": "ostracize",
+        "meaning": "relating to ostracize",
+        "usage": "Used in philosophical and scientific discourses in ancient Greece."
+      },
+      {
+        "period": "Late Latin",
+        "form": "ostracize",
+        "meaning": "pertaining to ostracize",
+        "usage": "Borrowed into Latin for technical descriptions."
+      },
+      {
+        "period": "Middle English",
+        "form": "ostracize",
+        "meaning": "related to science/motion",
+        "usage": "Entered English vocabulary through scholarly translations."
+      },
+      {
+        "period": "Modern English",
+        "form": "ostracize",
+        "meaning": "To ban a person from a city for five or ten years through the procedure of ostracism.",
+        "usage": "Standard scientific and descriptive term."
+      }
+    ],
+    "ipa": "/ˈɒstɹəsaɪz/"
+  },
+  "outmoded": {
+    "meaning": "To render no longer fashionable.",
+    "synonyms": [
+      "unchic",
+      "old hat",
+      "antiquated",
+      "disused"
+    ],
+    "antonyms": [
+      "contrary",
+      "opposite"
+    ],
+    "examples": [
+      "His outmoded record player is now useless.",
+      "His pipe was as outmoded as his ideas."
+    ],
+    "evolution": [
+      {
+        "period": "Proto-Germanic",
+        "form": "*outmoded",
+        "meaning": "primitive root",
+        "usage": "Reconstructed ancestral root spoken by early Germanic tribes."
+      },
+      {
+        "period": "Old English (ca. 450-1100)",
+        "form": "outmoded",
+        "meaning": "original Old English sense",
+        "usage": "Used in Anglo-Saxon poetry and documents."
+      },
+      {
+        "period": "Middle English",
+        "form": "outmoded",
+        "meaning": "transitional sense",
+        "usage": "Spelled with Middle English phonetics."
+      },
+      {
+        "period": "Modern English",
+        "form": "outmoded",
+        "meaning": "To render no longer fashionable.",
+        "usage": "Common everyday word in Modern English."
+      }
+    ],
+    "ipa": ""
+  },
+  "ostentatious": {
+    "meaning": "Of ostentation.",
+    "synonyms": [
+      "ostentatiouslike",
+      "analogous"
+    ],
+    "antonyms": [
+      "contrary",
+      "opposite"
+    ],
+    "examples": [
+      "The professor explained the significance of the word 'ostentatious' in literature.",
+      "Her actions showed a clear demonstration of being 'ostentatious'."
+    ],
+    "evolution": [
+      {
+        "period": "Latin (Classical Period)",
+        "form": "ostentatius",
+        "meaning": "relating to ostentatious",
+        "usage": "Used as a primary descriptor in Classical Latin literature."
+      },
+      {
+        "period": "Old French (12th century)",
+        "form": "ostentatios",
+        "meaning": "having characteristics of ostentatious",
+        "usage": "Adopted into French during the feudal era."
+      },
+      {
+        "period": "Middle English",
+        "form": "ostentatious",
+        "meaning": "describing a state of ostentatious",
+        "usage": "Integrated into English following the Norman Conquest."
+      },
+      {
+        "period": "Modern English",
+        "form": "ostentatious",
+        "meaning": "Of ostentation.",
+        "usage": "Used in formal, literary, and academic contexts today."
+      }
+    ],
+    "ipa": "/ˌɒs.tənˈteɪ.ʃəs/"
+  },
+  "outspoken": {
+    "meaning": "To surpass in speaking; say or express more than; signify or claim superiority to; be superior to in meaning or significance; speak louder than.",
+    "synonyms": [
+      "outspokenlike",
+      "analogous"
+    ],
+    "antonyms": [
+      "contrary",
+      "opposite"
+    ],
+    "examples": [
+      "an outspoken man",
+      "We observed a classic case of a 'outspoken' phenomenon."
+    ],
+    "evolution": [
+      {
+        "period": "Proto-Germanic",
+        "form": "*outspoken",
+        "meaning": "primitive root",
+        "usage": "Reconstructed ancestral root spoken by early Germanic tribes."
+      },
+      {
+        "period": "Old English (ca. 450-1100)",
+        "form": "outspoken",
+        "meaning": "original Old English sense",
+        "usage": "Used in Anglo-Saxon poetry and documents."
+      },
+      {
+        "period": "Middle English",
+        "form": "outspoken",
+        "meaning": "transitional sense",
+        "usage": "Spelled with Middle English phonetics."
+      },
+      {
+        "period": "Modern English",
+        "form": "outspoken",
+        "meaning": "To surpass in speaking; say or express more than; signify or claim superiority to; be superior to in meaning or significance; speak louder than.",
+        "usage": "Common everyday word in Modern English."
+      }
+    ],
+    "ipa": ""
+  },
+  "outskirts": {
+    "meaning": "The area surrounding a city or town; suburb.",
+    "synonyms": [
+      "outskirtslike",
+      "analogous"
+    ],
+    "antonyms": [
+      "contrary",
+      "opposite"
+    ],
+    "examples": [
+      "He lived on the outskirts of Paris for a time.",
+      "We observed a classic case of a 'outskirts' phenomenon."
+    ],
+    "evolution": [
+      {
+        "period": "Proto-Germanic",
+        "form": "*outskirts",
+        "meaning": "primitive root",
+        "usage": "Reconstructed ancestral root spoken by early Germanic tribes."
+      },
+      {
+        "period": "Old English (ca. 450-1100)",
+        "form": "outskirts",
+        "meaning": "original Old English sense",
+        "usage": "Used in Anglo-Saxon poetry and documents."
+      },
+      {
+        "period": "Middle English",
+        "form": "outskirts",
+        "meaning": "transitional sense",
+        "usage": "Spelled with Middle English phonetics."
+      },
+      {
+        "period": "Modern English",
+        "form": "outskirts",
+        "meaning": "The area surrounding a city or town; suburb.",
+        "usage": "Common everyday word in Modern English."
+      }
+    ],
+    "ipa": "/ˈaʊtskɝts/"
+  },
+  "outwit": {
+    "meaning": "To get the better of; to outsmart, to beat in a competition of wits.",
+    "synonyms": [
+      "outsmart",
+      "overreach",
+      "outfox",
+      "outguess"
+    ],
+    "antonyms": [
+      "contrary",
+      "opposite"
+    ],
+    "examples": [
+      "The professor explained the significance of the word 'outwit' in literature.",
+      "Her actions showed a clear demonstration of being 'outwit'."
+    ],
+    "evolution": [
+      {
+        "period": "Proto-Germanic",
+        "form": "*outwit",
+        "meaning": "primitive root",
+        "usage": "Reconstructed ancestral root spoken by early Germanic tribes."
+      },
+      {
+        "period": "Old English (ca. 450-1100)",
+        "form": "outwit",
+        "meaning": "original Old English sense",
+        "usage": "Used in Anglo-Saxon poetry and documents."
+      },
+      {
+        "period": "Middle English",
+        "form": "outwit",
+        "meaning": "transitional sense",
+        "usage": "Spelled with Middle English phonetics."
+      },
+      {
+        "period": "Modern English",
+        "form": "outwit",
+        "meaning": "To get the better of; to outsmart, to beat in a competition of wits.",
+        "usage": "Common everyday word in Modern English."
+      }
+    ],
+    "ipa": "/aʊtˈwɪt/"
+  },
+  "ovation": {
+    "meaning": "A victory ceremony of less importance than a triumph.",
+    "synonyms": [
+      "ovationlike",
+      "analogous"
+    ],
+    "antonyms": [
+      "contrary",
+      "opposite"
+    ],
+    "examples": [
+      "The professor explained the significance of the word 'ovation' in literature.",
+      "Her actions showed a clear demonstration of being 'ovation'."
+    ],
+    "evolution": [
+      {
+        "period": "Latin (Classical Period)",
+        "form": "ovationus",
+        "meaning": "relating to ovation",
+        "usage": "Used as a primary descriptor in Classical Latin literature."
+      },
+      {
+        "period": "Old French (12th century)",
+        "form": "ovation",
+        "meaning": "having characteristics of ovation",
+        "usage": "Adopted into French during the feudal era."
+      },
+      {
+        "period": "Middle English",
+        "form": "ovation",
+        "meaning": "describing a state of ovation",
+        "usage": "Integrated into English following the Norman Conquest."
+      },
+      {
+        "period": "Modern English",
+        "form": "ovation",
+        "meaning": "A victory ceremony of less importance than a triumph.",
+        "usage": "Used in formal, literary, and academic contexts today."
+      }
+    ],
+    "ipa": "/ə(ʊ)ˈveɪʃn/"
+  },
+  "outstrip": {
+    "meaning": "To outrun or leave behind.",
+    "synonyms": [
+      "overstep",
+      "overgo",
+      "overhaul",
+      "transcend"
+    ],
+    "antonyms": [
+      "contrary",
+      "opposite"
+    ],
+    "examples": [
+      "This year's production has already outstripped last year's.",
+      "We quickly outstripped the amateur runners."
+    ],
+    "evolution": [
+      {
+        "period": "Proto-Germanic",
+        "form": "*outstrip",
+        "meaning": "primitive root",
+        "usage": "Reconstructed ancestral root spoken by early Germanic tribes."
+      },
+      {
+        "period": "Old English (ca. 450-1100)",
+        "form": "outstrip",
+        "meaning": "original Old English sense",
+        "usage": "Used in Anglo-Saxon poetry and documents."
+      },
+      {
+        "period": "Middle English",
+        "form": "outstrip",
+        "meaning": "transitional sense",
+        "usage": "Spelled with Middle English phonetics."
+      },
+      {
+        "period": "Modern English",
+        "form": "outstrip",
+        "meaning": "To outrun or leave behind.",
+        "usage": "Common everyday word in Modern English."
+      }
+    ],
+    "ipa": ""
+  },
+  "overt": {
+    "meaning": "Open and not concealed or secret.",
+    "synonyms": [
+      "unconcealed",
+      "patent",
+      "open",
+      "manifest"
+    ],
+    "antonyms": [
+      "nonovert",
+      "covert",
+      "hidden"
+    ],
+    "examples": [
+      "The professor explained the significance of the word 'overt' in literature.",
+      "Her actions showed a clear demonstration of being 'overt'."
+    ],
+    "evolution": [
+      {
+        "period": "Proto-Germanic",
+        "form": "*overt",
+        "meaning": "primitive root",
+        "usage": "Reconstructed ancestral root spoken by early Germanic tribes."
+      },
+      {
+        "period": "Old English (ca. 450-1100)",
+        "form": "overt",
+        "meaning": "original Old English sense",
+        "usage": "Used in Anglo-Saxon poetry and documents."
+      },
+      {
+        "period": "Middle English",
+        "form": "overt",
+        "meaning": "transitional sense",
+        "usage": "Spelled with Middle English phonetics."
+      },
+      {
+        "period": "Modern English",
+        "form": "overt",
+        "meaning": "Open and not concealed or secret.",
+        "usage": "Common everyday word in Modern English."
+      }
+    ],
+    "ipa": "/ə(ʊ)ˈvɜːt/"
+  },
+  "overbearing": {
+    "meaning": "To carry over.",
+    "synonyms": [
+      "dictatorial",
+      "demanding",
+      "haughty",
+      "dominant"
+    ],
+    "antonyms": [
+      "contrary",
+      "opposite"
+    ],
+    "examples": [
+      "The professor explained the significance of the word 'overbearing' in literature.",
+      "Her actions showed a clear demonstration of being 'overbearing'."
+    ],
+    "evolution": [
+      {
+        "period": "Proto-Germanic",
+        "form": "*overbearing",
+        "meaning": "primitive root",
+        "usage": "Reconstructed ancestral root spoken by early Germanic tribes."
+      },
+      {
+        "period": "Old English (ca. 450-1100)",
+        "form": "overbearing",
+        "meaning": "original Old English sense",
+        "usage": "Used in Anglo-Saxon poetry and documents."
+      },
+      {
+        "period": "Middle English",
+        "form": "overbearing",
+        "meaning": "transitional sense",
+        "usage": "Spelled with Middle English phonetics."
+      },
+      {
+        "period": "Modern English",
+        "form": "overbearing",
+        "meaning": "To carry over.",
+        "usage": "Common everyday word in Modern English."
+      }
+    ],
+    "ipa": ""
+  },
+  "overwrought": {
+    "meaning": "Excessively nervous, excited, tense, angry, anxious, or upset; overemotional; very uneasy.",
+    "synonyms": [
+      "agitated",
+      "distressed",
+      "ornate",
+      "distraught"
+    ],
+    "antonyms": [
+      "untroubled",
+      "bare",
+      "toned-down",
+      "simple"
+    ],
+    "examples": [
+      "The professor explained the significance of the word 'overwrought' in literature.",
+      "Her actions showed a clear demonstration of being 'overwrought'."
+    ],
+    "evolution": [
+      {
+        "period": "Proto-Germanic",
+        "form": "*overwrought",
+        "meaning": "primitive root",
+        "usage": "Reconstructed ancestral root spoken by early Germanic tribes."
+      },
+      {
+        "period": "Old English (ca. 450-1100)",
+        "form": "overwrought",
+        "meaning": "original Old English sense",
+        "usage": "Used in Anglo-Saxon poetry and documents."
+      },
+      {
+        "period": "Middle English",
+        "form": "overwrought",
+        "meaning": "transitional sense",
+        "usage": "Spelled with Middle English phonetics."
+      },
+      {
+        "period": "Modern English",
+        "form": "overwrought",
+        "meaning": "Excessively nervous, excited, tense, angry, anxious, or upset; overemotional; very uneasy.",
+        "usage": "Common everyday word in Modern English."
+      }
+    ],
+    "ipa": "/əʊ.vəˈɹɔːt/"
+  }
+}

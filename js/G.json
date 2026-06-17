@@ -1,0 +1,5723 @@
+{
+  "gadfly": {
+    "meaning": "A fly that bites livestock; an annoying person, especially one who provokes others with constructive criticism.",
+    "synonyms": [
+      "irritant",
+      "nuisance",
+      "pest",
+      "provocateur"
+    ],
+    "antonyms": [
+      "pacifier",
+      "comforter",
+      "supporter",
+      "supporter"
+    ],
+    "examples": [
+      "He was a political gadfly, constantly questioning the mayor's decisions.",
+      "The insect was a persistent gadfly that disrupted the picnic."
+    ],
+    "evolution": [
+      {
+        "period": "Old Norse",
+        "form": "gaddr",
+        "meaning": "spike or nail",
+        "usage": "Norse root word."
+      },
+      {
+        "period": "Middle English",
+        "form": "gadfly",
+        "meaning": "horsefly (spike-fly)",
+        "usage": "Used for biting insects, and later metaphorically for persistent social/political critics."
+      },
+      {
+        "period": "Modern English",
+        "form": "gadfly",
+        "meaning": "A fly that bites livestock; an annoying person, especially one who provokes others with constructive criticism.",
+        "usage": "Standard modern usage."
+      }
+    ]
+  },
+  "gaffe": {
+    "meaning": "An unintentional act or remark causing embarrassment; a social blunder.",
+    "synonyms": [
+      "blunder",
+      "mistake",
+      "slip",
+      "solecism"
+    ],
+    "antonyms": [
+      "discretion",
+      "tact",
+      "success",
+      "propriety"
+    ],
+    "examples": [
+      "The diplomat's gaffe caused a minor international incident.",
+      "He made a social gaffe by introducing the host by the wrong name."
+    ],
+    "evolution": [
+      {
+        "period": "French",
+        "form": "gaffe",
+        "meaning": "boat hook; blunder",
+        "usage": "Originally a boat hook, shifted in colloquial French to a clumsy mistake; borrowed into English in the early 20th century."
+      },
+      {
+        "period": "Middle English",
+        "form": "gaffe",
+        "meaning": "boat hook; blunder",
+        "usage": "Middle English development."
+      },
+      {
+        "period": "Modern English",
+        "form": "gaffe",
+        "meaning": "An unintentional act or remark causing embarrassment; a social blunder.",
+        "usage": "Standard modern usage."
+      }
+    ]
+  },
+  "gainsay": {
+    "meaning": "To deny or contradict a fact or statement; to speak against or oppose.",
+    "synonyms": [
+      "deny",
+      "contradict",
+      "disputing",
+      "oppose"
+    ],
+    "antonyms": [
+      "confirm",
+      "agree",
+      "support",
+      "validate"
+    ],
+    "examples": [
+      "It is impossible to gainsay the importance of his work.",
+      "No one dared to gainsay the king's decree."
+    ],
+    "evolution": [
+      {
+        "period": "Middle English",
+        "form": "gayn- + sayen",
+        "meaning": "against + to say",
+        "usage": "Formed with 'gayn-' (against, of Norse origin) + 'sayen' (say); literally 'to speak against'."
+      },
+      {
+        "period": "Middle English",
+        "form": "gayn- + sayen",
+        "meaning": "against + to say",
+        "usage": "Middle English development."
+      },
+      {
+        "period": "Modern English",
+        "form": "gainsay",
+        "meaning": "To deny or contradict a fact or statement; to speak against or oppose.",
+        "usage": "Standard modern usage."
+      }
+    ]
+  },
+  "gait": {
+    "meaning": "A person's or animal's manner of walking.",
+    "synonyms": [
+      "walk",
+      "stride",
+      "pace",
+      "step"
+    ],
+    "antonyms": [
+      "standstill",
+      "standstill",
+      "standstill",
+      "standstill"
+    ],
+    "examples": [
+      "He walked with a slow, deliberate gait.",
+      "She identified her father by his distinctive gait."
+    ],
+    "evolution": [
+      {
+        "period": "Old Norse",
+        "form": "gata",
+        "meaning": "path, way, or road",
+        "usage": "Root noun for roads."
+      },
+      {
+        "period": "Middle English",
+        "form": "gate",
+        "meaning": "way or manner of walking",
+        "usage": "Spelling shifted in the 15th century to 'gait' to distinguish it from 'gate' (barrier)."
+      },
+      {
+        "period": "Modern English",
+        "form": "gait",
+        "meaning": "A person's or animal's manner of walking.",
+        "usage": "Standard modern usage."
+      }
+    ]
+  },
+  "galaxy": {
+    "meaning": "A system of millions or billions of stars held together by gravitational attraction; a large group of brilliant people.",
+    "synonyms": [
+      "cosmos",
+      "star system",
+      "constellation",
+      "assembly"
+    ],
+    "antonyms": [
+      "void",
+      "vacuum",
+      "nothingness",
+      "singularity"
+    ],
+    "examples": [
+      "Astronomers discovered a new galaxy millions of light-years away.",
+      "A galaxy of stars attended the charity gala."
+    ],
+    "evolution": [
+      {
+        "period": "Greek",
+        "form": "galaxias",
+        "meaning": "milky (from 'gala' - milk)",
+        "usage": "Describing the Milky Way."
+      },
+      {
+        "period": "Latin",
+        "form": "galaxias",
+        "meaning": "milky way",
+        "usage": "Astronomical noun."
+      },
+      {
+        "period": "Modern English",
+        "form": "galaxy",
+        "meaning": "a system of millions or billions of stars",
+        "usage": "Standard noun."
+      }
+    ]
+  },
+  "gale": {
+    "meaning": "A very strong wind.",
+    "synonyms": [
+      "windstorm",
+      "squall",
+      "tempest",
+      "blast"
+    ],
+    "antonyms": [
+      "breeze",
+      "calm",
+      "zephyr",
+      "zephyr"
+    ],
+    "examples": [
+      "The ship was battered by a howling gale.",
+      "Gales of laughter erupted from the classroom."
+    ],
+    "evolution": [
+      {
+        "period": "Norwegian (Probable)",
+        "form": "galen",
+        "meaning": "mad or stormy",
+        "usage": "Adjective root."
+      },
+      {
+        "period": "Early Modern English",
+        "form": "gale",
+        "meaning": "wind of strong force",
+        "usage": "Maritime noun."
+      },
+      {
+        "period": "Modern English",
+        "form": "gale",
+        "meaning": "a very strong wind",
+        "usage": "Standard noun."
+      }
+    ]
+  },
+  "gall": {
+    "meaning": "Bold, impudent behavior; bile; annoyance or irritation.",
+    "synonyms": [
+      "audacity",
+      "impudence",
+      "bile",
+      "resentment"
+    ],
+    "antonyms": [
+      "modesty",
+      "humility",
+      "friendliness",
+      "respect"
+    ],
+    "examples": [
+      "He had the gall to ask for money after lying to us.",
+      "The constant noise began to gall her."
+    ],
+    "evolution": [
+      {
+        "period": "Proto-Germanic",
+        "form": "gellon",
+        "meaning": "yellow / green",
+        "usage": "Root color descriptor."
+      },
+      {
+        "period": "Old English",
+        "form": "gealla",
+        "meaning": "bile; bitter secretion",
+        "usage": "Associated with liver secretions, leading to meanings of bitterness, resentment, and eventually bold/impudent behavior."
+      },
+      {
+        "period": "Modern English",
+        "form": "gall",
+        "meaning": "Bold, impudent behavior; bile; annoyance or irritation.",
+        "usage": "Standard modern usage."
+      }
+    ]
+  },
+  "galleon": {
+    "meaning": "A large sailing ship with three or more decks, used especially by Spain from the 15th to 17th centuries.",
+    "synonyms": [
+      "sailing ship",
+      "vessel",
+      "man-of-war",
+      "man-of-war"
+    ],
+    "antonyms": [
+      "antonym",
+      "antonym",
+      "antonym",
+      "antonym"
+    ],
+    "examples": [
+      "The Spanish galleon was loaded with gold and silver.",
+      "Divers discovered the wreckage of a 16th-century galleon."
+    ],
+    "evolution": [
+      {
+        "period": "Old French",
+        "form": "galion",
+        "meaning": "armed galley",
+        "usage": "From Italian 'galea' (galley)."
+      },
+      {
+        "period": "Modern English",
+        "form": "galleon",
+        "meaning": "large sailing ship",
+        "usage": "Adopted in the 16th century to refer to large Spanish warships/cargo carriers."
+      },
+      {
+        "period": "Modern English",
+        "form": "galleon",
+        "meaning": "A large sailing ship with three or more decks, used especially by Spain from the 15th to 17th centuries.",
+        "usage": "Standard modern usage."
+      }
+    ]
+  },
+  "galley": {
+    "meaning": "A low, flat ship with sails and oars; the kitchen in a ship or aircraft.",
+    "synonyms": [
+      "ship",
+      "vessel",
+      "kitchen",
+      "cookhouse"
+    ],
+    "antonyms": [
+      "antonym",
+      "antonym",
+      "antonym",
+      "antonym"
+    ],
+    "examples": [
+      "Slaves were forced to row in the Roman galley.",
+      "The chef prepared meals in the ship's galley."
+    ],
+    "evolution": [
+      {
+        "period": "Greek",
+        "form": "galea",
+        "meaning": "galley (low ship)",
+        "usage": "Root noun."
+      },
+      {
+        "period": "Latin",
+        "form": "galea",
+        "meaning": "low rowing ship",
+        "usage": "Medieval Latin borrowing."
+      },
+      {
+        "period": "Old French",
+        "form": "galie",
+        "meaning": "galley",
+        "usage": "Old French form."
+      },
+      {
+        "period": "Middle English",
+        "form": "galey",
+        "meaning": "galley ship",
+        "usage": "Spelling modernized; ship's kitchen sense arose in the 18th century."
+      }
+    ]
+  },
+  "gallows": {
+    "meaning": "A structure, typically of two uprights and a crosspiece, for the hanging of criminals.",
+    "synonyms": [
+      "scaffold",
+      "gibbet",
+      "noose",
+      "noose"
+    ],
+    "antonyms": [
+      "antonym",
+      "antonym",
+      "antonym",
+      "antonym"
+    ],
+    "examples": [
+      "The highwayman was sentenced to the gallows.",
+      "He walked bravely toward the gallows."
+    ],
+    "evolution": [
+      {
+        "period": "Germanic",
+        "form": "galgo",
+        "meaning": "pole or gallows",
+        "usage": "Ancient roots."
+      },
+      {
+        "period": "Middle English",
+        "form": "galwes",
+        "meaning": "structure for hanging",
+        "usage": "Plural noun form."
+      },
+      {
+        "period": "Modern English",
+        "form": "gallows",
+        "meaning": "a structure for hanging criminals",
+        "usage": "Standard noun."
+      }
+    ]
+  },
+  "galvanic": {
+    "meaning": "Relating to or producing electric current by chemical action; sudden and dramatic.",
+    "synonyms": [
+      "electric",
+      "stimulating",
+      "convulsive",
+      "dynamic"
+    ],
+    "antonyms": [
+      "soothing",
+      "dull",
+      "calming",
+      "calming"
+    ],
+    "examples": [
+      "The experiment demonstrated a galvanic reaction in the metal plates.",
+      "Her speech had a galvanic effect on the audience."
+    ],
+    "evolution": [
+      {
+        "period": "Italian",
+        "form": "Galvani",
+        "meaning": "Luigi Galvani (scientist)",
+        "usage": "Italian physician who discovered bioelectricity."
+      },
+      {
+        "period": "French",
+        "form": "galvanique",
+        "meaning": "galvanic",
+        "usage": "Coined in French science around 1800."
+      },
+      {
+        "period": "Modern English",
+        "form": "galvanic",
+        "meaning": "relating to electric currents; shocking",
+        "usage": "Adopted in early 19th century; metaphorical sense of sudden stimulation arose later."
+      }
+    ]
+  },
+  "galvanize": {
+    "meaning": "Shock or excite someone into taking action; coat iron or steel with a protective layer of zinc.",
+    "synonyms": [
+      "shock",
+      "startle",
+      "motivate",
+      "coat"
+    ],
+    "antonyms": [
+      "depress",
+      "soothe",
+      "deter",
+      "demotivate"
+    ],
+    "examples": [
+      "The disaster served to galvanize the community into action.",
+      "We need to galvanize the metal pipes to prevent rust."
+    ],
+    "evolution": [
+      {
+        "period": "Italian",
+        "form": "Galvani",
+        "meaning": "Luigi Galvani (scientist)",
+        "usage": "Root name."
+      },
+      {
+        "period": "French",
+        "form": "galvaniser",
+        "meaning": "stimulate electrically; coat metal",
+        "usage": "Verb coined in French chemistry."
+      },
+      {
+        "period": "Modern English",
+        "form": "galvanize",
+        "meaning": "stimulate; coat with zinc",
+        "usage": "Adopted in the 19th century; metaphorical usage now dominates."
+      }
+    ]
+  },
+  "gambit": {
+    "meaning": "An opening move or remark, typically entailing risk, calculated to gain a later advantage.",
+    "synonyms": [
+      "maneuver",
+      "scheme",
+      "opening move",
+      "tactic"
+    ],
+    "antonyms": [
+      "blunder",
+      "defense",
+      "defense",
+      "defense"
+    ],
+    "examples": [
+      "His chess gambit involved sacrificing a pawn.",
+      "She began the conversation with a bold gambit."
+    ],
+    "evolution": [
+      {
+        "period": "Italian",
+        "form": "gambetto",
+        "meaning": "tripping up (from 'gamba' - leg)",
+        "usage": "Wrestling term."
+      },
+      {
+        "period": "Spanish",
+        "form": "gambito",
+        "meaning": "opening move in chess",
+        "usage": "Chess term."
+      },
+      {
+        "period": "Modern English",
+        "form": "gambit",
+        "meaning": "a calculated move to gain an advantage",
+        "usage": "Standard noun."
+      }
+    ]
+  },
+  "gambol": {
+    "meaning": "To run or jump about playfully.",
+    "synonyms": [
+      "frolic",
+      "frisk",
+      "romp",
+      "bound"
+    ],
+    "antonyms": [
+      "trudge",
+      "mope",
+      "walk slowly",
+      "walk slowly"
+    ],
+    "examples": [
+      "Lambs were gamboling in the spring meadows.",
+      "The children gamboled around the playground."
+    ],
+    "evolution": [
+      {
+        "period": "Italian",
+        "form": "gamba",
+        "meaning": "leg",
+        "usage": "Root noun."
+      },
+      {
+        "period": "French",
+        "form": "gambade",
+        "meaning": "leap or bound",
+        "usage": "Noun form."
+      },
+      {
+        "period": "Modern English",
+        "form": "gambol",
+        "meaning": "run or jump about playfully",
+        "usage": "Standard verb."
+      }
+    ]
+  },
+  "gamely": {
+    "meaning": "In a brave, spirited, or resolute manner.",
+    "synonyms": [
+      "bravely",
+      "courageously",
+      "spiritedly",
+      "resolutely"
+    ],
+    "antonyms": [
+      "cowardly",
+      "timidly",
+      "halfheartedly",
+      "halfheartedly"
+    ],
+    "examples": [
+      "The injured player fought on gamely until the end.",
+      "She gamely accepted the difficult challenge."
+    ],
+    "evolution": [
+      {
+        "period": "Old English",
+        "form": "gamen",
+        "meaning": "sport, fun, or play",
+        "usage": "Root noun."
+      },
+      {
+        "period": "Middle English",
+        "form": "game",
+        "meaning": "spirited; brave",
+        "usage": "Adjective developed from idea of fighting gamecocks/animals having spirit."
+      },
+      {
+        "period": "Modern English",
+        "form": "gamely",
+        "meaning": "bravely; with spirit",
+        "usage": "Adverb formed by adding '-ly' to 'game'."
+      }
+    ]
+  },
+  "gamut": {
+    "meaning": "The complete range or scale of something.",
+    "synonyms": [
+      "spectrum",
+      "range",
+      "scale",
+      "compass"
+    ],
+    "antonyms": [
+      "segment",
+      "point",
+      "point",
+      "point"
+    ],
+    "examples": [
+      "Her emotions ran the gamut from joy to despair.",
+      "The band performed a gamut of musical styles."
+    ],
+    "evolution": [
+      {
+        "period": "Medieval Latin",
+        "form": "gamma ut",
+        "meaning": "lowest note of the musical scale",
+        "usage": "From Greek letter 'gamma' (representing the lowest note) + 'ut' (name of the first note in Guido d'Arezzo's scale)."
+      },
+      {
+        "period": "Middle English",
+        "form": "gamut",
+        "meaning": "musical scale",
+        "usage": "Shifted from music to meaning the complete scale or range of anything in the 17th century."
+      },
+      {
+        "period": "Modern English",
+        "form": "gamut",
+        "meaning": "The complete range or scale of something.",
+        "usage": "Standard modern usage."
+      }
+    ]
+  },
+  "gangrene": {
+    "meaning": "Localized death and decomposition of body tissue, resulting from obstructed circulation or infection.",
+    "synonyms": [
+      "necrosis",
+      "mortification",
+      "decay",
+      "decay"
+    ],
+    "antonyms": [
+      "antonym",
+      "antonym",
+      "antonym",
+      "antonym"
+    ],
+    "examples": [
+      "The wound developed gangrene and required amputation.",
+      "Gangrene spread rapidly through the infected limb."
+    ],
+    "evolution": [
+      {
+        "period": "Greek",
+        "form": "gangraina",
+        "meaning": "gangrene; eating sore",
+        "usage": "From 'grainein' (to gnaw)."
+      },
+      {
+        "period": "Latin",
+        "form": "gangraena",
+        "meaning": "gangrene",
+        "usage": "Medical borrowing."
+      },
+      {
+        "period": "French",
+        "form": "gangrène",
+        "meaning": "gangrene",
+        "usage": "Middle French form."
+      },
+      {
+        "period": "Modern English",
+        "form": "gangrene",
+        "meaning": "dead tissue",
+        "usage": "Entered English in the 16th century."
+      }
+    ]
+  },
+  "gape": {
+    "meaning": "Be or become wide open; stare with one's mouth open wide in amazement.",
+    "synonyms": [
+      "stare",
+      "gawk",
+      "yawn",
+      "part"
+    ],
+    "antonyms": [
+      "close",
+      "ignore",
+      "ignore",
+      "ignore"
+    ],
+    "examples": [
+      "The tourists gaped at the massive skyscraper.",
+      "A wide chasm gaped before them."
+    ],
+    "evolution": [
+      {
+        "period": "Old Norse",
+        "form": "gapa",
+        "meaning": "to open the mouth wide",
+        "usage": "Scandinavian root."
+      },
+      {
+        "period": "Middle English",
+        "form": "gapen",
+        "meaning": "stare; yawn",
+        "usage": "Spelling modernized; retains both physical and psychological senses."
+      },
+      {
+        "period": "Modern English",
+        "form": "gape",
+        "meaning": "Be or become wide open; stare with one's mouth open wide in amazement.",
+        "usage": "Standard modern usage."
+      }
+    ]
+  },
+  "garbled": {
+    "meaning": "Reproduced or transmitted in a confused, distorted, or jumbled way.",
+    "synonyms": [
+      "distorted",
+      "jumbled",
+      "confused",
+      "incoherent"
+    ],
+    "antonyms": [
+      "clear",
+      "coherent",
+      "plain",
+      "intelligible"
+    ],
+    "examples": [
+      "The radio signal was garbled by the storm.",
+      "His garbled explanation made no sense to the police."
+    ],
+    "evolution": [
+      {
+        "period": "Arabic",
+        "form": "gharbala",
+        "meaning": "to sift or select",
+        "usage": "Root verb."
+      },
+      {
+        "period": "Italian",
+        "form": "garbellare",
+        "meaning": "to sift or inspect spices",
+        "usage": "Used in Mediterranean trade."
+      },
+      {
+        "period": "Middle English",
+        "form": "garbelen",
+        "meaning": "to sift or sort out",
+        "usage": "Shifted in meaning from sorting spices (clean/inspected) to selecting text parts, which eventually led to the modern sense of distorting meaning by mixing things up."
+      }
+    ]
+  },
+  "gargantuan": {
+    "meaning": "Enormously large; gigantic.",
+    "synonyms": [
+      "gigantic",
+      "huge",
+      "colossal",
+      "massive"
+    ],
+    "antonyms": [
+      "tiny",
+      "minuscule",
+      "microscopic",
+      "small"
+    ],
+    "examples": [
+      "He has a gargantuan appetite, eating three dinners in one sitting.",
+      "The company faced a gargantuan task in rebuilding after the fire."
+    ],
+    "evolution": [
+      {
+        "period": "French",
+        "form": "Gargantua",
+        "meaning": "giant character",
+        "usage": "Name of the voracious giant king in François Rabelais's 16th-century satire; anglicized to adjective 'gargantuan' in the late 16th century."
+      },
+      {
+        "period": "Middle English",
+        "form": "Gargantua",
+        "meaning": "giant character",
+        "usage": "Middle English development."
+      },
+      {
+        "period": "Modern English",
+        "form": "gargantuan",
+        "meaning": "Enormously large; gigantic.",
+        "usage": "Standard modern usage."
+      }
+    ]
+  },
+  "gargoyle": {
+    "meaning": "A grotesque carved figure projecting from the gutter of a building, serving as a waterspout.",
+    "synonyms": [
+      "waterspout",
+      "carving",
+      "grotesque",
+      "grotesque"
+    ],
+    "antonyms": [
+      "antonym",
+      "antonym",
+      "antonym",
+      "antonym"
+    ],
+    "examples": [
+      "Grotesque gargoyles decorated the roof of the cathedral.",
+      "Water poured from the mouth of the stone gargoyle."
+    ],
+    "evolution": [
+      {
+        "period": "Latin",
+        "form": "gurgulio",
+        "meaning": "throat or windpipe",
+        "usage": "Onomatopoeic root representing bubbling sound."
+      },
+      {
+        "period": "Old French",
+        "form": "gargouille",
+        "meaning": "throat; carved waterspout",
+        "usage": "Used for architectural waterspouts representing animal throats; entered English in the 14th century."
+      },
+      {
+        "period": "Modern English",
+        "form": "gargoyle",
+        "meaning": "A grotesque carved figure projecting from the gutter of a building, serving as a waterspout.",
+        "usage": "Standard modern usage."
+      }
+    ]
+  },
+  "garish": {
+    "meaning": "Obtrusively bright and showy; gaudy or lurid.",
+    "synonyms": [
+      "gaudy",
+      "flashy",
+      "loud",
+      "tawdry"
+    ],
+    "antonyms": [
+      "tasteful",
+      "understated",
+      "modest",
+      "plain"
+    ],
+    "examples": [
+      "She wore a garish dress covered in neon sequins.",
+      "The room was decorated in garish colors."
+    ],
+    "evolution": [
+      {
+        "period": "Early Modern English",
+        "form": "garish",
+        "meaning": "staring; showy",
+        "usage": "Arose in the 16th century, likely related to obsolete 'gaure' (to stare) + suffix '-ish', meaning attracting stares."
+      },
+      {
+        "period": "Middle English",
+        "form": "garish",
+        "meaning": "staring; showy",
+        "usage": "Middle English development."
+      },
+      {
+        "period": "Modern English",
+        "form": "garish",
+        "meaning": "Obtrusively bright and showy; gaudy or lurid.",
+        "usage": "Standard modern usage."
+      }
+    ]
+  },
+  "garner": {
+    "meaning": "Gather or collect, especially information, support, or approval.",
+    "synonyms": [
+      "gather",
+      "collect",
+      "accumulate",
+      "amass"
+    ],
+    "antonyms": [
+      "dispense",
+      "scatter",
+      "spend",
+      "squander"
+    ],
+    "examples": [
+      "The actor managed to garner critical acclaim for his performance.",
+      "We need to garner more support before the vote."
+    ],
+    "evolution": [
+      {
+        "period": "Latin",
+        "form": "granum",
+        "meaning": "grain",
+        "usage": "Root noun."
+      },
+      {
+        "period": "Latin",
+        "form": "granarium",
+        "meaning": "storehouse for grain",
+        "usage": "Noun for granary."
+      },
+      {
+        "period": "Old French",
+        "form": "gernier",
+        "meaning": "granary",
+        "usage": "French form."
+      },
+      {
+        "period": "Middle English",
+        "form": "garner",
+        "meaning": "storehouse; to store grain",
+        "usage": "Shifted in Modern English from storing grain to metaphorically gathering/storing abstract things like praise or support."
+      }
+    ]
+  },
+  "garnish": {
+    "meaning": "To decorate or embellish food; to seize debtor's wages or property by legal authority.",
+    "synonyms": [
+      "decorate",
+      "embellish",
+      "trim",
+      "seize"
+    ],
+    "antonyms": [
+      "strip",
+      "blemish",
+      "blemish",
+      "blemish"
+    ],
+    "examples": [
+      "She garnished the dish with fresh parsley.",
+      "The court ordered the bank to garnish his wages."
+    ],
+    "evolution": [
+      {
+        "period": "Proto-Germanic",
+        "form": "warnon",
+        "meaning": "to defend, equip, or warn",
+        "usage": "Root verb."
+      },
+      {
+        "period": "Old French",
+        "form": "garnir",
+        "meaning": "to equip, fortify, or adorn",
+        "usage": "Brought to French; developed two paths: culinary decoration and legal notification (warning a third party to hold funds)."
+      },
+      {
+        "period": "Modern English",
+        "form": "garnish",
+        "meaning": "To decorate or embellish food; to seize debtor's wages or property by legal authority.",
+        "usage": "Standard modern usage."
+      }
+    ]
+  },
+  "garrulous": {
+    "meaning": "Excessively talkative, especially on trivial matters.",
+    "synonyms": [
+      "talkative",
+      "loquacious",
+      "verbose",
+      "chatty"
+    ],
+    "antonyms": [
+      "taciturn",
+      "quiet",
+      "silent",
+      "reserved"
+    ],
+    "examples": [
+      "The garrulous old man told the same stories repeatedly.",
+      "She found her garrulous seatmate on the flight exhausting."
+    ],
+    "evolution": [
+      {
+        "period": "Latin",
+        "form": "garrire",
+        "meaning": "to chatter or babble",
+        "usage": "Imitative root verb."
+      },
+      {
+        "period": "Latin",
+        "form": "garrulus",
+        "meaning": "talkative",
+        "usage": "Adjective form; borrowed into English in the 17th century."
+      },
+      {
+        "period": "Modern English",
+        "form": "garrulous",
+        "meaning": "Excessively talkative, especially on trivial matters.",
+        "usage": "Standard modern usage."
+      }
+    ]
+  },
+  "gastronomy": {
+    "meaning": "The practice or art of choosing, cooking, and eating good food.",
+    "synonyms": [
+      "culinary art",
+      "cookery",
+      "cuisine",
+      "cuisine"
+    ],
+    "antonyms": [
+      "antonym",
+      "antonym",
+      "antonym",
+      "antonym"
+    ],
+    "examples": [
+      "The city is famous for its fine gastronomy and world-class restaurants.",
+      "He studied gastronomy at a culinary academy."
+    ],
+    "evolution": [
+      {
+        "period": "Greek",
+        "form": "gaster",
+        "meaning": "stomach",
+        "usage": "Root noun."
+      },
+      {
+        "period": "Greek",
+        "form": "nomos",
+        "meaning": "law or rule",
+        "usage": "Suffix meaning management/law."
+      },
+      {
+        "period": "French",
+        "form": "gastronomie",
+        "meaning": "art of dining",
+        "usage": "Coined in poem title in 1801."
+      },
+      {
+        "period": "Modern English",
+        "form": "gastronomy",
+        "meaning": "art of good food",
+        "usage": "Borrowed from French in the early 19th century."
+      }
+    ]
+  },
+  "gauche": {
+    "meaning": "Lacking ease or grace; unsophisticated and socially awkward.",
+    "synonyms": [
+      "awkward",
+      "clumsy",
+      "maladroit",
+      "unrefined"
+    ],
+    "antonyms": [
+      "graceful",
+      "elegant",
+      "sophisticated",
+      "suave"
+    ],
+    "examples": [
+      "It was gauche of him to talk about money at the dinner table.",
+      "She felt gauche and out of place among the aristocrats."
+    ],
+    "evolution": [
+      {
+        "period": "French",
+        "form": "gauche",
+        "meaning": "left; left-hand side",
+        "usage": "French word; developed figurative sense of 'clumsy' or 'awkward' (as left-handedness was viewed negatively); borrowed into English in the 18th century."
+      },
+      {
+        "period": "Middle English",
+        "form": "gauche",
+        "meaning": "left; left-hand side",
+        "usage": "Middle English development."
+      },
+      {
+        "period": "Modern English",
+        "form": "gauche",
+        "meaning": "Lacking ease or grace; unsophisticated and socially awkward.",
+        "usage": "Standard modern usage."
+      }
+    ]
+  },
+  "gaudy": {
+    "meaning": "Extravagantly bright or showy, typically so as to be tasteless.",
+    "synonyms": [
+      "garish",
+      "flashy",
+      "loud",
+      "tawdry"
+    ],
+    "antonyms": [
+      "tasteful",
+      "understated",
+      "modest",
+      "plain"
+    ],
+    "examples": [
+      "The hotel lobby was decorated in gaudy gold and red.",
+      "She wore gaudy plastic jewelry."
+    ],
+    "evolution": [
+      {
+        "period": "Latin",
+        "form": "gaudere",
+        "meaning": "to rejoice",
+        "usage": "Root verb."
+      },
+      {
+        "period": "Middle English",
+        "form": "gaud",
+        "meaning": "large prayer bead in a rosary; trick/show",
+        "usage": "Derived from Latin; came to denote showy display or bright yellow colors (weld-dye), leading to modern adjective 'gaudy'."
+      },
+      {
+        "period": "Modern English",
+        "form": "gaudy",
+        "meaning": "Extravagantly bright or showy, typically so as to be tasteless.",
+        "usage": "Standard modern usage."
+      }
+    ]
+  },
+  "gaunt": {
+    "meaning": "Lean and haggard, especially because of suffering, hunger, or age; grim or desolate.",
+    "synonyms": [
+      "lean",
+      "haggard",
+      "thin",
+      "emaciated"
+    ],
+    "antonyms": [
+      "plump",
+      "stout",
+      "heavy",
+      "fat"
+    ],
+    "examples": [
+      "His face was gaunt and pale after weeks of illness.",
+      "The gaunt ruins of the castle stood on the hill."
+    ],
+    "evolution": [
+      {
+        "period": "Middle English",
+        "form": "gaunt",
+        "meaning": "slim or lean",
+        "usage": "Arose in the 15th century; of obscure origin (possibly Scandinavian or Old French 'gant' meaning thin)."
+      },
+      {
+        "period": "Middle English",
+        "form": "gaunt",
+        "meaning": "slim or lean",
+        "usage": "Middle English development."
+      },
+      {
+        "period": "Modern English",
+        "form": "gaunt",
+        "meaning": "Lean and haggard, especially because of suffering, hunger, or age; grim or desolate.",
+        "usage": "Standard modern usage."
+      }
+    ]
+  },
+  "gavel": {
+    "meaning": "A small hammer used by a judge, auctioneer, or chair of a meeting to call for attention.",
+    "synonyms": [
+      "hammer",
+      "mallet",
+      "mallet",
+      "mallet"
+    ],
+    "antonyms": [
+      "antonym",
+      "antonym",
+      "antonym",
+      "antonym"
+    ],
+    "examples": [
+      "The judge rapped his gavel to restore order in the courtroom.",
+      "The auctioneer raised his gavel as the bidding closed."
+    ],
+    "evolution": [
+      {
+        "period": "Middle English",
+        "form": "gavel",
+        "meaning": "tribute, rent, or payment",
+        "usage": "Historical legal term; modern usage for the hammer arose in American English in the early 19th century, possibly of imitative origin."
+      },
+      {
+        "period": "Middle English",
+        "form": "gavel",
+        "meaning": "tribute, rent, or payment",
+        "usage": "Middle English development."
+      },
+      {
+        "period": "Modern English",
+        "form": "gavel",
+        "meaning": "A small hammer used by a judge, auctioneer, or chair of a meeting to call for attention.",
+        "usage": "Standard modern usage."
+      }
+    ]
+  },
+  "gawk": {
+    "meaning": "To stare openly and stupidly.",
+    "synonyms": [
+      "stare",
+      "gape",
+      "ogle",
+      "ogle"
+    ],
+    "antonyms": [
+      "ignore",
+      "glance",
+      "glance",
+      "glance"
+    ],
+    "examples": [
+      "Don't gawk at the accident; keep moving.",
+      "A crowd gathered to gawk at the celebrity."
+    ],
+    "evolution": [
+      {
+        "period": "English (Dialect)",
+        "form": "gaw",
+        "meaning": "to stare or gape",
+        "usage": "Root verb."
+      },
+      {
+        "period": "English (Dialect)",
+        "form": "gawky",
+        "meaning": "clumsy; left-handed",
+        "usage": "Arose in the 18th century; influenced by French 'gauche' (left)."
+      },
+      {
+        "period": "Modern English",
+        "form": "gawk",
+        "meaning": "To stare openly and stupidly.",
+        "usage": "Standard modern usage."
+      }
+    ]
+  },
+  "gazette": {
+    "meaning": "A journal or official newspaper.",
+    "synonyms": [
+      "newspaper",
+      "journal",
+      "periodical",
+      "chronicle"
+    ],
+    "antonyms": [
+      "antonym",
+      "antonym",
+      "antonym",
+      "antonym"
+    ],
+    "examples": [
+      "The official appointments were published in the government gazette.",
+      "She wrote a column for the local gazette."
+    ],
+    "evolution": [
+      {
+        "period": "Italian",
+        "form": "gazzetta",
+        "meaning": "a news-sheet; small coin",
+        "usage": "The newspaper was named after the Venetian coin 'gaxeta' (the cost of the paper)."
+      },
+      {
+        "period": "French",
+        "form": "gazette",
+        "meaning": "newspaper",
+        "usage": "Borrowed from Italian."
+      },
+      {
+        "period": "Modern English",
+        "form": "gazette",
+        "meaning": "journal or newspaper",
+        "usage": "Borrowed in the 17th century; now often used in titles of newspapers or official state records."
+      }
+    ]
+  },
+  "genealogy": {
+    "meaning": "A line of descent traced continuously from an ancestor; the study of family history.",
+    "synonyms": [
+      "ancestry",
+      "lineage",
+      "pedigree",
+      "descent"
+    ],
+    "antonyms": [
+      "antonym",
+      "antonym",
+      "antonym",
+      "antonym"
+    ],
+    "examples": [
+      "She researched her genealogy and traced her family back to Ireland.",
+      "The library has a large section dedicated to genealogy."
+    ],
+    "evolution": [
+      {
+        "period": "Greek",
+        "form": "genea",
+        "meaning": "race or generation",
+        "usage": "From 'gignesthai' (be born)."
+      },
+      {
+        "period": "Greek",
+        "form": "-logia",
+        "meaning": "study of",
+        "usage": "Suffix."
+      },
+      {
+        "period": "Latin",
+        "form": "genealogia",
+        "meaning": "genealogy",
+        "usage": "Borrowed from Greek."
+      },
+      {
+        "period": "Old French",
+        "form": "genealogie",
+        "meaning": "family lineage",
+        "usage": "Entered French in the Middle Ages; anglicized in the 14th century."
+      }
+    ]
+  },
+  "generality": {
+    "meaning": "A statement or principle having general rather than specific validity; the state of being general.",
+    "synonyms": [
+      "generalization",
+      "abstraction",
+      "vagueness",
+      "vagueness"
+    ],
+    "antonyms": [
+      "specificity",
+      "detail",
+      "detail",
+      "detail"
+    ],
+    "examples": [
+      "He spoke in broad generalities without offering any concrete solutions.",
+      "The generality of the rule makes it hard to enforce."
+    ],
+    "evolution": [
+      {
+        "period": "Latin",
+        "form": "generalis",
+        "meaning": "general; relating to class",
+        "usage": "Root adjective."
+      },
+      {
+        "period": "French",
+        "form": "généralité",
+        "meaning": "generality",
+        "usage": "Noun for general state."
+      },
+      {
+        "period": "Modern English",
+        "form": "generality",
+        "meaning": "general statement; major part",
+        "usage": "Borrowed in the 14th century."
+      }
+    ]
+  },
+  "generate": {
+    "meaning": "To produce or create; cause to arise.",
+    "synonyms": [
+      "produce",
+      "create",
+      "cause",
+      "engender"
+    ],
+    "antonyms": [
+      "destroy",
+      "terminate",
+      "prevent",
+      "prevent"
+    ],
+    "examples": [
+      "The wind turbines generate clean electricity.",
+      "The new policy generated a lot of public interest."
+    ],
+    "evolution": [
+      {
+        "period": "Latin",
+        "form": "genus",
+        "meaning": "birth or kind",
+        "usage": "Root noun."
+      },
+      {
+        "period": "Latin",
+        "form": "generare",
+        "meaning": "to beget or produce",
+        "usage": "Verb form; borrowed into English in the 16th century."
+      },
+      {
+        "period": "Modern English",
+        "form": "generate",
+        "meaning": "To produce or create; cause to arise.",
+        "usage": "Standard modern usage."
+      }
+    ]
+  },
+  "generic": {
+    "meaning": "Characteristic of or relating to a class or group; not specific or brand-name.",
+    "synonyms": [
+      "general",
+      "common",
+      "collective",
+      "non-proprietary"
+    ],
+    "antonyms": [
+      "specific",
+      "individual",
+      "proprietary",
+      "unique"
+    ],
+    "examples": [
+      "Chutney is a generic term for spicy condiments.",
+      "We buy generic brands of medicine to save money."
+    ],
+    "evolution": [
+      {
+        "period": "Latin",
+        "form": "genus (gener-)",
+        "meaning": "kind, class, or race",
+        "usage": "Root noun."
+      },
+      {
+        "period": "French",
+        "form": "générique",
+        "meaning": "relating to a class",
+        "usage": "Coined in French science."
+      },
+      {
+        "period": "Modern English",
+        "form": "generic",
+        "meaning": "general; non-specific",
+        "usage": "Borrowed in the 17th century; commercial sense of non-branded products developed in the 20th century."
+      }
+    ]
+  },
+  "genesis": {
+    "meaning": "The origin or mode of formation of something.",
+    "synonyms": [
+      "origin",
+      "beginning",
+      "source",
+      "creation"
+    ],
+    "antonyms": [
+      "end",
+      "conclusion",
+      "termination",
+      "death"
+    ],
+    "examples": [
+      "The genesis of the project was a conversation over coffee.",
+      "The book traces the genesis of modern art."
+    ],
+    "evolution": [
+      {
+        "period": "Greek",
+        "form": "genesis",
+        "meaning": "origin, source, birth, or creation",
+        "usage": "From 'gignesthai' (to be born); borrowed into Latin and English as the title of the first book of the Bible, then generalized in the 17th century to any origin."
+      },
+      {
+        "period": "Middle English",
+        "form": "genesis",
+        "meaning": "origin, source, birth, or creation",
+        "usage": "Middle English development."
+      },
+      {
+        "period": "Modern English",
+        "form": "genesis",
+        "meaning": "The origin or mode of formation of something.",
+        "usage": "Standard modern usage."
+      }
+    ]
+  },
+  "geniality": {
+    "meaning": "The quality of having a friendly and cheerful manner; affability.",
+    "synonyms": [
+      "affability",
+      "warmth",
+      "friendliness",
+      "cheerfulness"
+    ],
+    "antonyms": [
+      "hostility",
+      "coldness",
+      "aloofness",
+      "irritability"
+    ],
+    "examples": [
+      "He was liked by everyone for his geniality and humor.",
+      "Her natural geniality made guests feel immediately at home."
+    ],
+    "evolution": [
+      {
+        "period": "Latin",
+        "form": "genius",
+        "meaning": "guardian spirit; natural inclination",
+        "usage": "Root noun."
+      },
+      {
+        "period": "Latin",
+        "form": "genialis",
+        "meaning": "festive or pleasant",
+        "usage": "Adjective associated with celebration and good humor."
+      },
+      {
+        "period": "Modern English",
+        "form": "genial",
+        "meaning": "friendly",
+        "usage": "Adjective adopted in the 16th century."
+      },
+      {
+        "period": "Modern English",
+        "form": "geniality",
+        "meaning": "friendly warmth",
+        "usage": "Noun formed with suffix '-ity' in the 18th century."
+      }
+    ]
+  },
+  "genre": {
+    "meaning": "A category of artistic composition characterized by similarities in form, style, or subject matter.",
+    "synonyms": [
+      "category",
+      "class",
+      "classification",
+      "style"
+    ],
+    "antonyms": [
+      "antonym",
+      "antonym",
+      "antonym",
+      "antonym"
+    ],
+    "examples": [
+      "Sci-fi is her favorite literary genre.",
+      "The film blends elements of comedy and horror genres."
+    ],
+    "evolution": [
+      {
+        "period": "Latin",
+        "form": "genus",
+        "meaning": "kind, gender, or class",
+        "usage": "Root noun."
+      },
+      {
+        "period": "French",
+        "form": "genre",
+        "meaning": "kind, gender, or style",
+        "usage": "Phonetic French development; borrowed into English in the 19th century specifically for categories of art/literature."
+      },
+      {
+        "period": "Modern English",
+        "form": "genre",
+        "meaning": "A category of artistic composition characterized by similarities in form, style, or subject matter.",
+        "usage": "Standard modern usage."
+      }
+    ]
+  },
+  "genteel": {
+    "meaning": "Polite, refined, or respectable, often in an affected or ostentatious way.",
+    "synonyms": [
+      "refined",
+      "polite",
+      "well-bred",
+      "affected"
+    ],
+    "antonyms": [
+      "uncouth",
+      "vulgar",
+      "rude",
+      "rough"
+    ],
+    "examples": [
+      "She grew up in a genteel household with strict manners.",
+      "He put on a genteel accent to impress his new colleagues."
+    ],
+    "evolution": [
+      {
+        "period": "Latin",
+        "form": "gentilis",
+        "meaning": "belonging to the same family or clan",
+        "usage": "Root adjective."
+      },
+      {
+        "period": "French",
+        "form": "gentil",
+        "meaning": "noble, refined, or polite",
+        "usage": "French development."
+      },
+      {
+        "period": "Modern English",
+        "form": "genteel",
+        "meaning": "polite or refined",
+        "usage": "Borrowed in the 16th century; later acquired a slightly mocking connotation of affected politeness (distinguishing it from 'gentle')."
+      }
+    ]
+  },
+  "gentility": {
+    "meaning": "Social superiority as demonstrated by polite manners, behavior, or appearances.",
+    "synonyms": [
+      "refinement",
+      "politeness",
+      "breeding",
+      "elegance"
+    ],
+    "antonyms": [
+      "vulgarity",
+      "rudeness",
+      "coarseness",
+      "coarseness"
+    ],
+    "examples": [
+      "Her quiet gentility stood out in the noisy crowd.",
+      "They struggled to maintain an appearance of gentility despite their poverty."
+    ],
+    "evolution": [
+      {
+        "period": "Latin",
+        "form": "gentilis",
+        "meaning": "relating to same clan",
+        "usage": "Root adjective."
+      },
+      {
+        "period": "Old French",
+        "form": "gentilice",
+        "meaning": "nobility or high birth",
+        "usage": "Old French noun."
+      },
+      {
+        "period": "Middle English",
+        "form": "gentilite",
+        "meaning": "noble birth; politeness",
+        "usage": "Borrowed in the 14th century; spelling modernized."
+      }
+    ]
+  },
+  "gentle": {
+    "meaning": "Mild, kind, or tender in temperament or behavior; soft or moderate.",
+    "synonyms": [
+      "mild",
+      "kind",
+      "soft",
+      "moderate"
+    ],
+    "antonyms": [
+      "harsh",
+      "violent",
+      "rough",
+      "cruel"
+    ],
+    "examples": [
+      "She gave him a gentle pat on the back.",
+      "The gentle breeze cooled the hot afternoon."
+    ],
+    "evolution": [
+      {
+        "period": "Latin",
+        "form": "gentilis",
+        "meaning": "of the same family or clan",
+        "usage": "Root adjective."
+      },
+      {
+        "period": "Old French",
+        "form": "gentil",
+        "meaning": "noble or high-born",
+        "usage": "Entered French in the Middle Ages."
+      },
+      {
+        "period": "Middle English",
+        "form": "gentil",
+        "meaning": "noble; kind",
+        "usage": "Borrowed in the 13th century; shifted from meaning high-born/noble to meaning kind and mild-mannered (befitting noble breeding)."
+      }
+    ]
+  },
+  "gentry": {
+    "meaning": "People of good social position, specifically the class below the nobility.",
+    "synonyms": [
+      "aristocracy",
+      "elite",
+      "high society",
+      "upper class"
+    ],
+    "antonyms": [
+      "peasantry",
+      "commoners",
+      "proletariat",
+      "plebeians"
+    ],
+    "examples": [
+      "The local gentry owned most of the land in the county.",
+      "He aspired to join the ranks of the gentry."
+    ],
+    "evolution": [
+      {
+        "period": "Latin",
+        "form": "gentilis",
+        "meaning": "of the same clan or race",
+        "usage": "Root adjective."
+      },
+      {
+        "period": "Old French",
+        "form": "genterise",
+        "meaning": "noble birth",
+        "usage": "Social noun."
+      },
+      {
+        "period": "Modern English",
+        "form": "gentry",
+        "meaning": "people of good social position",
+        "usage": "Standard noun."
+      }
+    ]
+  },
+  "genuflect": {
+    "meaning": "Lower one's body briefly by bending one knee to the ground, typically in worship or respect.",
+    "synonyms": [
+      "bow",
+      "kneel",
+      "curtsy",
+      "bend"
+    ],
+    "antonyms": [
+      "stand erect",
+      "stand erect",
+      "stand erect",
+      "stand erect"
+    ],
+    "examples": [
+      "She genuflected before entering the church pew.",
+      "The courtiers were expected to genuflect before the emperor."
+    ],
+    "evolution": [
+      {
+        "period": "Latin",
+        "form": "genu",
+        "meaning": "knee",
+        "usage": "Root noun."
+      },
+      {
+        "period": "Latin",
+        "form": "flectere",
+        "meaning": "to bend",
+        "usage": "Root verb."
+      },
+      {
+        "period": "Late Latin",
+        "form": "genuflectere",
+        "meaning": "to bend the knee",
+        "usage": "Combined verb used in church liturgies; borrowed into English in the 17th century."
+      }
+    ]
+  },
+  "genus": {
+    "meaning": "A principal taxonomic category that ranks above species and below family.",
+    "synonyms": [
+      "class",
+      "category",
+      "group",
+      "kind"
+    ],
+    "antonyms": [
+      "species",
+      "species",
+      "species",
+      "species"
+    ],
+    "examples": [
+      "Dogs belong to the genus Canis.",
+      "The botanist identified a new genus of ferns."
+    ],
+    "evolution": [
+      {
+        "period": "Latin",
+        "form": "genus",
+        "meaning": "birth, race, kind, or family",
+        "usage": "From Greek 'genos' (race); borrowed into English in the 16th century, and later adopted by Carl Linnaeus for scientific biological classification."
+      },
+      {
+        "period": "Middle English",
+        "form": "genus",
+        "meaning": "birth, race, kind, or family",
+        "usage": "Middle English development."
+      },
+      {
+        "period": "Modern English",
+        "form": "genus",
+        "meaning": "A principal taxonomic category that ranks above species and below family.",
+        "usage": "Standard modern usage."
+      }
+    ]
+  },
+  "geriatrics": {
+    "meaning": "The branch of medicine dealing with the health and care of elderly people.",
+    "synonyms": [
+      "eldercare",
+      "senile medicine",
+      "senile medicine",
+      "senile medicine"
+    ],
+    "antonyms": [
+      "pediatrics",
+      "pediatrics",
+      "pediatrics",
+      "pediatrics"
+    ],
+    "examples": [
+      "The hospital opened a new ward specializing in geriatrics.",
+      "She is studying geriatrics to help care for aging patients."
+    ],
+    "evolution": [
+      {
+        "period": "Greek",
+        "form": "geron",
+        "meaning": "old man",
+        "usage": "Root noun."
+      },
+      {
+        "period": "Greek",
+        "form": "iatros",
+        "meaning": "physician",
+        "usage": "Root noun for healer/doctor."
+      },
+      {
+        "period": "Modern English",
+        "form": "geriatrics",
+        "meaning": "elderly medicine",
+        "usage": "Coined in 1909 by Ignatz Leo Nascher on the model of 'pediatrics'."
+      }
+    ]
+  },
+  "germ": {
+    "meaning": "A microorganism, especially one which causes disease; a portion of an organism capable of developing into a new one; origin.",
+    "synonyms": [
+      "microbe",
+      "pathogen",
+      "seed",
+      "origin"
+    ],
+    "antonyms": [
+      "antonym",
+      "antonym",
+      "antonym",
+      "antonym"
+    ],
+    "examples": [
+      "Wash your hands to kill any germs.",
+      "The book contained the germ of a brilliant scientific theory."
+    ],
+    "evolution": [
+      {
+        "period": "Latin",
+        "form": "germen",
+        "meaning": "sprout, bud, or seed",
+        "usage": "Root noun."
+      },
+      {
+        "period": "Old French",
+        "form": "germe",
+        "meaning": "seed; sprout",
+        "usage": "Adopted in French."
+      },
+      {
+        "period": "Modern English",
+        "form": "germ",
+        "meaning": "seed; microbe",
+        "usage": "Borrowed in the 15th century; shifted from botanical sprout/seed to disease-causing microbes in the 19th century with germ theory."
+      }
+    ]
+  },
+  "germane": {
+    "meaning": "Relevant to a subject under consideration.",
+    "synonyms": [
+      "relevant",
+      "pertinent",
+      "applicable",
+      "apposite"
+    ],
+    "antonyms": [
+      "irrelevant",
+      "inapplicable",
+      "peripheral",
+      "unrelated"
+    ],
+    "examples": [
+      "His remarks were not germane to the topic of the debate.",
+      "Please only ask questions that are germane to the lecture."
+    ],
+    "evolution": [
+      {
+        "period": "Latin",
+        "form": "germanus",
+        "meaning": "having the same parents",
+        "usage": "Root adjective."
+      },
+      {
+        "period": "Middle English",
+        "form": "germain",
+        "meaning": "closely related",
+        "usage": "Adjective form."
+      },
+      {
+        "period": "Modern English",
+        "form": "germane",
+        "meaning": "relevant to a subject under consideration",
+        "usage": "Standard adjective."
+      }
+    ]
+  },
+  "germinal": {
+    "meaning": "Relating to a germ or germ cell; in the earliest stage of development.",
+    "synonyms": [
+      "embryonic",
+      "initial",
+      "beginning",
+      "rudimentary"
+    ],
+    "antonyms": [
+      "mature",
+      "developed",
+      "finished",
+      "final"
+    ],
+    "examples": [
+      "The germinal idea for the novel came to her in a dream.",
+      "The experiment was still in its germinal stage."
+    ],
+    "evolution": [
+      {
+        "period": "Latin",
+        "form": "germen (germinin-)",
+        "meaning": "seed or sprout",
+        "usage": "Root noun."
+      },
+      {
+        "period": "French",
+        "form": "germinal",
+        "meaning": "related to seeds or early stages",
+        "usage": "Adjectival form."
+      },
+      {
+        "period": "Modern English",
+        "form": "germinal",
+        "meaning": "providing the seed of; embryonic",
+        "usage": "Standard adjective."
+      }
+    ]
+  },
+  "germinate": {
+    "meaning": "Begin to grow and put out shoots after a period of dormancy; cause to grow.",
+    "synonyms": [
+      "sprout",
+      "grow",
+      "develop",
+      "shoot"
+    ],
+    "antonyms": [
+      "wither",
+      "decay",
+      "die",
+      "shrink"
+    ],
+    "examples": [
+      "The seeds began to germinate after a few days of rain.",
+      "We need to germinate the ideas before presenting them."
+    ],
+    "evolution": [
+      {
+        "period": "Latin",
+        "form": "germen",
+        "meaning": "seed",
+        "usage": "Root noun."
+      },
+      {
+        "period": "Latin",
+        "form": "germinare",
+        "meaning": "to sprout",
+        "usage": "Verb form."
+      },
+      {
+        "period": "Modern English",
+        "form": "germinate",
+        "meaning": "begin to grow and put out shoots",
+        "usage": "Standard verb."
+      }
+    ]
+  },
+  "gerontocracy": {
+    "meaning": "A state, society, or group governed by old people.",
+    "synonyms": [
+      "government by elders",
+      "elder-rule",
+      "elder-rule",
+      "elder-rule"
+    ],
+    "antonyms": [
+      "neocracy",
+      "neocracy",
+      "neocracy",
+      "neocracy"
+    ],
+    "examples": [
+      "The country was ruled by a rigid gerontocracy that resisted reform.",
+      "Critics described the senate as a slow-moving gerontocracy."
+    ],
+    "evolution": [
+      {
+        "period": "Greek",
+        "form": "geron",
+        "meaning": "old man",
+        "usage": "Root noun."
+      },
+      {
+        "period": "Greek",
+        "form": "-kratia",
+        "meaning": "rule or power",
+        "usage": "Suffix."
+      },
+      {
+        "period": "Modern English",
+        "form": "gerontocracy",
+        "meaning": "rule by elders",
+        "usage": "Coined in the 19th century on the model of democracy."
+      }
+    ]
+  },
+  "gerontology": {
+    "meaning": "The scientific study of old age, the process of aging, and the problems of elderly people.",
+    "synonyms": [
+      "study of aging",
+      "senology",
+      "senology",
+      "senology"
+    ],
+    "antonyms": [
+      "pediatrics",
+      "pediatrics",
+      "pediatrics",
+      "pediatrics"
+    ],
+    "examples": [
+      "He decided to pursue a degree in gerontology.",
+      "Gerontology research has increased our understanding of life expectancy."
+    ],
+    "evolution": [
+      {
+        "period": "Greek",
+        "form": "geron",
+        "meaning": "old man",
+        "usage": "Root noun."
+      },
+      {
+        "period": "Greek",
+        "form": "-logia",
+        "meaning": "study of",
+        "usage": "Suffix."
+      },
+      {
+        "period": "Modern English",
+        "form": "gerontology",
+        "meaning": "study of aging",
+        "usage": "Coined in the early 20th century."
+      }
+    ]
+  },
+  "gerrymander": {
+    "meaning": "Manipulate the boundaries of an electoral constituency so as to favor one party or class.",
+    "synonyms": [
+      "manipulate",
+      "rig",
+      "doctor",
+      "redefine"
+    ],
+    "antonyms": [
+      "antonym",
+      "antonym",
+      "antonym",
+      "antonym"
+    ],
+    "examples": [
+      "The ruling party was accused of gerrymandering the congressional districts.",
+      "A fair election requires boundaries that are not gerrymandered."
+    ],
+    "evolution": [
+      {
+        "period": "American English",
+        "form": "Gerry + salamander",
+        "meaning": "Gerrymander",
+        "usage": "Coined in 1812 by combining the name of Elbridge Gerry (Governor of Massachusetts, who approved a highly distorted electoral map) + 'salamander' (describing the dragon-like shape of one of the districts)."
+      },
+      {
+        "period": "Middle English",
+        "form": "Gerry + salamander",
+        "meaning": "Gerrymander",
+        "usage": "Middle English development."
+      },
+      {
+        "period": "Modern English",
+        "form": "gerrymander",
+        "meaning": "Manipulate the boundaries of an electoral constituency so as to favor one party or class.",
+        "usage": "Standard modern usage."
+      }
+    ]
+  },
+  "gestate": {
+    "meaning": "Carry a fetus in the womb during pregnancy; develop an idea or plan in the mind.",
+    "synonyms": [
+      "develop",
+      "carry",
+      "incubate",
+      "mature"
+    ],
+    "antonyms": [
+      "abort",
+      "discard",
+      "discard",
+      "discard"
+    ],
+    "examples": [
+      "The female elephant will gestate her young for nearly two years.",
+      "The plan was allowed to gestate in his mind for several months."
+    ],
+    "evolution": [
+      {
+        "period": "Latin",
+        "form": "gerere",
+        "meaning": "to carry or bear",
+        "usage": "Root verb."
+      },
+      {
+        "period": "Latin",
+        "form": "gestare",
+        "meaning": "to bear or carry",
+        "usage": "Frequentative verb form."
+      },
+      {
+        "period": "Modern English",
+        "form": "gestate",
+        "meaning": "carry in womb; develop idea",
+        "usage": "Coined in the 19th century."
+      }
+    ]
+  },
+  "gesticulation": {
+    "meaning": "A gesture, especially a dramatic one, used instead of speaking or to emphasize one's words.",
+    "synonyms": [
+      "gesture",
+      "motion",
+      "signal",
+      "sign"
+    ],
+    "antonyms": [
+      "repose",
+      "stillness",
+      "stillness",
+      "stillness"
+    ],
+    "examples": [
+      "He accompanied his wild speech with enthusiastic gesticulations.",
+      "The driver's angry gesticulations made his feelings clear."
+    ],
+    "evolution": [
+      {
+        "period": "Latin",
+        "form": "gestus",
+        "meaning": "gesture",
+        "usage": "From 'gerere' (to perform/carry)."
+      },
+      {
+        "period": "Latin",
+        "form": "gesticulari",
+        "meaning": "to make gestures",
+        "usage": "Verb form."
+      },
+      {
+        "period": "Latin",
+        "form": "gesticulatio",
+        "meaning": "gesticulating",
+        "usage": "Noun form; entered English in the 16th century."
+      }
+    ]
+  },
+  "ghastly": {
+    "meaning": "Causing great horror or fear; frightful or extremely pale and unwell.",
+    "synonyms": [
+      "horrific",
+      "terrible",
+      "gruesome",
+      "pale"
+    ],
+    "antonyms": [
+      "pleasant",
+      "beautiful",
+      "healthy",
+      "wonderful"
+    ],
+    "examples": [
+      "The accident was a ghastly sight.",
+      "She looked ghastly after a sleepless night."
+    ],
+    "evolution": [
+      {
+        "period": "Old English",
+        "form": "gast",
+        "meaning": "ghost or spirit",
+        "usage": "Root noun."
+      },
+      {
+        "period": "Middle English",
+        "form": "gasten",
+        "meaning": "to terrify",
+        "usage": "Verb form."
+      },
+      {
+        "period": "Middle English",
+        "form": "gastly",
+        "meaning": "terrifying; ghost-like",
+        "usage": "Spelling altered to 'ghastly' in the 16th century, likely influenced by Flemish/Dutch 'gheest' (ghost)."
+      }
+    ]
+  },
+  "gibberish": {
+    "meaning": "Unintelligible or meaningless speech or writing; nonsense.",
+    "synonyms": [
+      "nonsense",
+      "jargon",
+      "babble",
+      "double-talk"
+    ],
+    "antonyms": [
+      "sense",
+      "clarity",
+      "plain English",
+      "plain English"
+    ],
+    "examples": [
+      "He was speaking in gibberish due to the high fever.",
+      "The contract was full of legal gibberish."
+    ],
+    "evolution": [
+      {
+        "period": "Early Modern English",
+        "form": "gibberish",
+        "meaning": "meaningless babble",
+        "usage": "Arose in the 16th century as an imitative word mimicking rapid chattering sounds; suffix '-ish' added to denote a language."
+      },
+      {
+        "period": "Middle English",
+        "form": "gibberish",
+        "meaning": "meaningless babble",
+        "usage": "Middle English development."
+      },
+      {
+        "period": "Modern English",
+        "form": "gibberish",
+        "meaning": "Unintelligible or meaningless speech or writing; nonsense.",
+        "usage": "Standard modern usage."
+      }
+    ]
+  },
+  "gibe": {
+    "meaning": "An insulting or mocking remark; to taunt or mock.",
+    "synonyms": [
+      "taunt",
+      "mock",
+      "jeer",
+      "sneer"
+    ],
+    "antonyms": [
+      "praise",
+      "compliment",
+      "flatter",
+      "flatter"
+    ],
+    "examples": [
+      "The comedian had to endure gibes from the audience.",
+      "They gibed at his old-fashioned clothes."
+    ],
+    "evolution": [
+      {
+        "period": "Old French (Probable)",
+        "form": "giber",
+        "meaning": "to shake or handle roughly",
+        "usage": "Root verb."
+      },
+      {
+        "period": "Early Modern English",
+        "form": "gibe",
+        "meaning": "to mock or sneer",
+        "usage": "Verb form."
+      },
+      {
+        "period": "Modern English",
+        "form": "gibe",
+        "meaning": "an insulting or mocking remark",
+        "usage": "Standard noun/verb."
+      }
+    ]
+  },
+  "giddy": {
+    "meaning": "Having a sensation of whirling and tendency to fall; lightheaded; frivolous and flighty.",
+    "synonyms": [
+      "dizzy",
+      "lightheaded",
+      "frivolous",
+      "flighty"
+    ],
+    "antonyms": [
+      "steady",
+      "serious",
+      "calm",
+      "sober"
+    ],
+    "examples": [
+      "She felt giddy after spinning around.",
+      "The children were giddy with excitement on Christmas Eve."
+    ],
+    "evolution": [
+      {
+        "period": "Old English",
+        "form": "gidig",
+        "meaning": "insane; possessed by a god",
+        "usage": "Adjective root."
+      },
+      {
+        "period": "Middle English",
+        "form": "gidy",
+        "meaning": "mad or foolish",
+        "usage": "Adjective form."
+      },
+      {
+        "period": "Modern English",
+        "form": "giddy",
+        "meaning": "having a sensation of spinning; lighthearted",
+        "usage": "Standard adjective."
+      }
+    ]
+  },
+  "gild": {
+    "meaning": "Coat with gold leaf or gold paint; give a specious or false brilliance to.",
+    "synonyms": [
+      "coat with gold",
+      "adorn",
+      "embellish",
+      "glaze"
+    ],
+    "antonyms": [
+      "strip",
+      "tarnish",
+      "tarnish",
+      "tarnish"
+    ],
+    "examples": [
+      "The artist proceeded to gild the picture frame.",
+      "There is no need to gild the lily; the design is already perfect."
+    ],
+    "evolution": [
+      {
+        "period": "Proto-Germanic",
+        "form": "gultha",
+        "meaning": "gold",
+        "usage": "Root noun."
+      },
+      {
+        "period": "Old English",
+        "form": "gyldan",
+        "meaning": "to plate or cover with gold",
+        "usage": "Everyday craft verb; spelling modernized in Middle English."
+      },
+      {
+        "period": "Modern English",
+        "form": "gild",
+        "meaning": "Coat with gold leaf or gold paint; give a specious or false brilliance to.",
+        "usage": "Standard modern usage."
+      }
+    ]
+  },
+  "gingerly": {
+    "meaning": "In a careful or cautious manner.",
+    "synonyms": [
+      "cautiously",
+      "carefully",
+      "warily",
+      "delicately"
+    ],
+    "antonyms": [
+      "carelessly",
+      "recklessly",
+      "boldly",
+      "boldly"
+    ],
+    "examples": [
+      "He gingerly stepped over the broken glass.",
+      "She handled the fragile antique gingerly."
+    ],
+    "evolution": [
+      {
+        "period": "Latin",
+        "form": "gentilis",
+        "meaning": "well-born",
+        "usage": "Root adjective."
+      },
+      {
+        "period": "Old French",
+        "form": "gensor",
+        "meaning": "delicate, pretty, or graceful",
+        "usage": "Comparative adjective."
+      },
+      {
+        "period": "Modern English",
+        "form": "gingerly",
+        "meaning": "delicately; cautiously",
+        "usage": "Entered English in the 16th century, originally meaning daintily or fastidiously; later shifted to cautious movement."
+      }
+    ]
+  },
+  "girth": {
+    "meaning": "The measurement around the middle of something; a band passed around a horse's belly to secure a saddle.",
+    "synonyms": [
+      "circumference",
+      "perimeter",
+      "width",
+      "strap"
+    ],
+    "antonyms": [
+      "antonym",
+      "antonym",
+      "antonym",
+      "antonym"
+    ],
+    "examples": [
+      "The ancient oak tree had a massive girth.",
+      "He tightened the horse's girth before mounting."
+    ],
+    "evolution": [
+      {
+        "period": "Old Norse",
+        "form": "gjorð",
+        "meaning": "girdle, belt, or band",
+        "usage": "Scandinavian root."
+      },
+      {
+        "period": "Middle English",
+        "form": "girth",
+        "meaning": "belt securing a saddle; circumference",
+        "usage": "Spelling modernized; shifted from physical belt to the measurement around an object."
+      },
+      {
+        "period": "Modern English",
+        "form": "girth",
+        "meaning": "The measurement around the middle of something; a band passed around a horse's belly to secure a saddle.",
+        "usage": "Standard modern usage."
+      }
+    ]
+  },
+  "gist": {
+    "meaning": "The substance or general meaning of a speech, text, or argument.",
+    "synonyms": [
+      "essence",
+      "core",
+      "substance",
+      "crux"
+    ],
+    "antonyms": [
+      "trivia",
+      "detritus",
+      "periphery",
+      "exterior"
+    ],
+    "examples": [
+      "I didn't catch every word, but I got the gist of his argument.",
+      "The gist of the article was that the economy is improving."
+    ],
+    "evolution": [
+      {
+        "period": "Latin",
+        "form": "jacere",
+        "meaning": "to lie",
+        "usage": "Root verb."
+      },
+      {
+        "period": "Old French",
+        "form": "gist",
+        "meaning": "it lies (from 'gesir')",
+        "usage": "Legal phrase ('the point where the action lies')."
+      },
+      {
+        "period": "Modern English",
+        "form": "gist",
+        "meaning": "the substance or essence of a speech or text",
+        "usage": "Standard noun."
+      }
+    ]
+  },
+  "glacial": {
+    "meaning": "Relating to glaciers or ice; extremely cold, icy, or slow-moving.",
+    "synonyms": [
+      "icy",
+      "freezing",
+      "frigid",
+      "slow"
+    ],
+    "antonyms": [
+      "warm",
+      "hot",
+      "tropical",
+      "rapid"
+    ],
+    "examples": [
+      "Glacial melting is a sign of global warming.",
+      "The negotiations proceeded at a glacial pace."
+    ],
+    "evolution": [
+      {
+        "period": "Latin",
+        "form": "glacies",
+        "meaning": "ice",
+        "usage": "Root noun."
+      },
+      {
+        "period": "Latin",
+        "form": "glacialis",
+        "meaning": "icy",
+        "usage": "Adjective form."
+      },
+      {
+        "period": "French",
+        "form": "glacial",
+        "meaning": "glacial",
+        "usage": "Entered French in the Middle Ages."
+      },
+      {
+        "period": "Modern English",
+        "form": "glacial",
+        "meaning": "icy; extremely slow",
+        "usage": "Adopted in the 17th century; metaphorical sense for cold behavior or slow speed arose in the 19th century."
+      }
+    ]
+  },
+  "glamor": {
+    "meaning": "An attractive, exciting, or magical quality that makes someone or something seem appealing.",
+    "synonyms": [
+      "appeal",
+      "charm",
+      "allure",
+      "prestige"
+    ],
+    "antonyms": [
+      "dullness",
+      "ugliness",
+      "drabness",
+      "drabness"
+    ],
+    "examples": [
+      "The movie star brought a touch of Hollywood glamor to the town.",
+      "She was drawn to the glamor of a career in fashion."
+    ],
+    "evolution": [
+      {
+        "period": "Latin",
+        "form": "grammatica",
+        "meaning": "grammar; learning",
+        "usage": "Root noun."
+      },
+      {
+        "period": "Middle English",
+        "form": "grammar",
+        "meaning": "scholarship; occult learning",
+        "usage": "In popular mind, learning/writing was associated with magic spells."
+      },
+      {
+        "period": "Scottish",
+        "form": "glamer / glamour",
+        "meaning": "magic spell; illusion",
+        "usage": "Altered form of grammar meaning a spell cast to affect eyesight, making things appear beautiful; popularized by Walter Scott in the 19th century."
+      }
+    ]
+  },
+  "glare": {
+    "meaning": "Stare in an angry or fierce way; shine with a strong, dazzling, or harsh light.",
+    "synonyms": [
+      "scowl",
+      "glower",
+      "dazzle",
+      "shine"
+    ],
+    "antonyms": [
+      "smile",
+      "grin",
+      "glimmer",
+      "glimmer"
+    ],
+    "examples": [
+      "He glared at his rival across the table.",
+      "The sun's glare reflected off the snow."
+    ],
+    "evolution": [
+      {
+        "period": "Middle Dutch",
+        "form": "glaren",
+        "meaning": "to gleam or shine",
+        "usage": "Verb root."
+      },
+      {
+        "period": "Middle English",
+        "form": "glaren",
+        "meaning": "to shine brightly",
+        "usage": "Verb form."
+      },
+      {
+        "period": "Modern English",
+        "form": "glare",
+        "meaning": "stare in an angry way; strong dazzling light",
+        "usage": "Standard verb/noun."
+      }
+    ]
+  },
+  "glaring": {
+    "meaning": "Highly obvious; conspicuously bad or offensive.",
+    "synonyms": [
+      "blatant",
+      "obvious",
+      "egregious",
+      "conspicuous"
+    ],
+    "antonyms": [
+      "subtle",
+      "hidden",
+      "minor",
+      "inconspicuous"
+    ],
+    "examples": [
+      "There were several glaring errors in the report.",
+      "His glaring lies were exposed immediately."
+    ],
+    "evolution": [
+      {
+        "period": "Middle English",
+        "form": "glaren",
+        "meaning": "to shine",
+        "usage": "Root verb."
+      },
+      {
+        "period": "Modern English",
+        "form": "glaring",
+        "meaning": "blindingly bright; obvious",
+        "usage": "Participle adjective; shifted from physical light to describe conspicuous or scandalous errors/actions."
+      },
+      {
+        "period": "Modern English",
+        "form": "glaring",
+        "meaning": "Highly obvious; conspicuously bad or offensive.",
+        "usage": "Standard modern usage."
+      }
+    ]
+  },
+  "glaze": {
+    "meaning": "overlay or fit with glass; cover with a smooth, shiny coating.",
+    "synonyms": [
+      "coat",
+      "varnish",
+      "enamel",
+      "cover"
+    ],
+    "antonyms": [
+      "strip",
+      "roughen",
+      "roughen",
+      "roughen"
+    ],
+    "examples": [
+      "We need to glaze the windows before winter.",
+      "She applied a sweet sugar glaze to the donuts."
+    ],
+    "evolution": [
+      {
+        "period": "Old English",
+        "form": "glaes",
+        "meaning": "glass",
+        "usage": "Root noun."
+      },
+      {
+        "period": "Middle English",
+        "form": "glasen",
+        "meaning": "to fit with glass",
+        "usage": "Verb form."
+      },
+      {
+        "period": "Modern English",
+        "form": "glaze",
+        "meaning": "overlay with a smooth, shiny coating",
+        "usage": "Standard verb."
+      }
+    ]
+  },
+  "gleam": {
+    "meaning": "Shine brightly, especially with reflected light; a faint or brief light or emotion.",
+    "synonyms": [
+      "shine",
+      "glimmer",
+      "flash",
+      "spark"
+    ],
+    "antonyms": [
+      "darkness",
+      "shadow",
+      "shadow",
+      "shadow"
+    ],
+    "examples": [
+      "The clean car gleamed in the sun.",
+      "A gleam of hope appeared in her eyes."
+    ],
+    "evolution": [
+      {
+        "period": "Old English",
+        "form": "glæm",
+        "meaning": "bright light or brilliance",
+        "usage": "Germanic noun; spelling shifted to 'gleam' in Middle English, meaning a soft or fleeting light."
+      },
+      {
+        "period": "Middle English",
+        "form": "glæm",
+        "meaning": "bright light or brilliance",
+        "usage": "Middle English development."
+      },
+      {
+        "period": "Modern English",
+        "form": "gleam",
+        "meaning": "Shine brightly, especially with reflected light; a faint or brief light or emotion.",
+        "usage": "Standard modern usage."
+      }
+    ]
+  },
+  "glean": {
+    "meaning": "Extract information from various sources; gather grain left by harvesters.",
+    "synonyms": [
+      "gather",
+      "collect",
+      "extract",
+      "harvest"
+    ],
+    "antonyms": [
+      "dispense",
+      "scatter",
+      "waste",
+      "waste"
+    ],
+    "examples": [
+      "We managed to glean some useful details from the reports.",
+      "Poor villagers were allowed to glean the fields after the harvest."
+    ],
+    "evolution": [
+      {
+        "period": "Late Latin",
+        "form": "glenare",
+        "meaning": "to gather",
+        "usage": "Agricultural verb."
+      },
+      {
+        "period": "Old French",
+        "form": "glener",
+        "meaning": "to glean",
+        "usage": "French development."
+      },
+      {
+        "period": "Modern English",
+        "form": "glean",
+        "meaning": "extract information from various sources; collect gradually",
+        "usage": "Standard verb."
+      }
+    ]
+  },
+  "glib": {
+    "meaning": "Fluent but insincere and shallow.",
+    "synonyms": [
+      "slick",
+      "smooth-tongued",
+      "fast-talking",
+      "superficial"
+    ],
+    "antonyms": [
+      "sincere",
+      "profound",
+      "hesitant",
+      "thoughtful"
+    ],
+    "examples": [
+      "His glib explanations did not satisfy the critics.",
+      "She is a glib salesperson who can sell anything."
+    ],
+    "evolution": [
+      {
+        "period": "Low German",
+        "form": "glibberig",
+        "meaning": "slippery",
+        "usage": "Adjective root."
+      },
+      {
+        "period": "Early Modern English",
+        "form": "glib",
+        "meaning": "smooth-spoken or slippery",
+        "usage": "Adjective form."
+      },
+      {
+        "period": "Modern English",
+        "form": "glib",
+        "meaning": "fluent but insincere and shallow",
+        "usage": "Standard adjective."
+      }
+    ]
+  },
+  "glimmer": {
+    "meaning": "Shine faintly with a wavering light; a faint sign of a feeling.",
+    "synonyms": [
+      "flicker",
+      "shimmer",
+      "gleam",
+      "spark"
+    ],
+    "antonyms": [
+      "steady light",
+      "darkness",
+      "darkness",
+      "darkness"
+    ],
+    "examples": [
+      "A single candle glimmered in the dark cabin.",
+      "There is still a glimmer of hope that they will return."
+    ],
+    "evolution": [
+      {
+        "period": "Middle English",
+        "form": "glimeren",
+        "meaning": "to shine faintly",
+        "usage": "Onomatopoeic verb."
+      },
+      {
+        "period": "Early Modern English",
+        "form": "glimmer",
+        "meaning": "shine unsteadily",
+        "usage": "Verb form."
+      },
+      {
+        "period": "Modern English",
+        "form": "glimmer",
+        "meaning": "shine faintly with a wavering light",
+        "usage": "Standard verb/noun."
+      }
+    ]
+  },
+  "glitter": {
+    "meaning": "Shine with a bright, shimmering reflected light; tiny sparkling pieces.",
+    "synonyms": [
+      "sparkle",
+      "shimmer",
+      "flash",
+      "glint"
+    ],
+    "antonyms": [
+      "dullness",
+      "matte",
+      "matte",
+      "matte"
+    ],
+    "examples": [
+      "Her diamond necklace glittered under the chandeliers.",
+      "The children decorated the card with glue and glitter."
+    ],
+    "evolution": [
+      {
+        "period": "Old Norse",
+        "form": "glitra",
+        "meaning": "to sparkle or shine",
+        "usage": "Scandinavian root."
+      },
+      {
+        "period": "Middle English",
+        "form": "gliteren",
+        "meaning": "to sparkle",
+        "usage": "Spelling modernized; noun form representing tiny decorative sparkles arose in the 20th century."
+      },
+      {
+        "period": "Modern English",
+        "form": "glitter",
+        "meaning": "Shine with a bright, shimmering reflected light; tiny sparkling pieces.",
+        "usage": "Standard modern usage."
+      }
+    ]
+  },
+  "gloat": {
+    "meaning": "Dwell on one's own success or another's misfortune with smugness or malignant pleasure.",
+    "synonyms": [
+      "relish",
+      "triumph",
+      "crow",
+      "boast"
+    ],
+    "antonyms": [
+      "sympathize",
+      "commiserate",
+      "mourn",
+      "mourn"
+    ],
+    "examples": [
+      "Don't gloat over your victory; show some sportsmanship.",
+      "He stood there gloating as his rival failed."
+    ],
+    "evolution": [
+      {
+        "period": "German (Probable)",
+        "form": "glotzen",
+        "meaning": "to stare or gawk",
+        "usage": "Verb root."
+      },
+      {
+        "period": "Early Modern English",
+        "form": "gloat",
+        "meaning": "to look at with broad satisfaction or malicious joy",
+        "usage": "Verb form."
+      },
+      {
+        "period": "Modern English",
+        "form": "gloat",
+        "meaning": "dwell on one's own success or another's misfortune with smugness",
+        "usage": "Standard verb."
+      }
+    ]
+  },
+  "gloss": {
+    "meaning": "Shining luster on a surface; an explanation or translation of a difficult word.",
+    "synonyms": [
+      "shine",
+      "luster",
+      "explanation",
+      "annotation"
+    ],
+    "antonyms": [
+      "matte",
+      "obscurity",
+      "obscurity",
+      "obscurity"
+    ],
+    "examples": [
+      "The varnish gave the wood a high gloss.",
+      "The scholar added a gloss to explain the archaic word."
+    ],
+    "evolution": [
+      {
+        "period": "Icelandic",
+        "form": "glosa",
+        "meaning": "to explanation or comment",
+        "usage": "Root noun."
+      },
+      {
+        "period": "Latin",
+        "form": "glossa",
+        "meaning": "foreign or difficult word needing explanation",
+        "usage": "Linguistic noun."
+      },
+      {
+        "period": "Modern English",
+        "form": "gloss",
+        "meaning": "provide an explanation; shine or luster",
+        "usage": "Standard noun/verb."
+      }
+    ]
+  },
+  "glossary": {
+    "meaning": "An alphabetical list of terms in a particular domain with definitions.",
+    "synonyms": [
+      "dictionary",
+      "lexicon",
+      "wordlist",
+      "wordlist"
+    ],
+    "antonyms": [
+      "antonym",
+      "antonym",
+      "antonym",
+      "antonym"
+    ],
+    "examples": [
+      "The textbook includes a glossary of technical terms at the back.",
+      "He consulted the glossary to find the meaning of the word."
+    ],
+    "evolution": [
+      {
+        "period": "Greek",
+        "form": "glossa",
+        "meaning": "tongue; word",
+        "usage": "Root noun."
+      },
+      {
+        "period": "Latin",
+        "form": "glossarium",
+        "meaning": "collection of glosses/translations",
+        "usage": "Noun for word collections; borrowed into English in the 14th century."
+      },
+      {
+        "period": "Modern English",
+        "form": "glossary",
+        "meaning": "An alphabetical list of terms in a particular domain with definitions.",
+        "usage": "Standard modern usage."
+      }
+    ]
+  },
+  "glossy": {
+    "meaning": "Smooth and shiny in appearance.",
+    "synonyms": [
+      "shiny",
+      "polished",
+      "sleek",
+      "lustrous"
+    ],
+    "antonyms": [
+      "matte",
+      "dull",
+      "rough",
+      "rough"
+    ],
+    "examples": [
+      "The magazine had a glossy cover.",
+      "The dog's coat was healthy and glossy."
+    ],
+    "evolution": [
+      {
+        "period": "Icelandic",
+        "form": "glossi",
+        "meaning": "shine",
+        "usage": "Root noun."
+      },
+      {
+        "period": "Modern English",
+        "form": "glossy",
+        "meaning": "having a shiny surface",
+        "usage": "Adjective formed with suffix '-y' in the 16th century."
+      },
+      {
+        "period": "Modern English",
+        "form": "glossy",
+        "meaning": "Smooth and shiny in appearance.",
+        "usage": "Standard modern usage."
+      }
+    ]
+  },
+  "glow": {
+    "meaning": "Shine with a steady light and heat without flame; show strong, warm color or emotion.",
+    "synonyms": [
+      "shine",
+      "gleam",
+      "blush",
+      "radiate"
+    ],
+    "antonyms": [
+      "fade",
+      "grow cold",
+      "grow cold",
+      "grow cold"
+    ],
+    "examples": [
+      "The coals glowed red in the fireplace.",
+      "Her face glowed with happiness."
+    ],
+    "evolution": [
+      {
+        "period": "Old English",
+        "form": "glowan",
+        "meaning": "to glow or shine like hot iron",
+        "usage": "Germanic verb; spelling modernized in Middle English."
+      },
+      {
+        "period": "Middle English",
+        "form": "glowan",
+        "meaning": "to glow or shine like hot iron",
+        "usage": "Middle English development."
+      },
+      {
+        "period": "Modern English",
+        "form": "glow",
+        "meaning": "Shine with a steady light and heat without flame; show strong, warm color or emotion.",
+        "usage": "Standard modern usage."
+      }
+    ]
+  },
+  "glower": {
+    "meaning": "Have an angry or sullen look on one's face; scowl.",
+    "synonyms": [
+      "scowl",
+      "glare",
+      "frown",
+      "lower"
+    ],
+    "antonyms": [
+      "smile",
+      "grin",
+      "beam",
+      "smirk"
+    ],
+    "examples": [
+      "The teacher glowered at the noisy student.",
+      "He sat in the corner, glowering at everyone."
+    ],
+    "evolution": [
+      {
+        "period": "Middle English",
+        "form": "glowren",
+        "meaning": "to stare or frown",
+        "usage": "Dialect verb."
+      },
+      {
+        "period": "Early Modern English",
+        "form": "glower",
+        "meaning": "to look angry",
+        "usage": "Verb form."
+      },
+      {
+        "period": "Modern English",
+        "form": "glower",
+        "meaning": "have an angry or sullen look on one's face",
+        "usage": "Standard verb."
+      }
+    ]
+  },
+  "glut": {
+    "meaning": "An excessively abundant supply of something; to supply or fill to excess.",
+    "synonyms": [
+      "surplus",
+      "excess",
+      "flood",
+      "satiate"
+    ],
+    "antonyms": [
+      "scarcity",
+      "dearth",
+      "shortage",
+      "lack"
+    ],
+    "examples": [
+      "There is a glut of oil on the market, driving prices down.",
+      "The market was glutted with cheap imports."
+    ],
+    "evolution": [
+      {
+        "period": "Latin",
+        "form": "gluttire",
+        "meaning": "to swallow",
+        "usage": "Root verb."
+      },
+      {
+        "period": "Old French",
+        "form": "gloutir",
+        "meaning": "to swallow or devour",
+        "usage": "French development."
+      },
+      {
+        "period": "Modern English",
+        "form": "glut",
+        "meaning": "an excessively abundant supply; feed to excess",
+        "usage": "Standard noun/verb."
+      }
+    ]
+  },
+  "glutinous": {
+    "meaning": "Like glue in texture; sticky.",
+    "synonyms": [
+      "sticky",
+      "adhesive",
+      "viscous",
+      "gummy"
+    ],
+    "antonyms": [
+      "dry",
+      "powdery",
+      "fluid",
+      "fluid"
+    ],
+    "examples": [
+      "Glutinous rice is a staple in many Asian cuisines.",
+      "The sap of the pine tree is thick and glutinous."
+    ],
+    "evolution": [
+      {
+        "period": "Latin",
+        "form": "gluten",
+        "meaning": "glue",
+        "usage": "Root noun."
+      },
+      {
+        "period": "Latin",
+        "form": "glutinosus",
+        "meaning": "sticky",
+        "usage": "Adjective form."
+      },
+      {
+        "period": "Modern English",
+        "form": "glutinous",
+        "meaning": "like glue; sticky",
+        "usage": "Standard adjective."
+      }
+    ]
+  },
+  "glutton": {
+    "meaning": "An excessively greedy eater; a person who is excessively fond of something.",
+    "synonyms": [
+      "gourmand",
+      "overeater",
+      "hog",
+      "hog"
+    ],
+    "antonyms": [
+      "ascetic",
+      "light eater",
+      "light eater",
+      "light eater"
+    ],
+    "examples": [
+      "The glutton ate an entire tray of pastries.",
+      "He is a glutton for punishment, taking on even more tasks."
+    ],
+    "evolution": [
+      {
+        "period": "Latin",
+        "form": "gluttire",
+        "meaning": "to swallow",
+        "usage": "Root verb."
+      },
+      {
+        "period": "Old French",
+        "form": "glouton",
+        "meaning": "one who devours",
+        "usage": "Noun form."
+      },
+      {
+        "period": "Modern English",
+        "form": "glutton",
+        "meaning": "an excessively greedy eater",
+        "usage": "Standard noun."
+      }
+    ]
+  },
+  "gnarl": {
+    "meaning": "A knot on a tree trunk; to growl or snarl.",
+    "synonyms": [
+      "knot",
+      "lump",
+      "growl",
+      "growl"
+    ],
+    "antonyms": [
+      "antonym",
+      "antonym",
+      "antonym",
+      "antonym"
+    ],
+    "examples": [
+      "The gnarl on the trunk of the oak was huge.",
+      "The dog began to gnarl at the stranger."
+    ],
+    "evolution": [
+      {
+        "period": "Early Modern English",
+        "form": "gnarl",
+        "meaning": "knot; snarl",
+        "usage": "A 16th-century development representing a blend of 'knur' (knot) and 'snarl/growl' (imitative)."
+      },
+      {
+        "period": "Middle English",
+        "form": "gnarl",
+        "meaning": "knot; snarl",
+        "usage": "Middle English development."
+      },
+      {
+        "period": "Modern English",
+        "form": "gnarl",
+        "meaning": "A knot on a tree trunk; to growl or snarl.",
+        "usage": "Standard modern usage."
+      }
+    ]
+  },
+  "gnarled": {
+    "meaning": "Knobbly, rough, and twisted, especially with age.",
+    "synonyms": [
+      "twisted",
+      "knotted",
+      "knobbly",
+      "weathered"
+    ],
+    "antonyms": [
+      "smooth",
+      "straight",
+      "unblemished",
+      "unblemished"
+    ],
+    "examples": [
+      "The old man had gnarled fingers from years of manual labor.",
+      "A gnarled olive tree stood in the courtyard."
+    ],
+    "evolution": [
+      {
+        "period": "Shakespearean English",
+        "form": "gnarled",
+        "meaning": "knotted (coined in Measure for Measure)",
+        "usage": "Literary adjective."
+      },
+      {
+        "period": "Early Modern English",
+        "form": "gnarl",
+        "meaning": "knot in wood",
+        "usage": "Noun form."
+      },
+      {
+        "period": "Modern English",
+        "form": "gnarled",
+        "meaning": "knobby, rough, and twisted",
+        "usage": "Standard adjective."
+      }
+    ]
+  },
+  "gnome": {
+    "meaning": "A legendary dwarfish creature supposed to guard the earth's treasures; a short, pithy saying or maxim.",
+    "synonyms": [
+      "dwarf",
+      "goblin",
+      "maxim",
+      "saying"
+    ],
+    "antonyms": [
+      "antonym",
+      "antonym",
+      "antonym",
+      "antonym"
+    ],
+    "examples": [
+      "She placed a stone gnome in her garden.",
+      "The book is full of ancient gnomes and wisdom."
+    ],
+    "evolution": [
+      {
+        "period": "Greek",
+        "form": "gnome",
+        "meaning": "thought or judgment",
+        "usage": "Root noun."
+      },
+      {
+        "period": "Medieval Latin",
+        "form": "gnomus",
+        "meaning": "earth dweller (coined by Paracelsus)",
+        "usage": "Mythological noun."
+      },
+      {
+        "period": "Modern English",
+        "form": "gnome",
+        "meaning": "a legendary dwarfish creature guarding earth treasures",
+        "usage": "Standard noun."
+      }
+    ]
+  },
+  "gobble": {
+    "meaning": "Eat something hurriedly and noisily; make a characteristic swallowing sound (of a turkey).",
+    "synonyms": [
+      "gulp",
+      "devour",
+      "bolt",
+      "wolf"
+    ],
+    "antonyms": [
+      "nibble",
+      "savor",
+      "savor",
+      "savor"
+    ],
+    "examples": [
+      "The children gobbled up their lunch and ran outside.",
+      "The turkey gobbled loudly in the farmyard."
+    ],
+    "evolution": [
+      {
+        "period": "French (Probable)",
+        "form": "gober",
+        "meaning": "to gulp or swallow",
+        "usage": "Root verb."
+      },
+      {
+        "period": "Early Modern English",
+        "form": "gobble",
+        "meaning": "gulp; turkey noise",
+        "usage": "Arose in the 16th century as an imitative word for eating greedily, later applied to the sound made by turkeys."
+      },
+      {
+        "period": "Modern English",
+        "form": "gobble",
+        "meaning": "Eat something hurriedly and noisily; make a characteristic swallowing sound (of a turkey).",
+        "usage": "Standard modern usage."
+      }
+    ]
+  },
+  "gorge": {
+    "meaning": "A steep narrow valley or ravine; to eat greedily.",
+    "synonyms": [
+      "canyon",
+      "ravine",
+      "pass",
+      "stuff oneself"
+    ],
+    "antonyms": [
+      "starve",
+      "nibble",
+      "nibble",
+      "nibble"
+    ],
+    "examples": [
+      "We hiked through the deep mountain gorge.",
+      "They gorged themselves on the buffet."
+    ],
+    "evolution": [
+      {
+        "period": "Latin",
+        "form": "gurges",
+        "meaning": "whirlpool or throat",
+        "usage": "Root noun."
+      },
+      {
+        "period": "Old French",
+        "form": "gorge",
+        "meaning": "throat",
+        "usage": "French development."
+      },
+      {
+        "period": "Modern English",
+        "form": "gorge",
+        "meaning": "a narrow valley; eat greedily",
+        "usage": "Standard noun/verb."
+      }
+    ]
+  },
+  "gory": {
+    "meaning": "Involving or showing violence and bloodshed.",
+    "synonyms": [
+      "bloody",
+      "violent",
+      "gruesome",
+      "grisly"
+    ],
+    "antonyms": [
+      "bloodless",
+      "peaceful",
+      "pleasant",
+      "pleasant"
+    ],
+    "examples": [
+      "The movie was too gory for my taste.",
+      "He gave a gory description of the battle."
+    ],
+    "evolution": [
+      {
+        "period": "Old English",
+        "form": "gor",
+        "meaning": "dirt, dung, or clotted blood",
+        "usage": "Root noun."
+      },
+      {
+        "period": "Middle English",
+        "form": "gore",
+        "meaning": "congealed blood",
+        "usage": "Noun form."
+      },
+      {
+        "period": "Modern English",
+        "form": "gory",
+        "meaning": "bloody; violent",
+        "usage": "Adjective formed with suffix '-y' in the 16th century."
+      }
+    ]
+  },
+  "gossamer": {
+    "meaning": "A fine, filmy substance spun by spiders; very light, thin, and delicate.",
+    "synonyms": [
+      "cobweb",
+      "delicate",
+      "diaphanous",
+      "sheer"
+    ],
+    "antonyms": [
+      "thick",
+      "heavy",
+      "solid",
+      "solid"
+    ],
+    "examples": [
+      "The morning dew clung to the gossamer threads in the grass.",
+      "She wore a gossamer silk gown."
+    ],
+    "evolution": [
+      {
+        "period": "Middle English",
+        "form": "gose + somer",
+        "meaning": "goose summer",
+        "usage": "Phrase referring to warm late autumn days (Indian summer) when fields are covered in spider webs and geese are cooked/eaten; became noun for the web itself, then adjective for delicate fabric."
+      },
+      {
+        "period": "Middle English",
+        "form": "gose + somer",
+        "meaning": "goose summer",
+        "usage": "Middle English development."
+      },
+      {
+        "period": "Modern English",
+        "form": "gossamer",
+        "meaning": "A fine, filmy substance spun by spiders; very light, thin, and delicate.",
+        "usage": "Standard modern usage."
+      }
+    ]
+  },
+  "gouge": {
+    "meaning": "Make a groove or hole in something; overcharge or swindle someone.",
+    "synonyms": [
+      "scoop",
+      "hollow out",
+      "swindle",
+      "overcharge"
+    ],
+    "antonyms": [
+      "fill",
+      "refund",
+      "refund",
+      "refund"
+    ],
+    "examples": [
+      "He used a chisel to gouge a channel in the wood.",
+      "The shops were accused of trying to gouge the tourists."
+    ],
+    "evolution": [
+      {
+        "period": "Late Latin",
+        "form": "gubia",
+        "meaning": "hollow chisel",
+        "usage": "Root noun."
+      },
+      {
+        "period": "Old French",
+        "form": "gouge",
+        "meaning": "chisel; tool",
+        "usage": "Adopted in French."
+      },
+      {
+        "period": "Middle English",
+        "form": "gouge",
+        "meaning": "chisel; to scoop",
+        "usage": "Borrowed in the 15th century; US slang sense of overcharging/swindling arose in the 19th century."
+      }
+    ]
+  },
+  "gourmand": {
+    "meaning": "A person who enjoys eating and often eats too much.",
+    "synonyms": [
+      "glutton",
+      "epicure",
+      "overeater",
+      "overeater"
+    ],
+    "antonyms": [
+      "ascetic",
+      "ascetic",
+      "ascetic",
+      "ascetic"
+    ],
+    "examples": [
+      "As a true gourmand, he traveled the world in search of the best meals.",
+      "The feast was designed to satisfy any gourmand."
+    ],
+    "evolution": [
+      {
+        "period": "Old French",
+        "form": "gormand",
+        "meaning": "glutton",
+        "usage": "Noun root."
+      },
+      {
+        "period": "Middle English",
+        "form": "gourmand",
+        "meaning": "gluttonous person",
+        "usage": "Noun form."
+      },
+      {
+        "period": "Modern English",
+        "form": "gourmand",
+        "meaning": "a person who enjoys eating, often in excess",
+        "usage": "Standard noun."
+      }
+    ]
+  },
+  "gourmet": {
+    "meaning": "A connoisseur of good food; a person with a discerning palate.",
+    "synonyms": [
+      "epicure",
+      "gastronome",
+      "connoisseur",
+      "connoisseur"
+    ],
+    "antonyms": [
+      "glutton",
+      "ascetic",
+      "fast-food consumer",
+      "indifferent eater"
+    ],
+    "examples": [
+      "She is a gourmet who writes restaurant reviews.",
+      "The hotel offers a gourmet dining experience."
+    ],
+    "evolution": [
+      {
+        "period": "Old French",
+        "form": "gromet",
+        "meaning": "wine merchant's assistant",
+        "usage": "Root noun."
+      },
+      {
+        "period": "French",
+        "form": "gourmet",
+        "meaning": "wine taster; connoisseur",
+        "usage": "French development."
+      },
+      {
+        "period": "Modern English",
+        "form": "gourmet",
+        "meaning": "a connoisseur of good food",
+        "usage": "Standard noun."
+      }
+    ]
+  },
+  "gracious": {
+    "meaning": "Courteous, kind, and pleasant, especially toward social inferiors.",
+    "synonyms": [
+      "polite",
+      "courteous",
+      "kind",
+      "elegant"
+    ],
+    "antonyms": [
+      "rude",
+      "hostile",
+      "churlish",
+      "crude"
+    ],
+    "examples": [
+      "The queen was a gracious host.",
+      "She accepted the award with a gracious speech."
+    ],
+    "evolution": [
+      {
+        "period": "Latin",
+        "form": "gratia",
+        "meaning": "favor or grace",
+        "usage": "Root noun."
+      },
+      {
+        "period": "Latin",
+        "form": "gratiosus",
+        "meaning": "agreeable or favored",
+        "usage": "Adjective form."
+      },
+      {
+        "period": "Old French",
+        "form": "gracieus",
+        "meaning": "kind or graceful",
+        "usage": "Entered French in the Middle Ages."
+      },
+      {
+        "period": "Middle English",
+        "form": "gracious",
+        "meaning": "filled with divine grace; polite",
+        "usage": "Borrowed in the 14th century."
+      }
+    ]
+  },
+  "gradation": {
+    "meaning": "A scale or systematic progression of successive stages; a minute change in shade or tone.",
+    "synonyms": [
+      "scale",
+      "progression",
+      "stage",
+      "transition"
+    ],
+    "antonyms": [
+      "abruptness",
+      "jump",
+      "jump",
+      "jump"
+    ],
+    "examples": [
+      "The colors showed a subtle gradation from dark blue to white.",
+      "The tax rates follow a strict gradation based on income."
+    ],
+    "evolution": [
+      {
+        "period": "Latin",
+        "form": "gradus",
+        "meaning": "step",
+        "usage": "Root noun."
+      },
+      {
+        "period": "Latin",
+        "form": "gradatio",
+        "meaning": "climax; step-by-step progression",
+        "usage": "Rhetorical term."
+      },
+      {
+        "period": "French",
+        "form": "gradation",
+        "meaning": "gradation",
+        "usage": "Adopted in French."
+      },
+      {
+        "period": "Modern English",
+        "form": "gradation",
+        "meaning": "progression in steps/shades",
+        "usage": "Borrowed in the 16th century."
+      }
+    ]
+  },
+  "graduate": {
+    "meaning": "A person who has successfully completed a course of study; to complete such a course; to arrange in degrees.",
+    "synonyms": [
+      "alumnus",
+      "complete",
+      "qualify",
+      "calibrate"
+    ],
+    "antonyms": [
+      "dropout",
+      "fail",
+      "fail",
+      "fail"
+    ],
+    "examples": [
+      "She is a graduate of Oxford University.",
+      "He will graduate next spring."
+    ],
+    "evolution": [
+      {
+        "period": "Latin",
+        "form": "gradus",
+        "meaning": "step",
+        "usage": "Root noun."
+      },
+      {
+        "period": "Medieval Latin",
+        "form": "graduare",
+        "meaning": "to admit to a university degree",
+        "usage": "Literally 'to take a step/rank'; entered English in the 15th century as a verb, and developed noun sense in the 16th century."
+      },
+      {
+        "period": "Modern English",
+        "form": "graduate",
+        "meaning": "A person who has successfully completed a course of study; to complete such a course; to arrange in degrees.",
+        "usage": "Standard modern usage."
+      }
+    ]
+  },
+  "graduated": {
+    "meaning": "Arranged in degrees, levels, or stages; calibrated.",
+    "synonyms": [
+      "step-by-step",
+      "calibrated",
+      "progressive",
+      "tiered"
+    ],
+    "antonyms": [
+      "uniform",
+      "unstructured",
+      "unstructured",
+      "unstructured"
+    ],
+    "examples": [
+      "The graduated cylinder is used to measure liquid volumes.",
+      "The tax system imposes a graduated rate on income."
+    ],
+    "evolution": [
+      {
+        "period": "Latin",
+        "form": "gradus",
+        "meaning": "step",
+        "usage": "Root noun."
+      },
+      {
+        "period": "Medieval Latin",
+        "form": "graduare",
+        "meaning": "to step/rank",
+        "usage": "Base verb."
+      },
+      {
+        "period": "Modern English",
+        "form": "graduated",
+        "meaning": "calibrated; tiered",
+        "usage": "Past participle used as an adjective since the 17th century."
+      }
+    ]
+  },
+  "granary": {
+    "meaning": "A storehouse for threshed grain.",
+    "synonyms": [
+      "storehouse",
+      "barn",
+      "silo",
+      "repository"
+    ],
+    "antonyms": [
+      "empty field",
+      "barren land",
+      "consumer",
+      "market"
+    ],
+    "examples": [
+      "The farmers stored their wheat crop in the community granary.",
+      "Rats had managed to infest the grain stored in the granary."
+    ],
+    "evolution": [
+      {
+        "period": "Latin",
+        "form": "granum",
+        "meaning": "grain",
+        "usage": "Root noun."
+      },
+      {
+        "period": "Latin",
+        "form": "granarium",
+        "meaning": "storehouse for grain",
+        "usage": "Noun form."
+      },
+      {
+        "period": "Modern English",
+        "form": "granary",
+        "meaning": "a storehouse for threshed grain",
+        "usage": "Standard noun."
+      }
+    ]
+  },
+  "grandeur": {
+    "meaning": "Splendor and impressiveness, especially of appearance, style, or scale.",
+    "synonyms": [
+      "splendor",
+      "magnificence",
+      "majesty",
+      "glory"
+    ],
+    "antonyms": [
+      "simplicity",
+      "insignificance",
+      "humility",
+      "lowliness"
+    ],
+    "examples": [
+      "The tourists were awed by the grandeur of the Grand Canyon.",
+      "He lived a life of faded grandeur in the old family mansion."
+    ],
+    "evolution": [
+      {
+        "period": "Latin",
+        "form": "grandis",
+        "meaning": "large or grand",
+        "usage": "Root adjective."
+      },
+      {
+        "period": "Old French",
+        "form": "grandeur",
+        "meaning": "greatness",
+        "usage": "Noun form."
+      },
+      {
+        "period": "Modern English",
+        "form": "grandeur",
+        "meaning": "splendour and impressiveness",
+        "usage": "Standard noun."
+      }
+    ]
+  },
+  "grandiloquent": {
+    "meaning": "Pompous or extravagant in language, style, or manner, especially to impress.",
+    "synonyms": [
+      "pompous",
+      "bombastic",
+      "pretentious",
+      "flowery"
+    ],
+    "antonyms": [
+      "simple",
+      "plain-spoken",
+      "unpretentious",
+      "modest"
+    ],
+    "examples": [
+      "The politician delivered a grandiloquent speech full of empty promises.",
+      "His grandiloquent writing style was difficult to read."
+    ],
+    "evolution": [
+      {
+        "period": "Latin",
+        "form": "grandis + loqui",
+        "meaning": "grand + to speak",
+        "usage": "Combined roots."
+      },
+      {
+        "period": "Latin",
+        "form": "grandiloquus",
+        "meaning": "speaking grandly",
+        "usage": "Adjective form."
+      },
+      {
+        "period": "Modern English",
+        "form": "grandiloquent",
+        "meaning": "pompous or extravagant in language",
+        "usage": "Standard adjective."
+      }
+    ]
+  },
+  "grandiose": {
+    "meaning": "Impressive or magnificent in appearance or style, especially pretentiously so.",
+    "synonyms": [
+      "pretentious",
+      "flamboyant",
+      "magnificent",
+      "pompous"
+    ],
+    "antonyms": [
+      "humble",
+      "modest",
+      "unpretentious",
+      "simple"
+    ],
+    "examples": [
+      "He had grandiose plans for a worldwide business empire.",
+      "The mansion's grandiose architecture was considered excessive by the neighbors."
+    ],
+    "evolution": [
+      {
+        "period": "Latin",
+        "form": "grandis",
+        "meaning": "grand",
+        "usage": "Root adjective."
+      },
+      {
+        "period": "Italian",
+        "form": "grandioso",
+        "meaning": "magnificent",
+        "usage": "Italian development."
+      },
+      {
+        "period": "Modern English",
+        "form": "grandiose",
+        "meaning": "impressive and imposing, especially pretentiously so",
+        "usage": "Standard adjective."
+      }
+    ]
+  },
+  "granulate": {
+    "meaning": "Form into grains or granules; make rough on the surface.",
+    "synonyms": [
+      "powder",
+      "crush",
+      "grind",
+      "pulverize"
+    ],
+    "antonyms": [
+      "solidify",
+      "agglomerate",
+      "merge",
+      "melt"
+    ],
+    "examples": [
+      "The sugar will granulate as it cools down.",
+      "We need to granulate the raw materials for the manufacturing process."
+    ],
+    "evolution": [
+      {
+        "period": "Latin",
+        "form": "granum",
+        "meaning": "grain",
+        "usage": "Root noun."
+      },
+      {
+        "period": "Late Latin",
+        "form": "granulum",
+        "meaning": "little grain",
+        "usage": "Diminutive noun."
+      },
+      {
+        "period": "Modern English",
+        "form": "granulate",
+        "meaning": "form into grains or granules",
+        "usage": "Standard verb."
+      }
+    ]
+  },
+  "graphic": {
+    "meaning": "Relating to visual art, drawing, or lettering; giving a vivid, detailed picture.",
+    "synonyms": [
+      "visual",
+      "pictorial",
+      "vivid",
+      "detailed"
+    ],
+    "antonyms": [
+      "vague",
+      "unclear",
+      "obscure",
+      "abstract"
+    ],
+    "examples": [
+      "She works as a graphic designer for an advertising agency.",
+      "The report gave a graphic description of the car crash."
+    ],
+    "evolution": [
+      {
+        "period": "Greek",
+        "form": "graphein",
+        "meaning": "to write or draw",
+        "usage": "Root verb."
+      },
+      {
+        "period": "Latin",
+        "form": "graphicus",
+        "meaning": "picturesque; of drawing",
+        "usage": "Adjective form."
+      },
+      {
+        "period": "Modern English",
+        "form": "graphic",
+        "meaning": "vividly descriptive; relating to visual art",
+        "usage": "Standard adjective."
+      }
+    ]
+  },
+  "graphite": {
+    "meaning": "A gray crystalline form of carbon, used for pencil leads and as a lubricant.",
+    "synonyms": [
+      "carbon",
+      "pencil lead",
+      "pencil lead",
+      "pencil lead"
+    ],
+    "antonyms": [
+      "antonym",
+      "antonym",
+      "antonym",
+      "antonym"
+    ],
+    "examples": [
+      "The pencil lead is made of a mixture of graphite and clay.",
+      "Graphite is a good conductor of electricity."
+    ],
+    "evolution": [
+      {
+        "period": "Greek",
+        "form": "graphein",
+        "meaning": "to write",
+        "usage": "Root verb."
+      },
+      {
+        "period": "German",
+        "form": "Graphit",
+        "meaning": "graphite",
+        "usage": "Coined by German mineralogist Abraham Gottlob Werner in 1789 because of its writing utility; borrowed into English in the late 18th century."
+      },
+      {
+        "period": "Modern English",
+        "form": "graphite",
+        "meaning": "A gray crystalline form of carbon, used for pencil leads and as a lubricant.",
+        "usage": "Standard modern usage."
+      }
+    ]
+  },
+  "grapple": {
+    "meaning": "Engage in a close fight or struggle without weapons; wrestle; cope with a problem.",
+    "synonyms": [
+      "wrestle",
+      "struggle",
+      "tackle",
+      "combat"
+    ],
+    "antonyms": [
+      "release",
+      "avoid",
+      "yield",
+      "let go"
+    ],
+    "examples": [
+      "The wrestlers grappled on the mat for several minutes.",
+      "The government is trying to grapple with the inflation problem."
+    ],
+    "evolution": [
+      {
+        "period": "Old French",
+        "form": "grape",
+        "meaning": "hook",
+        "usage": "Noun root."
+      },
+      {
+        "period": "Middle English",
+        "form": "grapplen",
+        "meaning": "to seize with a hook",
+        "usage": "Verb form."
+      },
+      {
+        "period": "Modern English",
+        "form": "grapple",
+        "meaning": "wrestle or struggle with",
+        "usage": "Standard verb."
+      }
+    ]
+  },
+  "gratify": {
+    "meaning": "Give someone pleasure or satisfaction; indulge a desire.",
+    "synonyms": [
+      "satisfy",
+      "please",
+      "indulge",
+      "delight"
+    ],
+    "antonyms": [
+      "displease",
+      "frustrate",
+      "deny",
+      "annoy"
+    ],
+    "examples": [
+      "He was gratified by the positive feedback on his project.",
+      "She ate a chocolate bar to gratify her sweet tooth."
+    ],
+    "evolution": [
+      {
+        "period": "Latin",
+        "form": "gratus",
+        "meaning": "pleasing",
+        "usage": "Root adjective."
+      },
+      {
+        "period": "Latin",
+        "form": "gratificari",
+        "meaning": "to show favor or please",
+        "usage": "Verb form."
+      },
+      {
+        "period": "Modern English",
+        "form": "gratify",
+        "meaning": "give pleasure or satisfaction",
+        "usage": "Standard verb."
+      }
+    ]
+  },
+  "gratis": {
+    "meaning": "Without charge; free.",
+    "synonyms": [
+      "free",
+      "complimentary",
+      "costless",
+      "free of charge"
+    ],
+    "antonyms": [
+      "expensive",
+      "costly",
+      "paid",
+      "commercial"
+    ],
+    "examples": [
+      "The museum entrance is gratis on Sundays.",
+      "They provided lunch gratis to all the volunteers."
+    ],
+    "evolution": [
+      {
+        "period": "Latin",
+        "form": "gratia",
+        "meaning": "favor or grace",
+        "usage": "Root noun."
+      },
+      {
+        "period": "Latin",
+        "form": "gratis",
+        "meaning": "out of favor; without payment",
+        "usage": "Adverbial form."
+      },
+      {
+        "period": "Modern English",
+        "form": "gratis",
+        "meaning": "without charge; free",
+        "usage": "Standard adjective/adverb."
+      }
+    ]
+  },
+  "gratuitous": {
+    "meaning": "Given or done free of charge; uncalled for; lacking good reason.",
+    "synonyms": [
+      "free",
+      "unwarranted",
+      "uncalled-for",
+      "baseless"
+    ],
+    "antonyms": [
+      "justified",
+      "necessary",
+      "deserved",
+      "required"
+    ],
+    "examples": [
+      "The movie was criticized for its gratuitous violence.",
+      "He made a gratuitous insult that was completely unnecessary."
+    ],
+    "evolution": [
+      {
+        "period": "Latin",
+        "form": "gratis",
+        "meaning": "free",
+        "usage": "Root adverb."
+      },
+      {
+        "period": "Latin",
+        "form": "gratuitus",
+        "meaning": "done without pay; spontaneous",
+        "usage": "Adjective form."
+      },
+      {
+        "period": "Modern English",
+        "form": "gratuitous",
+        "meaning": "uncalled for; lacking good reason; free",
+        "usage": "Standard adjective."
+      }
+    ]
+  },
+  "gratuity": {
+    "meaning": "A tip given to a waiter, driver, or assistant for services rendered.",
+    "synonyms": [
+      "tip",
+      "bonus",
+      "reward",
+      "donation"
+    ],
+    "antonyms": [
+      "charge",
+      "bill",
+      "penalty",
+      "penalty"
+    ],
+    "examples": [
+      "The restaurant adds a 15% gratuity to parties of six or more.",
+      "He left a generous gratuity for the helpful waiter."
+    ],
+    "evolution": [
+      {
+        "period": "Latin",
+        "form": "gratus",
+        "meaning": "pleasing",
+        "usage": "Root adjective."
+      },
+      {
+        "period": "Medieval Latin",
+        "form": "gratuitas",
+        "meaning": "free gift",
+        "usage": "Noun form."
+      },
+      {
+        "period": "French",
+        "form": "gratuité",
+        "meaning": "gratuity",
+        "usage": "Adopted in French."
+      },
+      {
+        "period": "Modern English",
+        "form": "gratuity",
+        "meaning": "free gift; tip",
+        "usage": "Borrowed in the 16th century."
+      }
+    ]
+  },
+  "gravity": {
+    "meaning": "The force that attracts a body toward the center of the earth; extreme importance or seriousness.",
+    "synonyms": [
+      "gravitation",
+      "seriousness",
+      "solemnity",
+      "importance"
+    ],
+    "antonyms": [
+      "levity",
+      "lightness",
+      "frivolity",
+      "insignificance"
+    ],
+    "examples": [
+      "The apple fell due to gravity.",
+      "The judge spoke with great gravity about the severity of the crime."
+    ],
+    "evolution": [
+      {
+        "period": "Latin",
+        "form": "gravis",
+        "meaning": "heavy",
+        "usage": "Root adjective."
+      },
+      {
+        "period": "Latin",
+        "form": "gravitas",
+        "meaning": "weight; solemnity",
+        "usage": "Noun form."
+      },
+      {
+        "period": "Modern English",
+        "form": "gravity",
+        "meaning": "extreme importance; force that pulls objects toward earth",
+        "usage": "Standard noun."
+      }
+    ]
+  },
+  "gregarious": {
+    "meaning": "Fond of company; sociable; living in flocks or colonies (of animals).",
+    "synonyms": [
+      "sociable",
+      "outgoing",
+      "companionable",
+      "social"
+    ],
+    "antonyms": [
+      "solitary",
+      "introverted",
+      "unsociable",
+      "reclusive"
+    ],
+    "examples": [
+      "She is a gregarious person who loves attending parties.",
+      "Sheep are gregarious animals that flock together for safety."
+    ],
+    "evolution": [
+      {
+        "period": "Latin",
+        "form": "grex (greg-)",
+        "meaning": "flock or herd",
+        "usage": "Root noun."
+      },
+      {
+        "period": "Latin",
+        "form": "gregarius",
+        "meaning": "belonging to a flock",
+        "usage": "Adjective form."
+      },
+      {
+        "period": "Modern English",
+        "form": "gregarious",
+        "meaning": "fond of company; sociable",
+        "usage": "Standard adjective."
+      }
+    ]
+  },
+  "grievance": {
+    "meaning": "A real or imagined wrong or cause for complaint, especially unfair treatment.",
+    "synonyms": [
+      "complaint",
+      "injustice",
+      "wrong",
+      "resentment"
+    ],
+    "antonyms": [
+      "commendation",
+      "praise",
+      "satisfaction",
+      "compliment"
+    ],
+    "examples": [
+      "The union representative met with the manager to discuss worker grievances.",
+      "She had a personal grievance against her former supervisor."
+    ],
+    "evolution": [
+      {
+        "period": "Latin",
+        "form": "gravis",
+        "meaning": "heavy",
+        "usage": "Root adjective."
+      },
+      {
+        "period": "Old French",
+        "form": "grever",
+        "meaning": "to afflict or burden",
+        "usage": "Verb form."
+      },
+      {
+        "period": "Modern English",
+        "form": "grievance",
+        "meaning": "a real or imagined wrong causing complaint",
+        "usage": "Standard noun."
+      }
+    ]
+  },
+  "grill": {
+    "meaning": "Cook food on a metal frame over heat; question someone closely and relentlessly.",
+    "synonyms": [
+      "broil",
+      "question",
+      "interrogate",
+      "quiz"
+    ],
+    "antonyms": [
+      "answer",
+      "ignore",
+      "neglect",
+      "comfort"
+    ],
+    "examples": [
+      "We plan to grill steaks on the barbecue.",
+      "The detectives proceeded to grill the suspect for hours."
+    ],
+    "evolution": [
+      {
+        "period": "Latin",
+        "form": "craticula",
+        "meaning": "small gridiron",
+        "usage": "Root noun."
+      },
+      {
+        "period": "French",
+        "form": "griller",
+        "meaning": "to broil on a gridiron",
+        "usage": "Verb form."
+      },
+      {
+        "period": "Modern English",
+        "form": "grill",
+        "meaning": "subject to intense questioning; cook on a grid",
+        "usage": "Standard verb/noun."
+      }
+    ]
+  },
+  "grim": {
+    "meaning": "Forbidding or uninviting; bleak or depressing.",
+    "synonyms": [
+      "forbidding",
+      "bleak",
+      "harsh",
+      "somber"
+    ],
+    "antonyms": [
+      "cheerful",
+      "bright",
+      "pleasant",
+      "encouraging"
+    ],
+    "examples": [
+      "He had a grim expression on his face when he heard the news.",
+      "The report paints a grim picture of the company's future."
+    ],
+    "evolution": [
+      {
+        "period": "Proto-Germanic",
+        "form": "grimmaz",
+        "meaning": "fierce or wild",
+        "usage": "Root adjective."
+      },
+      {
+        "period": "Old English",
+        "form": "grim",
+        "meaning": "fierce, savage, or cruel",
+        "usage": "Everyday adjective; softened in meaning in Middle English to denote forbidding or dismal things."
+      },
+      {
+        "period": "Modern English",
+        "form": "grim",
+        "meaning": "Forbidding or uninviting; bleak or depressing.",
+        "usage": "Standard modern usage."
+      }
+    ]
+  },
+  "grimace": {
+    "meaning": "An ugly, twisted expression on a face, expressing pain, disgust, or wry amusement.",
+    "synonyms": [
+      "scowl",
+      "frown",
+      "face",
+      "sneer"
+    ],
+    "antonyms": [
+      "smile",
+      "grin",
+      "beam",
+      "expressionless"
+    ],
+    "examples": [
+      "She made a grimace of pain as she stepped on her sprained ankle.",
+      "He grimaced at the bitter taste of the medicine."
+    ],
+    "evolution": [
+      {
+        "period": "Spanish",
+        "form": "grimazo",
+        "meaning": "caricature",
+        "usage": "Root noun."
+      },
+      {
+        "period": "French",
+        "form": "grimace",
+        "meaning": "distortion of the face",
+        "usage": "Noun form."
+      },
+      {
+        "period": "Modern English",
+        "form": "grimace",
+        "meaning": "an ugly, twisted expression on a person's face",
+        "usage": "Standard noun/verb."
+      }
+    ]
+  },
+  "grisly": {
+    "meaning": "Causing horror or disgust; gruesome.",
+    "synonyms": [
+      "gruesome",
+      "horrific",
+      "ghastly",
+      "gory"
+    ],
+    "antonyms": [
+      "pleasant",
+      "delightful",
+      "beautiful",
+      "appealing"
+    ],
+    "examples": [
+      "The murder case had several grisly details.",
+      "They discovered a grisly scene in the forest."
+    ],
+    "evolution": [
+      {
+        "period": "Old English",
+        "form": "grislic",
+        "meaning": "terrifying",
+        "usage": "Root adjective."
+      },
+      {
+        "period": "Middle English",
+        "form": "grisli",
+        "meaning": "dreadful",
+        "usage": "Adjective form."
+      },
+      {
+        "period": "Modern English",
+        "form": "grisly",
+        "meaning": "causing horror or disgust",
+        "usage": "Standard adjective."
+      }
+    ]
+  },
+  "groom": {
+    "meaning": "A person who takes care of horses; a bridegroom; to brush or clean an animal; to prepare someone for a role.",
+    "synonyms": [
+      "prepare",
+      "clean",
+      "brush",
+      "bridegroom"
+    ],
+    "antonyms": [
+      "neglect",
+      "dirty",
+      "dirty",
+      "dirty"
+    ],
+    "examples": [
+      "The stable boy was hired to groom the horses.",
+      "He was groomed by his father to take over the family business."
+    ],
+    "evolution": [
+      {
+        "period": "Middle English",
+        "form": "grome",
+        "meaning": "boy, youth, or servant",
+        "usage": "Arose in the 13th century of obscure origin; horse-attendant sense developed in the 17th century; verb meaning to clean/prepare arose in the 19th century."
+      },
+      {
+        "period": "Middle English",
+        "form": "grome",
+        "meaning": "boy, youth, or servant",
+        "usage": "Middle English development."
+      },
+      {
+        "period": "Modern English",
+        "form": "groom",
+        "meaning": "A person who takes care of horses; a bridegroom; to brush or clean an animal; to prepare someone for a role.",
+        "usage": "Standard modern usage."
+      }
+    ]
+  },
+  "groove": {
+    "meaning": "A long narrow cut or depression in a hard surface; a comfortable routine.",
+    "synonyms": [
+      "channel",
+      "furrow",
+      "track",
+      "routine"
+    ],
+    "antonyms": [
+      "ridge",
+      "ridge",
+      "ridge",
+      "ridge"
+    ],
+    "examples": [
+      "The sliding door fits into a metal groove.",
+      "He got into a comfortable groove at his new job."
+    ],
+    "evolution": [
+      {
+        "period": "Middle Dutch",
+        "form": "groeve",
+        "meaning": "ditch, furrow, or grave",
+        "usage": "Related to 'grave' (to dig)."
+      },
+      {
+        "period": "Middle English",
+        "form": "grov",
+        "meaning": "groove",
+        "usage": "Borrowed from Dutch in mining contexts; generalized in Modern English."
+      },
+      {
+        "period": "Modern English",
+        "form": "groove",
+        "meaning": "A long narrow cut or depression in a hard surface; a comfortable routine.",
+        "usage": "Standard modern usage."
+      }
+    ]
+  },
+  "gross": {
+    "meaning": "Coarse; flagrant; total revenue or amount before tax; to earn total revenue.",
+    "synonyms": [
+      "flagrant",
+      "total",
+      "coarse",
+      "crude"
+    ],
+    "antonyms": [
+      "net",
+      "delicate",
+      "subtle",
+      "politely"
+    ],
+    "examples": [
+      "The company reported a gross profit of one million dollars.",
+      "His behavior was a gross violation of etiquette."
+    ],
+    "evolution": [
+      {
+        "period": "Late Latin",
+        "form": "grossus",
+        "meaning": "thick or coarse",
+        "usage": "Root adjective."
+      },
+      {
+        "period": "Old French",
+        "form": "gros",
+        "meaning": "thick, large, or coarse",
+        "usage": "French development."
+      },
+      {
+        "period": "Middle English",
+        "form": "gross",
+        "meaning": "coarse; large",
+        "usage": "Borrowed in the 14th century; financial total sense arose in the 16th century."
+      }
+    ]
+  },
+  "grotesque": {
+    "meaning": "Comically or repulsively ugly, distorted, or bizarre.",
+    "synonyms": [
+      "bizarre",
+      "weird",
+      "distorted",
+      "ugly"
+    ],
+    "antonyms": [
+      "beautiful",
+      "normal",
+      "standard",
+      "graceful"
+    ],
+    "examples": [
+      "The building was decorated with grotesque carvings of monsters.",
+      "He wore a grotesque mask for the carnival."
+    ],
+    "evolution": [
+      {
+        "period": "Greek",
+        "form": "krypte",
+        "meaning": "hidden chamber",
+        "usage": "Root noun."
+      },
+      {
+        "period": "Italian",
+        "form": "grotta",
+        "meaning": "cave",
+        "usage": "Derived from Latin 'crupta'."
+      },
+      {
+        "period": "Italian",
+        "form": "grottesco",
+        "meaning": "of a cave",
+        "usage": "Used in 15th-century art to describe bizarre paintings discovered in excavated Roman ruins (caves)."
+      },
+      {
+        "period": "French",
+        "form": "grotesque",
+        "meaning": "grotesque",
+        "usage": "Borrowed from Italian; entered English in the 16th century."
+      }
+    ]
+  },
+  "grotto": {
+    "meaning": "A small picturesque cave, especially an artificial one in a park.",
+    "synonyms": [
+      "cave",
+      "cavern",
+      "hollow",
+      "hollow"
+    ],
+    "antonyms": [
+      "summit",
+      "peak",
+      "open plain",
+      "mountain top"
+    ],
+    "examples": [
+      "We took a boat ride into the blue grotto.",
+      "The garden featured a stone grotto decorated with shells."
+    ],
+    "evolution": [
+      {
+        "period": "Greek",
+        "form": "krypte",
+        "meaning": "hidden place",
+        "usage": "Root noun."
+      },
+      {
+        "period": "Italian",
+        "form": "grotta",
+        "meaning": "cave",
+        "usage": "Noun form."
+      },
+      {
+        "period": "Modern English",
+        "form": "grotto",
+        "meaning": "a small picturesque cave",
+        "usage": "Standard noun."
+      }
+    ]
+  },
+  "grouch": {
+    "meaning": "A habitually grumpy or complaining person; to complain or grumble.",
+    "synonyms": [
+      "grumbler",
+      "complainer",
+      "complain",
+      "grumble"
+    ],
+    "antonyms": [
+      "optimist",
+      "optimist",
+      "optimist",
+      "optimist"
+    ],
+    "examples": [
+      "Don't be such a grouch; enjoy the party.",
+      "He was grouching about the cold weather all morning."
+    ],
+    "evolution": [
+      {
+        "period": "Old French",
+        "form": "grouchier",
+        "meaning": "to grumble",
+        "usage": "Root verb."
+      },
+      {
+        "period": "Middle English",
+        "form": "grucchen",
+        "meaning": "to grumble or murmur",
+        "usage": "Verb form; shifted in American English dialect in the 19th century to 'grouch' (noun and verb)."
+      },
+      {
+        "period": "Modern English",
+        "form": "grouch",
+        "meaning": "A habitually grumpy or complaining person; to complain or grumble.",
+        "usage": "Standard modern usage."
+      }
+    ]
+  },
+  "grouse": {
+    "meaning": "A game bird; to complain or grumble pettishly.",
+    "synonyms": [
+      "complain",
+      "grumble",
+      "gripe",
+      "bird"
+    ],
+    "antonyms": [
+      "praise",
+      "commend",
+      "applaud",
+      "celebrate"
+    ],
+    "examples": [
+      "He was grousing about the long working hours again.",
+      "Hunters went out to shoot grouse."
+    ],
+    "evolution": [
+      {
+        "period": "Gaelic (Probable)",
+        "form": "cearc-fraoich",
+        "meaning": "heather cock",
+        "usage": "Root noun."
+      },
+      {
+        "period": "19th Century English",
+        "form": "grouse",
+        "meaning": "to complain or grumble",
+        "usage": "Military slang verb."
+      },
+      {
+        "period": "Modern English",
+        "form": "grouse",
+        "meaning": "complain pettily; grumble",
+        "usage": "Standard verb/noun."
+      }
+    ]
+  },
+  "grovel": {
+    "meaning": "Act in an obsequious or abject way to obtain forgiveness or favor; crawl face down on the ground.",
+    "synonyms": [
+      "cringe",
+      "crawl",
+      "fawn",
+      "bow"
+    ],
+    "antonyms": [
+      "domineer",
+      "stand tall",
+      "rebel",
+      "defy"
+    ],
+    "examples": [
+      "He had to grovel before his boss to get his job back.",
+      "The defeated soldiers groveled at the feet of the conqueror."
+    ],
+    "evolution": [
+      {
+        "period": "Old Norse",
+        "form": "grufe",
+        "meaning": "face down",
+        "usage": "Adverb root."
+      },
+      {
+        "period": "Middle English",
+        "form": "groveling",
+        "meaning": "lying face downward",
+        "usage": "Adverb form."
+      },
+      {
+        "period": "Modern English",
+        "form": "grovel",
+        "meaning": "act in an obsequious way in order to obtain forgiveness",
+        "usage": "Standard verb."
+      }
+    ]
+  },
+  "growl": {
+    "meaning": "Make a low guttural sound of anger in the throat; say something angrily in a low voice.",
+    "synonyms": [
+      "snarl",
+      "mutter",
+      "rumble",
+      "grumble"
+    ],
+    "antonyms": [
+      "whisper",
+      "purr",
+      "sing",
+      "sing"
+    ],
+    "examples": [
+      "The guard dog began to growl at the intruder.",
+      "He growled a quick warning before leaving."
+    ],
+    "evolution": [
+      {
+        "period": "Middle English",
+        "form": "grollen",
+        "meaning": "to rumble (of stomach)",
+        "usage": "Imitative verb; spelling evolved to 'growl' in the 17th century, representing aggressive animal sounds."
+      },
+      {
+        "period": "Middle English",
+        "form": "grollen",
+        "meaning": "to rumble (of stomach)",
+        "usage": "Middle English development."
+      },
+      {
+        "period": "Modern English",
+        "form": "growl",
+        "meaning": "Make a low guttural sound of anger in the throat; say something angrily in a low voice.",
+        "usage": "Standard modern usage."
+      }
+    ]
+  },
+  "grudge": {
+    "meaning": "A persistent feeling of ill will or resentment; to give or allow reluctantly.",
+    "synonyms": [
+      "resentment",
+      "bitterness",
+      "envy",
+      "resent"
+    ],
+    "antonyms": [
+      "goodwill",
+      "forgiveness",
+      "generosity",
+      "kindness"
+    ],
+    "examples": [
+      "She held a grudge against him for years after their argument.",
+      "He doesn't grudge you your success; he is happy for you."
+    ],
+    "evolution": [
+      {
+        "period": "Old French",
+        "form": "grouchier",
+        "meaning": "to grumble or murmur",
+        "usage": "Root verb."
+      },
+      {
+        "period": "Middle English",
+        "form": "gruschen",
+        "meaning": "to complain",
+        "usage": "Verb form."
+      },
+      {
+        "period": "Modern English",
+        "form": "grudge",
+        "meaning": "a persistent feeling of ill will or resentment",
+        "usage": "Standard noun/verb."
+      }
+    ]
+  },
+  "grudging": {
+    "meaning": "Given, granted, or allowed halfheartedly, reluctantly, or resentfully.",
+    "synonyms": [
+      "reluctant",
+      "unwilling",
+      "halfhearted",
+      "resentful"
+    ],
+    "antonyms": [
+      "willing",
+      "enthusiastic",
+      "generous",
+      "eager"
+    ],
+    "examples": [
+      "He gave a grudging apology that did not sound sincere.",
+      "She earned the grudging respect of her opponents."
+    ],
+    "evolution": [
+      {
+        "period": "Middle English",
+        "form": "grucchen",
+        "meaning": "to grumble",
+        "usage": "Root verb."
+      },
+      {
+        "period": "Modern English",
+        "form": "grudging",
+        "meaning": "reluctant; resentful",
+        "usage": "Participle adjective formed from 'grudge' in the 16th century."
+      },
+      {
+        "period": "Modern English",
+        "form": "grudging",
+        "meaning": "Given, granted, or allowed halfheartedly, reluctantly, or resentfully.",
+        "usage": "Standard modern usage."
+      }
+    ]
+  },
+  "gruel": {
+    "meaning": "A thin liquid food of oatmeal boiled in milk or water; exhausting work or effort.",
+    "synonyms": [
+      "porridge",
+      "mush",
+      "broth",
+      "broth"
+    ],
+    "antonyms": [
+      "antonym",
+      "antonym",
+      "antonym",
+      "antonym"
+    ],
+    "examples": [
+      "The orphans in the workhouse were fed only a bowl of gruel.",
+      "The runners were exhausted by the final gruel of the race."
+    ],
+    "evolution": [
+      {
+        "period": "Frankish",
+        "form": "grut",
+        "meaning": "coarse meal",
+        "usage": "Germanic root."
+      },
+      {
+        "period": "Old French",
+        "form": "gruel",
+        "meaning": "coarse meal or porridge",
+        "usage": "Adopted in French."
+      },
+      {
+        "period": "Middle English",
+        "form": "gruel",
+        "meaning": "meal porridge",
+        "usage": "Borrowed in the 14th century; metaphorical sense of exhausting punishment arose in the 19th century."
+      }
+    ]
+  },
+  "grueling": {
+    "meaning": "Extremely tiring and demanding; exhausting.",
+    "synonyms": [
+      "exhausting",
+      "taxing",
+      "demanding",
+      "arduous"
+    ],
+    "antonyms": [
+      "easy",
+      "effortless",
+      "refreshing",
+      "relaxing"
+    ],
+    "examples": [
+      "The marathon was a grueling race in the hot sun.",
+      "He went through a grueling interview process."
+    ],
+    "evolution": [
+      {
+        "period": "Middle English",
+        "form": "gruel",
+        "meaning": "porridge",
+        "usage": "Root noun."
+      },
+      {
+        "period": "English (Dialect)",
+        "form": "to gruel",
+        "meaning": "to punish or exhaust",
+        "usage": "Colloquial verb meaning to make someone look like thin porridge (completely beaten/exhausted); participle 'grueling' entered standard English in the mid-19th century."
+      },
+      {
+        "period": "Modern English",
+        "form": "grueling",
+        "meaning": "Extremely tiring and demanding; exhausting.",
+        "usage": "Standard modern usage."
+      }
+    ]
+  },
+  "gruesome": {
+    "meaning": "Causing repulsion or horror; grisly.",
+    "synonyms": [
+      "grisly",
+      "horrific",
+      "ghastly",
+      "gory"
+    ],
+    "antonyms": [
+      "pleasant",
+      "beautiful",
+      "delightful",
+      "attractive"
+    ],
+    "examples": [
+      "The police discovered a gruesome crime scene.",
+      "The movie was full of gruesome details."
+    ],
+    "evolution": [
+      {
+        "period": "Middle English",
+        "form": "grue",
+        "meaning": "to shudder or feel horror",
+        "usage": "Germanic root verb (related to Dutch 'gruwen')."
+      },
+      {
+        "period": "Middle English (Scots)",
+        "form": "grewsome",
+        "meaning": "fearful or horror-causing",
+        "usage": "Formed with suffix '-some'; entered standard English in the 18th century."
+      },
+      {
+        "period": "Modern English",
+        "form": "gruesome",
+        "meaning": "Causing repulsion or horror; grisly.",
+        "usage": "Standard modern usage."
+      }
+    ]
+  },
+  "gruff": {
+    "meaning": "Abrupt or taciturn in manner; rough and low in pitch (of a voice).",
+    "synonyms": [
+      "abrupt",
+      "rough",
+      "hoarse",
+      "curt"
+    ],
+    "antonyms": [
+      "gentle",
+      "polite",
+      "soft",
+      "melodious"
+    ],
+    "examples": [
+      "He answered the phone with a gruff 'hello'.",
+      "Beneath his gruff exterior, he was actually a kind man."
+    ],
+    "evolution": [
+      {
+        "period": "Middle Dutch",
+        "form": "grof",
+        "meaning": "coarse, thick, or rude",
+        "usage": "Germanic root adjective."
+      },
+      {
+        "period": "Middle English",
+        "form": "gruf",
+        "meaning": "coarse or rough",
+        "usage": "Borrowed from Dutch; spelling modified in Modern English."
+      },
+      {
+        "period": "Modern English",
+        "form": "gruff",
+        "meaning": "Abrupt or taciturn in manner; rough and low in pitch (of a voice).",
+        "usage": "Standard modern usage."
+      }
+    ]
+  },
+  "grumble": {
+    "meaning": "Complain about something in a bad-tempered way; make a low rumbling sound.",
+    "synonyms": [
+      "complain",
+      "mutter",
+      "rumble",
+      "growl"
+    ],
+    "antonyms": [
+      "praise",
+      "celebrate",
+      "whisper",
+      "whisper"
+    ],
+    "examples": [
+      "He began to grumble about the poor service in the restaurant.",
+      "We heard the distant grumble of thunder."
+    ],
+    "evolution": [
+      {
+        "period": "Middle French",
+        "form": "grommeler",
+        "meaning": "to murmur or mutter",
+        "usage": "Imitative verb of Germanic origin; anglicized to 'grumble' in the 16th century."
+      },
+      {
+        "period": "Middle English",
+        "form": "grommeler",
+        "meaning": "to murmur or mutter",
+        "usage": "Middle English development."
+      },
+      {
+        "period": "Modern English",
+        "form": "grumble",
+        "meaning": "Complain about something in a bad-tempered way; make a low rumbling sound.",
+        "usage": "Standard modern usage."
+      }
+    ]
+  },
+  "grunt": {
+    "meaning": "Make a low short guttural sound (especially of a pig or person in effort).",
+    "synonyms": [
+      "snort",
+      "groan",
+      "mutter",
+      "mutter"
+    ],
+    "antonyms": [
+      "antonym",
+      "antonym",
+      "antonym",
+      "antonym"
+    ],
+    "examples": [
+      "He gave a grunt of agreement and sat down.",
+      "The heavy weight forced him to grunt as he lifted it."
+    ],
+    "evolution": [
+      {
+        "period": "Old English",
+        "form": "grunnettan",
+        "meaning": "to grunt or make pig noises",
+        "usage": "Imitative verb related to German 'grunzen'; shortened to 'grunt' in Middle English."
+      },
+      {
+        "period": "Middle English",
+        "form": "grunnettan",
+        "meaning": "to grunt or make pig noises",
+        "usage": "Middle English development."
+      },
+      {
+        "period": "Modern English",
+        "form": "grunt",
+        "meaning": "Make a low short guttural sound (especially of a pig or person in effort).",
+        "usage": "Standard modern usage."
+      }
+    ]
+  },
+  "guffaw": {
+    "meaning": "A loud and boisterous laugh; to laugh loudly.",
+    "synonyms": [
+      "laugh",
+      "chuckle",
+      "bellow",
+      "roar"
+    ],
+    "antonyms": [
+      "whimper",
+      "cry",
+      "sob",
+      "sigh"
+    ],
+    "examples": [
+      "His joke was met with a loud guffaw from the crowd.",
+      "They guffawed at the silly comedy act."
+    ],
+    "evolution": [
+      {
+        "period": "Scottish",
+        "form": "guffaw",
+        "meaning": "loud laugh",
+        "usage": "Onomatopoeic noun/verb coined in 18th century."
+      },
+      {
+        "period": "Early Modern English",
+        "form": "guff",
+        "meaning": "puff of wind; silly talk",
+        "usage": "Slang noun."
+      },
+      {
+        "period": "Modern English",
+        "form": "guffaw",
+        "meaning": "a loud and hearty laugh",
+        "usage": "Standard noun/verb."
+      }
+    ]
+  },
+  "guile": {
+    "meaning": "Sly or cunning intelligence; deceit.",
+    "synonyms": [
+      "cunning",
+      "deceit",
+      "duplicity",
+      "craftiness"
+    ],
+    "antonyms": [
+      "honesty",
+      "sincerity",
+      "candor",
+      "trustworthiness"
+    ],
+    "examples": [
+      "He used guile and deceit to win the election.",
+      "She was a master of political guile."
+    ],
+    "evolution": [
+      {
+        "period": "Old French",
+        "form": "guile",
+        "meaning": "deceit or fraud",
+        "usage": "Root noun of Germanic origin."
+      },
+      {
+        "period": "Middle English",
+        "form": "gile",
+        "meaning": "cunning",
+        "usage": "Noun form."
+      },
+      {
+        "period": "Modern English",
+        "form": "guile",
+        "meaning": "sly or cunning intelligence",
+        "usage": "Standard noun."
+      }
+    ]
+  },
+  "guileless": {
+    "meaning": "Innocent and without deception; honest.",
+    "synonyms": [
+      "innocent",
+      "naive",
+      "candid",
+      "ingenuous"
+    ],
+    "antonyms": [
+      "cunning",
+      "deceitful",
+      "guileful",
+      "wily"
+    ],
+    "examples": [
+      "She gave a guileless explanation that everyone believed.",
+      "His guileless nature made him easy to deceive."
+    ],
+    "evolution": [
+      {
+        "period": "Old French",
+        "form": "guile",
+        "meaning": "deceit",
+        "usage": "Root noun."
+      },
+      {
+        "period": "Modern English",
+        "form": "guileless",
+        "meaning": "free of deceit",
+        "usage": "Adjective formed with suffix '-less' in 16th century."
+      },
+      {
+        "period": "Modern English",
+        "form": "guileless",
+        "meaning": "devoid of guile; innocent",
+        "usage": "Standard adjective."
+      }
+    ]
+  },
+  "guise": {
+    "meaning": "An external appearance or manner, typically concealing the true nature of something.",
+    "synonyms": [
+      "appearance",
+      "semblance",
+      "disguise",
+      "mask"
+    ],
+    "antonyms": [
+      "reality",
+      "truth",
+      "naked self",
+      "actuality"
+    ],
+    "examples": [
+      "He visited the company under the guise of an inspector.",
+      "The trap was presented in the guise of a helpful offer."
+    ],
+    "evolution": [
+      {
+        "period": "Germanic",
+        "form": "wisa",
+        "meaning": "manner or wise",
+        "usage": "Root noun."
+      },
+      {
+        "period": "Old French",
+        "form": "guise",
+        "meaning": "manner or fashion",
+        "usage": "Noun form."
+      },
+      {
+        "period": "Modern English",
+        "form": "guise",
+        "meaning": "an external appearance, design, or manner",
+        "usage": "Standard noun."
+      }
+    ]
+  },
+  "gull": {
+    "meaning": "A seabird; to fool, deceive, or cheat someone.",
+    "synonyms": [
+      "cheat",
+      "deceive",
+      "dupe",
+      "trick"
+    ],
+    "antonyms": [
+      "undeceive",
+      "undeceive",
+      "undeceive",
+      "undeceive"
+    ],
+    "examples": [
+      "Seagulls circled over the harbor.",
+      "The swindler managed to gull the elderly couple out of their savings."
+    ],
+    "evolution": [
+      {
+        "period": "Celtic",
+        "form": "gullan",
+        "meaning": "gull (bird)",
+        "usage": "Source of seabird name."
+      },
+      {
+        "period": "Early Modern English",
+        "form": "gull",
+        "meaning": "fool; young helpless bird",
+        "usage": "The verb meaning to cheat arose in the 16th century, playing on 'gull' meaning a soft, unfledged bird that is easily tricked or caught."
+      },
+      {
+        "period": "Modern English",
+        "form": "gull",
+        "meaning": "A seabird; to fool, deceive, or cheat someone.",
+        "usage": "Standard modern usage."
+      }
+    ]
+  },
+  "gullible": {
+    "meaning": "Easily persuaded to believe something; credulous.",
+    "synonyms": [
+      "credulous",
+      "naive",
+      "innocent",
+      "trustful"
+    ],
+    "antonyms": [
+      "skeptical",
+      "cynical",
+      "astute",
+      "suspicious"
+    ],
+    "examples": [
+      "He was too gullible, believing every advertisement he saw.",
+      "Gullible tourists were easily cheated by street vendors."
+    ],
+    "evolution": [
+      {
+        "period": "English dial.",
+        "form": "gull",
+        "meaning": "to cheat or swallow",
+        "usage": "Verb root."
+      },
+      {
+        "period": "Modern English",
+        "form": "gullible",
+        "meaning": "easily cheated",
+        "usage": "Adjective formed in early 19th century."
+      },
+      {
+        "period": "Modern English",
+        "form": "gullible",
+        "meaning": "easily persuaded to believe something",
+        "usage": "Standard adjective."
+      }
+    ]
+  },
+  "gush": {
+    "meaning": "Flow out of something in a rapid, plentiful stream; talk effusively or with exaggerated enthusiasm.",
+    "synonyms": [
+      "flow",
+      "spout",
+      "pour",
+      "bubble"
+    ],
+    "antonyms": [
+      "trickle",
+      "drip",
+      "drip",
+      "drip"
+    ],
+    "examples": [
+      "Water began to gush from the broken pipe.",
+      "She began to gush about her favorite actor."
+    ],
+    "evolution": [
+      {
+        "period": "Middle English",
+        "form": "gusshen",
+        "meaning": "to pour out rapidly",
+        "usage": "Imitative verb; spelling modernized in Early Modern English."
+      },
+      {
+        "period": "Middle English",
+        "form": "gusshen",
+        "meaning": "to pour out rapidly",
+        "usage": "Middle English development."
+      },
+      {
+        "period": "Modern English",
+        "form": "gush",
+        "meaning": "Flow out of something in a rapid, plentiful stream; talk effusively or with exaggerated enthusiasm.",
+        "usage": "Standard modern usage."
+      }
+    ]
+  },
+  "gust": {
+    "meaning": "A sudden strong rush of wind; a sudden burst of feeling.",
+    "synonyms": [
+      "puff",
+      "blast",
+      "squall",
+      "burst"
+    ],
+    "antonyms": [
+      "calm",
+      "trickle",
+      "trickle",
+      "trickle"
+    ],
+    "examples": [
+      "A sudden gust of wind blew his hat off.",
+      "Leaves were gusted across the driveway by the wind."
+    ],
+    "evolution": [
+      {
+        "period": "Old Norse",
+        "form": "gustr",
+        "meaning": "gust of wind",
+        "usage": "From 'gusa' (to gush); borrowed into English in the 16th century."
+      },
+      {
+        "period": "Middle English",
+        "form": "gustr",
+        "meaning": "gust of wind",
+        "usage": "Middle English development."
+      },
+      {
+        "period": "Modern English",
+        "form": "gust",
+        "meaning": "A sudden strong rush of wind; a sudden burst of feeling.",
+        "usage": "Standard modern usage."
+      }
+    ]
+  },
+  "gustatory": {
+    "meaning": "Concerned with the sense of taste.",
+    "synonyms": [
+      "sensory",
+      "sapid",
+      "tasteful",
+      "tasteful"
+    ],
+    "antonyms": [
+      "tactile",
+      "visual",
+      "auditory",
+      "non-sensory"
+    ],
+    "examples": [
+      "The wine tasting provided a wonderful gustatory experience.",
+      "The chef focused on the gustatory appeal of the dish."
+    ],
+    "evolution": [
+      {
+        "period": "Latin",
+        "form": "gustus",
+        "meaning": "taste",
+        "usage": "Root noun."
+      },
+      {
+        "period": "Latin",
+        "form": "gustare",
+        "meaning": "to taste",
+        "usage": "Verb form."
+      },
+      {
+        "period": "Modern English",
+        "form": "gustatory",
+        "meaning": "concerned with the sense of taste",
+        "usage": "Standard adjective."
+      }
+    ]
+  },
+  "gusto": {
+    "meaning": "Great enjoyment or vigor in doing something; zest.",
+    "synonyms": [
+      "enthusiasm",
+      "zest",
+      "energy",
+      "vigor"
+    ],
+    "antonyms": [
+      "apathy",
+      "indifference",
+      "dislike",
+      "reluctance"
+    ],
+    "examples": [
+      "He ate the meal with great gusto.",
+      "She sang the song with gusto, dancing around the stage."
+    ],
+    "evolution": [
+      {
+        "period": "Latin",
+        "form": "gustus",
+        "meaning": "taste",
+        "usage": "Root noun."
+      },
+      {
+        "period": "Italian",
+        "form": "gusto",
+        "meaning": "taste or pleasure",
+        "usage": "Noun form."
+      },
+      {
+        "period": "Modern English",
+        "form": "gusto",
+        "meaning": "enjoyment or vigor in doing something",
+        "usage": "Standard noun."
+      }
+    ]
+  },
+  "gusty": {
+    "meaning": "Characterized by or blowing in gusts (of wind).",
+    "synonyms": [
+      "windy",
+      "squally",
+      "breezy",
+      "tempestuous"
+    ],
+    "antonyms": [
+      "calm",
+      "still",
+      "windless",
+      "placid"
+    ],
+    "examples": [
+      "It was a cold, gusty autumn day.",
+      "The plane landed safely in gusty conditions."
+    ],
+    "evolution": [
+      {
+        "period": "Old Norse",
+        "form": "gustr",
+        "meaning": "cold blast of wind",
+        "usage": "Root noun."
+      },
+      {
+        "period": "Middle English",
+        "form": "guste",
+        "meaning": "wind blast",
+        "usage": "Noun form."
+      },
+      {
+        "period": "Modern English",
+        "form": "gusty",
+        "meaning": "characterized by or blowing in gusts",
+        "usage": "Standard adjective."
+      }
+    ]
+  },
+  "guy": {
+    "meaning": "A man or fellow; a rope or cable used to steady a structure; to mock or make fun of.",
+    "synonyms": [
+      "man",
+      "fellow",
+      "rope",
+      "cord"
+    ],
+    "antonyms": [
+      "antonym",
+      "antonym",
+      "antonym",
+      "antonym"
+    ],
+    "examples": [
+      "He is a nice guy.",
+      "We secured the tent poles with guy ropes."
+    ],
+    "evolution": [
+      {
+        "period": "English",
+        "form": "Guy Fawkes",
+        "meaning": "conspirator in 1605 Gunpowder Plot",
+        "usage": "His effigies burned on Nov 5 were called 'guys', which came to denote a grotesque person, and eventually any man in US slang."
+      },
+      {
+        "period": "Dutch (Probable)",
+        "form": "gei",
+        "meaning": "rope/brail",
+        "usage": "Source of maritime rope 'guy' (to steady sails/masts)."
+      },
+      {
+        "period": "Modern English",
+        "form": "guy",
+        "meaning": "A man or fellow; a rope or cable used to steady a structure; to mock or make fun of.",
+        "usage": "Standard modern usage."
+      }
+    ]
+  },
+  "gyroscope": {
+    "meaning": "A device consisting of a wheel, used to provide stability or maintain a reference direction.",
+    "synonyms": [
+      "stabilizer",
+      "compass",
+      "compass",
+      "compass"
+    ],
+    "antonyms": [
+      "instability",
+      "wobble",
+      "chaos",
+      "off-center mass"
+    ],
+    "examples": [
+      "The toy gyroscope balanced on the string.",
+      "Modern drones use digital gyroscopes for flight stability."
+    ],
+    "evolution": [
+      {
+        "period": "Greek",
+        "form": "gyros + skopein",
+        "meaning": "ring/circle + to look/examine",
+        "usage": "Combined roots."
+      },
+      {
+        "period": "French",
+        "form": "gyroscope",
+        "meaning": "apparatus for showing rotation (coined by Foucault in 1852)",
+        "usage": "Scientific noun."
+      },
+      {
+        "period": "Modern English",
+        "form": "gyroscope",
+        "meaning": "a device consisting of a wheel rotating rapidly about an axis",
+        "usage": "Standard noun."
+      }
+    ]
+  }
+}

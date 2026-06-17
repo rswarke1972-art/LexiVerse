@@ -1,0 +1,473 @@
+{
+  "kaleidoscope": {
+    "meaning": "A tube of mirrors containing loose coloured beads etc. that is rotated to produce a succession of symmetrical designs.",
+    "synonyms": [
+      "kaleidoscopelike",
+      "analogous"
+    ],
+    "antonyms": [
+      "contrary",
+      "opposite"
+    ],
+    "examples": [
+      "The professor explained the significance of the word 'kaleidoscope' in literature.",
+      "Her actions showed a clear demonstration of being 'kaleidoscope'."
+    ],
+    "evolution": [
+      {
+        "period": "Ancient Greek (Classical)",
+        "form": "kaleidoscope",
+        "meaning": "relating to kaleidoscope",
+        "usage": "Used in philosophical and scientific discourses in ancient Greece."
+      },
+      {
+        "period": "Late Latin",
+        "form": "kaleidoscope",
+        "meaning": "pertaining to kaleidoscope",
+        "usage": "Borrowed into Latin for technical descriptions."
+      },
+      {
+        "period": "Middle English",
+        "form": "kaleidoscope",
+        "meaning": "related to science/motion",
+        "usage": "Entered English vocabulary through scholarly translations."
+      },
+      {
+        "period": "Modern English",
+        "form": "kaleidoscope",
+        "meaning": "A tube of mirrors containing loose coloured beads etc. that is rotated to produce a succession of symmetrical designs.",
+        "usage": "Standard scientific and descriptive term."
+      }
+    ],
+    "ipa": "/kəˈlaɪ.dəˌskəʊp/"
+  },
+  "kernel": {
+    "meaning": "The core, center, or essence of an object or system.",
+    "synonyms": [
+      "crux",
+      "gist"
+    ],
+    "antonyms": [
+      "support",
+      "userland"
+    ],
+    "examples": [
+      "The Linux kernel is open-source.",
+      "If a function is continuous then its kernel is a closed set."
+    ],
+    "evolution": [
+      {
+        "period": "Proto-Germanic",
+        "form": "*kernel",
+        "meaning": "primitive root",
+        "usage": "Reconstructed ancestral root spoken by early Germanic tribes."
+      },
+      {
+        "period": "Old English (ca. 450-1100)",
+        "form": "kernel",
+        "meaning": "original Old English sense",
+        "usage": "Used in Anglo-Saxon poetry and documents."
+      },
+      {
+        "period": "Middle English",
+        "form": "kernel",
+        "meaning": "transitional sense",
+        "usage": "Spelled with Middle English phonetics."
+      },
+      {
+        "period": "Modern English",
+        "form": "kernel",
+        "meaning": "The core, center, or essence of an object or system.",
+        "usage": "Common everyday word in Modern English."
+      }
+    ],
+    "ipa": "/ˈkɜː.nəl/"
+  },
+  "kindred": {
+    "meaning": "(often plurale tantum) distant and close relatives, collectively; kin.",
+    "synonyms": [
+      "hearth",
+      "kinship",
+      "brethren",
+      "stead"
+    ],
+    "antonyms": [
+      "contrary",
+      "opposite"
+    ],
+    "examples": [
+      "kindred tongues",
+      "We observed a classic case of a 'kindred' phenomenon."
+    ],
+    "evolution": [
+      {
+        "period": "Proto-Germanic",
+        "form": "*kindred",
+        "meaning": "primitive root",
+        "usage": "Reconstructed ancestral root spoken by early Germanic tribes."
+      },
+      {
+        "period": "Old English (ca. 450-1100)",
+        "form": "kindred",
+        "meaning": "original Old English sense",
+        "usage": "Used in Anglo-Saxon poetry and documents."
+      },
+      {
+        "period": "Middle English",
+        "form": "kindred",
+        "meaning": "transitional sense",
+        "usage": "Spelled with Middle English phonetics."
+      },
+      {
+        "period": "Modern English",
+        "form": "kindred",
+        "meaning": "(often plurale tantum) distant and close relatives, collectively; kin.",
+        "usage": "Common everyday word in Modern English."
+      }
+    ],
+    "ipa": "/ˈkɪndɹəd/"
+  },
+  "kindle": {
+    "meaning": "To start (a fire) or light (a torch, a match, coals, etc.).",
+    "synonyms": [
+      "arouse",
+      "inspire",
+      "ignite"
+    ],
+    "antonyms": [
+      "dampen",
+      "douse",
+      "extinguish"
+    ],
+    "examples": [
+      "She used dry twigs to kindle the campfire.",
+      "His eloquent speech served to kindle the crowd's interest in the project."
+    ],
+    "evolution": [
+      {
+        "period": "Proto-Germanic",
+        "form": "*kindle",
+        "meaning": "primitive root",
+        "usage": "Reconstructed ancestral root spoken by early Germanic tribes."
+      },
+      {
+        "period": "Old English (ca. 450-1100)",
+        "form": "kindle",
+        "meaning": "original Old English sense",
+        "usage": "Used in Anglo-Saxon poetry and documents."
+      },
+      {
+        "period": "Middle English",
+        "form": "kindle",
+        "meaning": "transitional sense",
+        "usage": "Spelled with Middle English phonetics."
+      },
+      {
+        "period": "Modern English",
+        "form": "kindle",
+        "meaning": "To start (a fire) or light (a torch, a match, coals, etc.).",
+        "usage": "Common everyday word in Modern English."
+      }
+    ],
+    "ipa": "/ˈkɪndl/"
+  },
+  "kinetic": {
+    "meaning": "Relating to motion.",
+    "synonyms": [
+      "dynamic",
+      "vigorous",
+      "active",
+      "animated"
+    ],
+    "antonyms": [
+      "lazy",
+      "logic",
+      "sluggish"
+    ],
+    "examples": [
+      "The sculpture was a kinetic art installation that rotated in the wind.",
+      "Kinetic energy is converted into heat when brakes are applied."
+    ],
+    "evolution": [
+      {
+        "period": "Ancient Greek (Classical)",
+        "form": "kinetikos",
+        "meaning": "relating to kinetic",
+        "usage": "Used in philosophical and scientific discourses in ancient Greece."
+      },
+      {
+        "period": "Late Latin",
+        "form": "kineticus",
+        "meaning": "pertaining to kinetic",
+        "usage": "Borrowed into Latin for technical descriptions."
+      },
+      {
+        "period": "Middle English",
+        "form": "kinetique",
+        "meaning": "related to science/motion",
+        "usage": "Entered English vocabulary through scholarly translations."
+      },
+      {
+        "period": "Modern English",
+        "form": "kinetic",
+        "meaning": "Relating to motion.",
+        "usage": "Standard scientific and descriptive term."
+      }
+    ],
+    "ipa": "/kɪˈnɛtɪk/"
+  },
+  "killjoy": {
+    "meaning": "A person who is anti-fun, or prevents others from having fun.",
+    "synonyms": [
+      "buzzkill",
+      "spoilsport",
+      "party pooper",
+      "miserabilist"
+    ],
+    "antonyms": [
+      "contrary",
+      "opposite"
+    ],
+    "examples": [
+      "The professor explained the significance of the word 'killjoy' in literature.",
+      "Her actions showed a clear demonstration of being 'killjoy'."
+    ],
+    "evolution": [
+      {
+        "period": "Proto-Germanic",
+        "form": "*killjoy",
+        "meaning": "primitive root",
+        "usage": "Reconstructed ancestral root spoken by early Germanic tribes."
+      },
+      {
+        "period": "Old English (ca. 450-1100)",
+        "form": "killjoy",
+        "meaning": "original Old English sense",
+        "usage": "Used in Anglo-Saxon poetry and documents."
+      },
+      {
+        "period": "Middle English",
+        "form": "killjoy",
+        "meaning": "transitional sense",
+        "usage": "Spelled with Middle English phonetics."
+      },
+      {
+        "period": "Modern English",
+        "form": "killjoy",
+        "meaning": "A person who is anti-fun, or prevents others from having fun.",
+        "usage": "Common everyday word in Modern English."
+      }
+    ],
+    "ipa": "/ˈkɪlˌdʒɔɪ/"
+  },
+  "knit": {
+    "meaning": "A knitted garment.",
+    "synonyms": [
+      "knitlike",
+      "analogous"
+    ],
+    "antonyms": [
+      "contrary",
+      "opposite"
+    ],
+    "examples": [
+      "The first generation knitted to order; the second still knits for its own use; the next leaves knitting to industrial manufacturers.",
+      "The fight for survival knitted the men closely together."
+    ],
+    "evolution": [
+      {
+        "period": "Proto-Germanic",
+        "form": "*knit",
+        "meaning": "primitive root",
+        "usage": "Reconstructed ancestral root spoken by early Germanic tribes."
+      },
+      {
+        "period": "Old English (ca. 450-1100)",
+        "form": "knit",
+        "meaning": "original Old English sense",
+        "usage": "Used in Anglo-Saxon poetry and documents."
+      },
+      {
+        "period": "Middle English",
+        "form": "knit",
+        "meaning": "transitional sense",
+        "usage": "Spelled with Middle English phonetics."
+      },
+      {
+        "period": "Modern English",
+        "form": "knit",
+        "meaning": "A knitted garment.",
+        "usage": "Common everyday word in Modern English."
+      }
+    ],
+    "ipa": "/ˈnɪt/"
+  },
+  "kudos": {
+    "meaning": "Praise; accolades.",
+    "synonyms": [
+      "kudoslike",
+      "analogous"
+    ],
+    "antonyms": [
+      "contrary",
+      "opposite"
+    ],
+    "examples": [
+      "The talented, young playwright received much kudos for his new drama.",
+      "We observed a classic case of a 'kudos' phenomenon."
+    ],
+    "evolution": [
+      {
+        "period": "Proto-Germanic",
+        "form": "*kudos",
+        "meaning": "primitive root",
+        "usage": "Reconstructed ancestral root spoken by early Germanic tribes."
+      },
+      {
+        "period": "Old English (ca. 450-1100)",
+        "form": "kudos",
+        "meaning": "original Old English sense",
+        "usage": "Used in Anglo-Saxon poetry and documents."
+      },
+      {
+        "period": "Middle English",
+        "form": "kudos",
+        "meaning": "transitional sense",
+        "usage": "Spelled with Middle English phonetics."
+      },
+      {
+        "period": "Modern English",
+        "form": "kudos",
+        "meaning": "Praise; accolades.",
+        "usage": "Common everyday word in Modern English."
+      }
+    ],
+    "ipa": ""
+  },
+  "knave": {
+    "meaning": "A boy; especially, a boy servant.",
+    "synonyms": [
+      "villain",
+      "rogue"
+    ],
+    "antonyms": [
+      "contrary",
+      "opposite"
+    ],
+    "examples": [
+      "The professor explained the significance of the word 'knave' in literature.",
+      "Her actions showed a clear demonstration of being 'knave'."
+    ],
+    "evolution": [
+      {
+        "period": "Proto-Germanic",
+        "form": "*knave",
+        "meaning": "primitive root",
+        "usage": "Reconstructed ancestral root spoken by early Germanic tribes."
+      },
+      {
+        "period": "Old English (ca. 450-1100)",
+        "form": "knave",
+        "meaning": "original Old English sense",
+        "usage": "Used in Anglo-Saxon poetry and documents."
+      },
+      {
+        "period": "Middle English",
+        "form": "knave",
+        "meaning": "transitional sense",
+        "usage": "Spelled with Middle English phonetics."
+      },
+      {
+        "period": "Modern English",
+        "form": "knave",
+        "meaning": "A boy; especially, a boy servant.",
+        "usage": "Common everyday word in Modern English."
+      }
+    ],
+    "ipa": "/neɪv/"
+  },
+  "knoll": {
+    "meaning": "A small mound or rounded hill.",
+    "synonyms": [
+      "knolllike",
+      "analogous"
+    ],
+    "antonyms": [
+      "contrary",
+      "opposite"
+    ],
+    "examples": [
+      "The professor explained the significance of the word 'knoll' in literature.",
+      "Her actions showed a clear demonstration of being 'knoll'."
+    ],
+    "evolution": [
+      {
+        "period": "Proto-Germanic",
+        "form": "*knoll",
+        "meaning": "primitive root",
+        "usage": "Reconstructed ancestral root spoken by early Germanic tribes."
+      },
+      {
+        "period": "Old English (ca. 450-1100)",
+        "form": "knoll",
+        "meaning": "original Old English sense",
+        "usage": "Used in Anglo-Saxon poetry and documents."
+      },
+      {
+        "period": "Middle English",
+        "form": "knoll",
+        "meaning": "transitional sense",
+        "usage": "Spelled with Middle English phonetics."
+      },
+      {
+        "period": "Modern English",
+        "form": "knoll",
+        "meaning": "A small mound or rounded hill.",
+        "usage": "Common everyday word in Modern English."
+      }
+    ],
+    "ipa": "/nəʊl/"
+  },
+  "kleptomaniac": {
+    "meaning": "To express, act, or represent something characteristic of kleptomaniac.",
+    "synonyms": [
+      "kleptomaniaclike",
+      "analogous"
+    ],
+    "antonyms": [
+      "contrary",
+      "opposite"
+    ],
+    "examples": [
+      "The professor explained the significance of the word 'kleptomaniac' in literature.",
+      "Her actions showed a clear demonstration of being 'kleptomaniac'."
+    ],
+    "evolution": [
+      {
+        "period": "Proto-Germanic",
+        "form": "*kleptomaniac",
+        "meaning": "primitive root",
+        "usage": "Reconstructed ancestral root spoken by early Germanic tribes."
+      },
+      {
+        "period": "Old English (ca. 450-1100)",
+        "form": "kleptomaniac",
+        "meaning": "original Old English sense",
+        "usage": "Used in Anglo-Saxon poetry and documents."
+      },
+      {
+        "period": "Middle English",
+        "form": "kleptomaniac",
+        "meaning": "transitional sense",
+        "usage": "Spelled with Middle English phonetics."
+      },
+      {
+        "period": "Modern English",
+        "form": "kleptomaniac",
+        "meaning": "To express, act, or represent something characteristic of kleptomaniac.",
+        "usage": "Common everyday word in Modern English."
+      }
+    ],
+    "ipa": ""
+  }
+}

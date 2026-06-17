@@ -1,0 +1,4757 @@
+{
+  "habitat": {
+    "meaning": "The natural home or environment of an animal, plant, or other organism.",
+    "synonyms": [
+      "environment",
+      "home",
+      "territory",
+      "surroundings"
+    ],
+    "antonyms": [
+      "antonym",
+      "antonym",
+      "antonym",
+      "antonym"
+    ],
+    "examples": [
+      "The forest is the natural habitat of the grizzly bear.",
+      "Urban expansion destroys valuable wildlife habitats."
+    ],
+    "evolution": [
+      {
+        "period": "Latin",
+        "form": "habitare",
+        "meaning": "to dwell",
+        "usage": "Root verb."
+      },
+      {
+        "period": "Latin",
+        "form": "habitat",
+        "meaning": "it dwells",
+        "usage": "Third-person singular present; used in Latin botanical descriptions to designate where a plant naturally grows; adopted into English in the 18th century."
+      },
+      {
+        "period": "Modern English",
+        "form": "habitat",
+        "meaning": "The natural home or environment of an animal, plant, or other organism.",
+        "usage": "Standard modern usage."
+      }
+    ]
+  },
+  "habituate": {
+    "meaning": "Make or become accustomed or used to something.",
+    "synonyms": [
+      "accustom",
+      "adapt",
+      "adjust",
+      "familiarize"
+    ],
+    "antonyms": [
+      "alienate",
+      "alienate",
+      "alienate",
+      "alienate"
+    ],
+    "examples": [
+      "It takes time to habituate yourself to a cold climate.",
+      "He became habituated to working late hours in the laboratory."
+    ],
+    "evolution": [
+      {
+        "period": "Latin",
+        "form": "habitus",
+        "meaning": "habit or condition",
+        "usage": "Root noun."
+      },
+      {
+        "period": "Late Latin",
+        "form": "habituare",
+        "meaning": "to accustom",
+        "usage": "Verb form; entered English in the 16th century."
+      },
+      {
+        "period": "Modern English",
+        "form": "habituate",
+        "meaning": "Make or become accustomed or used to something.",
+        "usage": "Standard modern usage."
+      }
+    ]
+  },
+  "hackles": {
+    "meaning": "Erectile hairs along the back of an animal's neck; raise one's anger.",
+    "synonyms": [
+      "bristles",
+      "dander",
+      "feathers",
+      "temper"
+    ],
+    "antonyms": [
+      "calm",
+      "peace",
+      "peace",
+      "peace"
+    ],
+    "examples": [
+      "The dog's hackles rose when the stranger approached the gate.",
+      "His arrogant attitude immediately raised my hackles."
+    ],
+    "evolution": [
+      {
+        "period": "Middle English",
+        "form": "hechele",
+        "meaning": "comb for dressing flax",
+        "usage": "Root noun."
+      },
+      {
+        "period": "Middle English",
+        "form": "hackle",
+        "meaning": "neck feathers of a male bird",
+        "usage": "Named because of their comb-like appearance; shifted in the 19th century to represent neck hairs on dogs or humans that rise in anger (raise one's hackles)."
+      },
+      {
+        "period": "Modern English",
+        "form": "hackles",
+        "meaning": "Erectile hairs along the back of an animal's neck; raise one's anger.",
+        "usage": "Standard modern usage."
+      }
+    ]
+  },
+  "hackneyed": {
+    "meaning": "Lacking significance through having been overused; unoriginal and trite.",
+    "synonyms": [
+      "trite",
+      "overused",
+      "clichéd",
+      "platitudinous"
+    ],
+    "antonyms": [
+      "original",
+      "fresh",
+      "novel",
+      "creative"
+    ],
+    "examples": [
+      "The plot of the movie was full of hackneyed clichés.",
+      "He gave a hackneyed speech that bored the audience."
+    ],
+    "evolution": [
+      {
+        "period": "Middle English",
+        "form": "Hackney",
+        "meaning": "village near London",
+        "usage": "Known for raising horses for hire."
+      },
+      {
+        "period": "Early Modern English",
+        "form": "hackney",
+        "meaning": "horse for hire; drudge",
+        "usage": "Noun representing hired utility."
+      },
+      {
+        "period": "Modern English",
+        "form": "hackneyed",
+        "meaning": "overused; trite",
+        "usage": "Shifted from a hired horse to describing hired, overworked writers, and finally to any trite, overused phrase or idea."
+      }
+    ]
+  },
+  "haggard": {
+    "meaning": "Looking exhausted and unwell, especially from fatigue, worry, or suffering.",
+    "synonyms": [
+      "worn",
+      "gaunt",
+      "exhausted",
+      "emaciated"
+    ],
+    "antonyms": [
+      "fresh",
+      "healthy",
+      "radiant",
+      "plump"
+    ],
+    "examples": [
+      "She looked haggard and pale after studying all night.",
+      "His haggard face showed the strain of the long journey."
+    ],
+    "evolution": [
+      {
+        "period": "French",
+        "form": "hagard",
+        "meaning": "wild or untamed",
+        "usage": "Used in medieval falconry to describe an adult hawk caught in the wild (which was hard to train)."
+      },
+      {
+        "period": "Modern English",
+        "form": "haggard",
+        "meaning": "wild-looking; gaunt",
+        "usage": "Borrowed in the 16th century; shifted from wild hawks to human appearance displaying exhaustion or worry."
+      },
+      {
+        "period": "Modern English",
+        "form": "haggard",
+        "meaning": "Looking exhausted and unwell, especially from fatigue, worry, or suffering.",
+        "usage": "Standard modern usage."
+      }
+    ]
+  },
+  "haggle": {
+    "meaning": "Dispute or bargain persistently, especially over the cost of something.",
+    "synonyms": [
+      "bargain",
+      "barter",
+      "wrangle",
+      "negotiate"
+    ],
+    "antonyms": [
+      "agree",
+      "accept",
+      "pay",
+      "pay"
+    ],
+    "examples": [
+      "She managed to haggle the price of the rug down.",
+      "They spent hours haggling over the terms of the contract."
+    ],
+    "evolution": [
+      {
+        "period": "Old Norse",
+        "form": "haggva",
+        "meaning": "to chop or hew",
+        "usage": "Germanic root verb."
+      },
+      {
+        "period": "Middle English",
+        "form": "haggen",
+        "meaning": "to hack or cut",
+        "usage": "Verb for cutting clumsily; frequentative form 'haggle' arose in the 16th century meaning to chop repeatedly, which later shifted to 'chopping down' prices in bargaining."
+      },
+      {
+        "period": "Modern English",
+        "form": "haggle",
+        "meaning": "Dispute or bargain persistently, especially over the cost of something.",
+        "usage": "Standard modern usage."
+      }
+    ]
+  },
+  "hail": {
+    "meaning": "Pellets of frozen rain; call out to attract attention; praise enthusiastically.",
+    "synonyms": [
+      "shower",
+      "shout",
+      "acclaim",
+      "praise"
+    ],
+    "antonyms": [
+      "ignore",
+      "criticize",
+      "condemn",
+      "condemn"
+    ],
+    "examples": [
+      "Hail battered the roof of the car.",
+      "We managed to hail a taxi."
+    ],
+    "evolution": [
+      {
+        "period": "Old English",
+        "form": "hægl",
+        "meaning": "hail (frozen rain)",
+        "usage": "Source of precipitation noun."
+      },
+      {
+        "period": "Old English",
+        "form": "hæl",
+        "meaning": "health or greeting",
+        "usage": "Source of greeting verb (hail/heal); homonyms merged in spelling in Middle English."
+      },
+      {
+        "period": "Modern English",
+        "form": "hail",
+        "meaning": "Pellets of frozen rain; call out to attract attention; praise enthusiastically.",
+        "usage": "Standard modern usage."
+      }
+    ]
+  },
+  "halcyon": {
+    "meaning": "Idyllically happy and peaceful (of a period of time).",
+    "synonyms": [
+      "peaceful",
+      "idyllic",
+      "calm",
+      "tranquil"
+    ],
+    "antonyms": [
+      "turbulent",
+      "chaotic",
+      "stormy",
+      "troubled"
+    ],
+    "examples": [
+      "He recalled the halcyon days of his youth.",
+      "The valley was a halcyon retreat from the busy city."
+    ],
+    "evolution": [
+      {
+        "period": "Greek",
+        "form": "alkyon",
+        "meaning": "kingfisher",
+        "usage": "Root bird name."
+      },
+      {
+        "period": "Latin",
+        "form": "halcyon",
+        "meaning": "kingfisher bird",
+        "usage": "Associated with ancient myths of a bird nesting on the sea at winter solstice, during which the gods calmed the waves; phrase 'halcyon days' entered English in the 14th century."
+      },
+      {
+        "period": "Modern English",
+        "form": "halcyon",
+        "meaning": "Idyllically happy and peaceful (of a period of time).",
+        "usage": "Standard modern usage."
+      }
+    ]
+  },
+  "hale": {
+    "meaning": "Strong and healthy (especially of an elderly person).",
+    "synonyms": [
+      "healthy",
+      "robust",
+      "strong",
+      "hearty"
+    ],
+    "antonyms": [
+      "frail",
+      "weak",
+      "sick",
+      "infirm"
+    ],
+    "examples": [
+      "At eighty, he was still hale and hearty.",
+      "She remained hale despite her advanced years."
+    ],
+    "evolution": [
+      {
+        "period": "Old English",
+        "form": "hal",
+        "meaning": "whole, uninjured, or healthy",
+        "usage": "Germanic root; Northern English dialect preserved 'hale' spelling, while Southern dialects developed into 'whole'."
+      },
+      {
+        "period": "Middle English",
+        "form": "hal",
+        "meaning": "whole, uninjured, or healthy",
+        "usage": "Middle English development."
+      },
+      {
+        "period": "Modern English",
+        "form": "hale",
+        "meaning": "Strong and healthy (especially of an elderly person).",
+        "usage": "Standard modern usage."
+      }
+    ]
+  },
+  "halfhearted": {
+    "meaning": "Without enthusiasm or energy.",
+    "synonyms": [
+      "lukewarm",
+      "tepid",
+      "indifferent",
+      "apathetic"
+    ],
+    "antonyms": [
+      "enthusiastic",
+      "eager",
+      "passionate",
+      "wholehearted"
+    ],
+    "examples": [
+      "He made a halfhearted attempt to clean his room.",
+      "She gave a halfhearted smile and walked away."
+    ],
+    "evolution": [
+      {
+        "period": "Modern English",
+        "form": "half + hearted",
+        "meaning": "halfhearted",
+        "usage": "Formed in the 17th century as a compound representing divided or weak feeling."
+      },
+      {
+        "period": "Middle English",
+        "form": "half + hearted",
+        "meaning": "halfhearted",
+        "usage": "Middle English development."
+      },
+      {
+        "period": "Modern English",
+        "form": "halfhearted",
+        "meaning": "Without enthusiasm or energy.",
+        "usage": "Standard modern usage."
+      }
+    ]
+  },
+  "hallowed": {
+    "meaning": "Honored as holy; highly respected.",
+    "synonyms": [
+      "holy",
+      "sacred",
+      "revered",
+      "consecrated"
+    ],
+    "antonyms": [
+      "profane",
+      "secular",
+      "desecrated",
+      "cursed"
+    ],
+    "examples": [
+      "They stood on the hallowed ground of the battlefield.",
+      "The university has a long history of hallowed traditions."
+    ],
+    "evolution": [
+      {
+        "period": "Old English",
+        "form": "halig",
+        "meaning": "holy",
+        "usage": "Root adjective."
+      },
+      {
+        "period": "Old English",
+        "form": "halgian",
+        "meaning": "to make holy",
+        "usage": "Verb form; past participle 'hallowed' entered Middle English as a description for sacred things."
+      },
+      {
+        "period": "Modern English",
+        "form": "hallowed",
+        "meaning": "Honored as holy; highly respected.",
+        "usage": "Standard modern usage."
+      }
+    ]
+  },
+  "hallucination": {
+    "meaning": "An experience involving the apparent perception of something not present.",
+    "synonyms": [
+      "delusion",
+      "illusion",
+      "mirage",
+      "fantasy"
+    ],
+    "antonyms": [
+      "reality",
+      "fact",
+      "fact",
+      "fact"
+    ],
+    "examples": [
+      "High fever can cause hallucinations.",
+      "He realized the water oasis was just a hallucination."
+    ],
+    "evolution": [
+      {
+        "period": "Latin",
+        "form": "alucinari",
+        "meaning": "to wander in mind; dream",
+        "usage": "Root verb."
+      },
+      {
+        "period": "Latin",
+        "form": "hallucinatio",
+        "meaning": "a wandering of the mind",
+        "usage": "Noun form; borrowed into English in the 17th century."
+      },
+      {
+        "period": "Modern English",
+        "form": "hallucination",
+        "meaning": "An experience involving the apparent perception of something not present.",
+        "usage": "Standard modern usage."
+      }
+    ]
+  },
+  "halting": {
+    "meaning": "Slow and hesitant, especially in speech or movement.",
+    "synonyms": [
+      "hesitant",
+      "faltering",
+      "stumbling",
+      "awkward"
+    ],
+    "antonyms": [
+      "fluent",
+      "steady",
+      "smooth",
+      "rapid"
+    ],
+    "examples": [
+      "She spoke in halting English.",
+      "He took a few halting steps after the accident."
+    ],
+    "evolution": [
+      {
+        "period": "Old English",
+        "form": "healt",
+        "meaning": "lame or limping",
+        "usage": "Root adjective."
+      },
+      {
+        "period": "Middle English",
+        "form": "halten",
+        "meaning": "to limp",
+        "usage": "Verb form; participle 'halting' developed metaphorical sense of hesitant speech or awkward movement in the 16th century."
+      },
+      {
+        "period": "Modern English",
+        "form": "halting",
+        "meaning": "Slow and hesitant, especially in speech or movement.",
+        "usage": "Standard modern usage."
+      }
+    ]
+  },
+  "hamper": {
+    "meaning": "Hinder or impede the movement or progress of; a large basket.",
+    "synonyms": [
+      "hinder",
+      "impede",
+      "obstruct",
+      "basket"
+    ],
+    "antonyms": [
+      "assist",
+      "facilitate",
+      "encourage",
+      "encourage"
+    ],
+    "examples": [
+      "Heavy snow hampered the rescue efforts.",
+      "We packed a picnic hamper for our trip."
+    ],
+    "evolution": [
+      {
+        "period": "Old French",
+        "form": "hanap",
+        "meaning": "goblet",
+        "usage": "Source of document case 'hanaper'."
+      },
+      {
+        "period": "Middle English",
+        "form": "hampren",
+        "meaning": "to pack closely; restrict",
+        "usage": "Verb for restricting movement; homonym 'hamper' (basket, from hanaper) merged in spelling in the 14th century."
+      },
+      {
+        "period": "Modern English",
+        "form": "hamper",
+        "meaning": "Hinder or impede the movement or progress of; a large basket.",
+        "usage": "Standard modern usage."
+      }
+    ]
+  },
+  "handsome": {
+    "meaning": "Good-looking; substantial or generous (of an amount).",
+    "synonyms": [
+      "good-looking",
+      "attractive",
+      "generous",
+      "substantial"
+    ],
+    "antonyms": [
+      "ugly",
+      "plain",
+      "meager",
+      "small"
+    ],
+    "examples": [
+      "He was a handsome young man.",
+      "They made a handsome profit on the sale."
+    ],
+    "evolution": [
+      {
+        "period": "Middle English",
+        "form": "hand + -some",
+        "meaning": "handy; easy to handle",
+        "usage": "Originally meant convenient or easy to use; shifted in the 16th century to meaning aesthetically pleasing/proportionate, and later to generous/substantial."
+      },
+      {
+        "period": "Middle English",
+        "form": "hand + -some",
+        "meaning": "handy; easy to handle",
+        "usage": "Middle English development."
+      },
+      {
+        "period": "Modern English",
+        "form": "handsome",
+        "meaning": "Good-looking; substantial or generous (of an amount).",
+        "usage": "Standard modern usage."
+      }
+    ]
+  },
+  "hap": {
+    "meaning": "Fortune, chance, or luck; to happen.",
+    "synonyms": [
+      "luck",
+      "chance",
+      "fate",
+      "occurrence"
+    ],
+    "antonyms": [
+      "design",
+      "design",
+      "design",
+      "design"
+    ],
+    "examples": [
+      "It was by pure hap that they met.",
+      "No one could predict what would hap next."
+    ],
+    "evolution": [
+      {
+        "period": "Old Norse",
+        "form": "happ",
+        "meaning": "good luck or chance",
+        "usage": "Scandinavian root noun; borrowed into Middle English; source of 'happy', 'happen', and 'hapless'."
+      },
+      {
+        "period": "Middle English",
+        "form": "happ",
+        "meaning": "good luck or chance",
+        "usage": "Middle English development."
+      },
+      {
+        "period": "Modern English",
+        "form": "hap",
+        "meaning": "Fortune, chance, or luck; to happen.",
+        "usage": "Standard modern usage."
+      }
+    ]
+  },
+  "haphazard": {
+    "meaning": "Lacking any obvious organization; random.",
+    "synonyms": [
+      "random",
+      "chaotic",
+      "unstructured",
+      "arbitrary"
+    ],
+    "antonyms": [
+      "systematic",
+      "planned",
+      "organized",
+      "deliberate"
+    ],
+    "examples": [
+      "The books were piled in a haphazard fashion.",
+      "His approach to studying was completely haphazard."
+    ],
+    "evolution": [
+      {
+        "period": "Old Norse",
+        "form": "happ",
+        "meaning": "chance",
+        "usage": "Root noun."
+      },
+      {
+        "period": "Old French",
+        "form": "hasard",
+        "meaning": "risk/game of chance",
+        "usage": "Root noun."
+      },
+      {
+        "period": "Modern English",
+        "form": "haphazard",
+        "meaning": "by chance and risk; random",
+        "usage": "Coined in the 16th century by combining both elements."
+      }
+    ]
+  },
+  "hapless": {
+    "meaning": "Unfortunate or unlucky.",
+    "synonyms": [
+      "unfortunate",
+      "unlucky",
+      "ill-fated",
+      "cursed"
+    ],
+    "antonyms": [
+      "lucky",
+      "fortunate",
+      "blessed",
+      "blessed"
+    ],
+    "examples": [
+      "The hapless tourists lost their passports on the first day.",
+      "He was a hapless victim of circumstance."
+    ],
+    "evolution": [
+      {
+        "period": "Old Norse",
+        "form": "happ",
+        "meaning": "luck",
+        "usage": "Root noun."
+      },
+      {
+        "period": "Middle English",
+        "form": "hapless",
+        "meaning": "lacking luck",
+        "usage": "Formed in the 14th century with suffix '-less'."
+      },
+      {
+        "period": "Modern English",
+        "form": "hapless",
+        "meaning": "Unfortunate or unlucky.",
+        "usage": "Standard modern usage."
+      }
+    ]
+  },
+  "harangue": {
+    "meaning": "A lengthy and aggressive speech; lecture someone aggressively.",
+    "synonyms": [
+      "tirade",
+      "lecture",
+      "diatribe",
+      "declaim"
+    ],
+    "antonyms": [
+      "tribute",
+      "praise",
+      "praise",
+      "praise"
+    ],
+    "examples": [
+      "The manager delivered a long harangue about punctuality.",
+      "He stood on a box to harangue the crowd."
+    ],
+    "evolution": [
+      {
+        "period": "Medieval Latin",
+        "form": "harenga",
+        "meaning": "public speech",
+        "usage": "From a Germanic root meaning ring/arena."
+      },
+      {
+        "period": "Old French",
+        "form": "arenge",
+        "meaning": "public address",
+        "usage": "Old French noun."
+      },
+      {
+        "period": "Modern English",
+        "form": "harangue",
+        "meaning": "lengthy loud speech",
+        "usage": "Borrowed in the 16th century; spelling modified under French influence."
+      }
+    ]
+  },
+  "harass": {
+    "meaning": "Subject to aggressive pressure or intimidation.",
+    "synonyms": [
+      "intimidate",
+      "pester",
+      "annoy",
+      "plague"
+    ],
+    "antonyms": [
+      "comfort",
+      "assist",
+      "protect",
+      "soothe"
+    ],
+    "examples": [
+      "She accused her coworker of harassing her.",
+      "The enemy forces continued to harass the retreating soldiers."
+    ],
+    "evolution": [
+      {
+        "period": "Old French",
+        "form": "harer",
+        "meaning": "to set a dog on",
+        "usage": "From 'hare' (cry to incite dogs)."
+      },
+      {
+        "period": "Old French",
+        "form": "harasser",
+        "meaning": "to tire out; vex",
+        "usage": "Verb form; entered English in the 17th century."
+      },
+      {
+        "period": "Modern English",
+        "form": "harass",
+        "meaning": "Subject to aggressive pressure or intimidation.",
+        "usage": "Standard modern usage."
+      }
+    ]
+  },
+  "harbinger": {
+    "meaning": "A person or thing that announces or signals the approach of another; a forerunner.",
+    "synonyms": [
+      "precursor",
+      "forerunner",
+      "herald",
+      "sign"
+    ],
+    "antonyms": [
+      "successor",
+      "follower",
+      "follower",
+      "follower"
+    ],
+    "examples": [
+      "The blooming of crocus flowers is a harbinger of spring.",
+      "A sudden drop in temperature was the harbinger of a winter storm."
+    ],
+    "evolution": [
+      {
+        "period": "Old French",
+        "form": "herberge",
+        "meaning": "lodging or shelter",
+        "usage": "From a Germanic root."
+      },
+      {
+        "period": "Old French",
+        "form": "herbergeour",
+        "meaning": "provider of lodgings",
+        "usage": "Scout sent ahead of an army to secure shelter; borrowed into Middle English, eventually shifting from 'lodging provider' to 'herald/forerunner'."
+      },
+      {
+        "period": "Modern English",
+        "form": "harbinger",
+        "meaning": "A person or thing that announces or signals the approach of another; a forerunner.",
+        "usage": "Standard modern usage."
+      }
+    ]
+  },
+  "hardy": {
+    "meaning": "Robust; capable of enduring difficult conditions.",
+    "synonyms": [
+      "robust",
+      "tough",
+      "resilient",
+      "strong"
+    ],
+    "antonyms": [
+      "delicate",
+      "weak",
+      "frail",
+      "sensitive"
+    ],
+    "examples": [
+      "These hardy plants can survive freezing temperatures.",
+      "The explorers were hardy men who feared no danger."
+    ],
+    "evolution": [
+      {
+        "period": "Proto-Germanic",
+        "form": "hart",
+        "meaning": "hard",
+        "usage": "Root adjective."
+      },
+      {
+        "period": "Old French",
+        "form": "hardi",
+        "meaning": "bold or daring",
+        "usage": "Entered English in the 13th century; shifted from 'daring' to 'physically tough/robust' in the 16th century."
+      },
+      {
+        "period": "Modern English",
+        "form": "hardy",
+        "meaning": "Robust; capable of enduring difficult conditions.",
+        "usage": "Standard modern usage."
+      }
+    ]
+  },
+  "harping": {
+    "meaning": "Talk or write persistently and tediously on a particular topic.",
+    "synonyms": [
+      "dwell on",
+      "repeat",
+      "persist",
+      "drone"
+    ],
+    "antonyms": [
+      "ignore",
+      "drop",
+      "drop",
+      "drop"
+    ],
+    "examples": [
+      "He is always harping on his past achievements.",
+      "Stop harping on my mistakes; I have apologized."
+    ],
+    "evolution": [
+      {
+        "period": "Old English",
+        "form": "hearpe",
+        "meaning": "harp (instrument)",
+        "usage": "Root noun."
+      },
+      {
+        "period": "Middle English",
+        "form": "harpen",
+        "meaning": "to play the harp",
+        "usage": "Developed metaphorical sense in the 16th century from the idea of playing the same note or string repeatedly."
+      },
+      {
+        "period": "Modern English",
+        "form": "harping",
+        "meaning": "Talk or write persistently and tediously on a particular topic.",
+        "usage": "Standard modern usage."
+      }
+    ]
+  },
+  "harry": {
+    "meaning": "Persistently carry out attacks on an enemy; harass.",
+    "synonyms": [
+      "harass",
+      "pester",
+      "attack",
+      "pillage"
+    ],
+    "antonyms": [
+      "protect",
+      "aid",
+      "defend",
+      "defend"
+    ],
+    "examples": [
+      "Vikings raided the coast to harry the local villages.",
+      "He was harried by reporters as he left the building."
+    ],
+    "evolution": [
+      {
+        "period": "Proto-Germanic",
+        "form": "harjon",
+        "meaning": "to devastate",
+        "usage": "From 'harjaz' (army)."
+      },
+      {
+        "period": "Old English",
+        "form": "hergian",
+        "meaning": "to ravage, plunder, or make war",
+        "usage": "Everyday military verb; spelling shifted to 'harry' in Middle English."
+      },
+      {
+        "period": "Modern English",
+        "form": "harry",
+        "meaning": "Persistently carry out attacks on an enemy; harass.",
+        "usage": "Standard modern usage."
+      }
+    ]
+  },
+  "hatch": {
+    "meaning": "Emerge from an egg; conspire or devise a plot.",
+    "synonyms": [
+      "emerge",
+      "incubate",
+      "devise",
+      "plot"
+    ],
+    "antonyms": [
+      "destroy",
+      "abort",
+      "abort",
+      "abort"
+    ],
+    "examples": [
+      "The chicks began to hatch this morning.",
+      "They gathered in secret to hatch a plan."
+    ],
+    "evolution": [
+      {
+        "period": "Middle English",
+        "form": "hachen",
+        "meaning": "to produce from eggs",
+        "usage": "From a Germanic root; metaphorical sense of hatching plots arose in the 14th century."
+      },
+      {
+        "period": "Middle English",
+        "form": "hachen",
+        "meaning": "to produce from eggs",
+        "usage": "Middle English development."
+      },
+      {
+        "period": "Modern English",
+        "form": "hatch",
+        "meaning": "Emerge from an egg; conspire or devise a plot.",
+        "usage": "Standard modern usage."
+      }
+    ]
+  },
+  "haughtiness": {
+    "meaning": "The appearance or quality of being arrogantly superior and disdainful.",
+    "synonyms": [
+      "arrogance",
+      "pride",
+      "disdain",
+      "superciliousness"
+    ],
+    "antonyms": [
+      "humility",
+      "modesty",
+      "meekness",
+      "respect"
+    ],
+    "examples": [
+      "She was disliked for her haughtiness and cold manners.",
+      "His haughtiness turned potential allies into enemies."
+    ],
+    "evolution": [
+      {
+        "period": "Latin",
+        "form": "altus",
+        "meaning": "high",
+        "usage": "Root adjective."
+      },
+      {
+        "period": "Old French",
+        "form": "hautain",
+        "meaning": "high-minded; arrogant",
+        "usage": "Adjective form."
+      },
+      {
+        "period": "Middle English",
+        "form": "haughty",
+        "meaning": "arrogant",
+        "usage": "Spelling altered; noun 'haughtiness' formed with suffix '-ness' in the 16th century."
+      }
+    ]
+  },
+  "haven": {
+    "meaning": "A place of safety or refuge; a harbor.",
+    "synonyms": [
+      "refuge",
+      "sanctuary",
+      "shelter",
+      "port"
+    ],
+    "antonyms": [
+      "danger zone",
+      "danger zone",
+      "danger zone",
+      "danger zone"
+    ],
+    "examples": [
+      "The national park is a haven for endangered species.",
+      "The ship sought haven in the bay during the storm."
+    ],
+    "evolution": [
+      {
+        "period": "Old Norse",
+        "form": "hofn",
+        "meaning": "harbor",
+        "usage": "Scandinavian root."
+      },
+      {
+        "period": "Old English",
+        "form": "hæfen",
+        "meaning": "harbor or port",
+        "usage": "Everyday noun; developed metaphorical sense of refuge/safety in the 16th century."
+      },
+      {
+        "period": "Modern English",
+        "form": "haven",
+        "meaning": "A place of safety or refuge; a harbor.",
+        "usage": "Standard modern usage."
+      }
+    ]
+  },
+  "havoc": {
+    "meaning": "Widespread destruction or chaos.",
+    "synonyms": [
+      "destruction",
+      "chaos",
+      "devastation",
+      "ruin"
+    ],
+    "antonyms": [
+      "order",
+      "peace",
+      "creation",
+      "repair"
+    ],
+    "examples": [
+      "The hurricane wreaked havoc on the coastal towns.",
+      "The new virus caused havoc in computer systems worldwide."
+    ],
+    "evolution": [
+      {
+        "period": "Old French",
+        "form": "havot",
+        "meaning": "pillage or plunder",
+        "usage": "Root noun."
+      },
+      {
+        "period": "Middle English",
+        "form": "havok",
+        "meaning": "plunder",
+        "usage": "Derived from military command 'crier havok' (to cry havoc, signaling soldiers to pillage/plunder); shifted to general destruction in the 16th century."
+      },
+      {
+        "period": "Modern English",
+        "form": "havoc",
+        "meaning": "Widespread destruction or chaos.",
+        "usage": "Standard modern usage."
+      }
+    ]
+  },
+  "hazard": {
+    "meaning": "A danger or risk; to venture or risk.",
+    "synonyms": [
+      "danger",
+      "risk",
+      "peril",
+      "venture"
+    ],
+    "antonyms": [
+      "safety",
+      "security",
+      "certainty",
+      "certainty"
+    ],
+    "examples": [
+      "Wet roads are a serious driving hazard.",
+      "I would hazard a guess that he is late."
+    ],
+    "evolution": [
+      {
+        "period": "Arabic",
+        "form": "al-zahr",
+        "meaning": "the die (dice)",
+        "usage": "Root noun."
+      },
+      {
+        "period": "Old French",
+        "form": "hasard",
+        "meaning": "game of chance",
+        "usage": "Borrowed from Arabic; entered English in the 14th century; shifted from dice game to risk/danger."
+      },
+      {
+        "period": "Modern English",
+        "form": "hazard",
+        "meaning": "A danger or risk; to venture or risk.",
+        "usage": "Standard modern usage."
+      }
+    ]
+  },
+  "hazardous": {
+    "meaning": "Risky; dangerous.",
+    "synonyms": [
+      "dangerous",
+      "risky",
+      "perilous",
+      "unsafe"
+    ],
+    "antonyms": [
+      "safe",
+      "secure",
+      "harmless",
+      "harmless"
+    ],
+    "examples": [
+      "Working with toxic chemicals is a hazardous job.",
+      "They made a hazardous journey through the mountains."
+    ],
+    "evolution": [
+      {
+        "period": "Old French",
+        "form": "hasard",
+        "meaning": "risk",
+        "usage": "Root noun."
+      },
+      {
+        "period": "Modern English",
+        "form": "hazardous",
+        "meaning": "risky; dangerous",
+        "usage": "Coined in the 16th century with suffix '-ous'."
+      },
+      {
+        "period": "Modern English",
+        "form": "hazardous",
+        "meaning": "Risky; dangerous.",
+        "usage": "Standard modern usage."
+      }
+    ]
+  },
+  "hazy": {
+    "meaning": "Indistinct or unclear; covered by a light mist.",
+    "synonyms": [
+      "misty",
+      "foggy",
+      "vague",
+      "obscure"
+    ],
+    "antonyms": [
+      "clear",
+      "distinct",
+      "sharp",
+      "bright"
+    ],
+    "examples": [
+      "I have a hazy memory of my first day of school.",
+      "The skyline was hazy in the summer heat."
+    ],
+    "evolution": [
+      {
+        "period": "Early Modern English",
+        "form": "haze",
+        "meaning": "fog or cold mist",
+        "usage": "Root noun of obscure origin; adjective 'hazy' coined in the 17th century."
+      },
+      {
+        "period": "Middle English",
+        "form": "haze",
+        "meaning": "fog or cold mist",
+        "usage": "Middle English development."
+      },
+      {
+        "period": "Modern English",
+        "form": "hazy",
+        "meaning": "Indistinct or unclear; covered by a light mist.",
+        "usage": "Standard modern usage."
+      }
+    ]
+  },
+  "headfirst": {
+    "meaning": "With the head foremost; precipitately or hastily.",
+    "synonyms": [
+      "headlong",
+      "precipitately",
+      "blindly",
+      "blindly"
+    ],
+    "antonyms": [
+      "cautiously",
+      "backward",
+      "backward",
+      "backward"
+    ],
+    "examples": [
+      "He dove headfirst into the swimming pool.",
+      "She plunged headfirst into the new project."
+    ],
+    "evolution": [
+      {
+        "period": "Modern English",
+        "form": "head + first",
+        "meaning": "headfirst",
+        "usage": "Formed in the 17th century to replace the older adverb 'headling'."
+      },
+      {
+        "period": "Middle English",
+        "form": "head + first",
+        "meaning": "headfirst",
+        "usage": "Middle English development."
+      },
+      {
+        "period": "Modern English",
+        "form": "headfirst",
+        "meaning": "With the head foremost; precipitately or hastily.",
+        "usage": "Standard modern usage."
+      }
+    ]
+  },
+  "headlong": {
+    "meaning": "With the head foremost; in a rush; precipitate.",
+    "synonyms": [
+      "precipitate",
+      "headfirst",
+      "hasty",
+      "rash"
+    ],
+    "antonyms": [
+      "cautious",
+      "slow",
+      "careful",
+      "careful"
+    ],
+    "examples": [
+      "He fell headlong down the stairs.",
+      "They made a headlong rush to catch the train."
+    ],
+    "evolution": [
+      {
+        "period": "Middle English",
+        "form": "head",
+        "meaning": "head",
+        "usage": "Root noun."
+      },
+      {
+        "period": "Middle English",
+        "form": "headling",
+        "meaning": "head-direction",
+        "usage": "Formed with adverbial suffix '-ling'; later altered by folk etymology to 'headlong' in the 15th century."
+      },
+      {
+        "period": "Modern English",
+        "form": "headlong",
+        "meaning": "With the head foremost; in a rush; precipitate.",
+        "usage": "Standard modern usage."
+      }
+    ]
+  },
+  "headstrong": {
+    "meaning": "Self-willed and obstinate; stubborn.",
+    "synonyms": [
+      "obstinate",
+      "stubborn",
+      "willful",
+      "refractory"
+    ],
+    "antonyms": [
+      "compliant",
+      "docile",
+      "cooperative",
+      "submissive"
+    ],
+    "examples": [
+      "The headstrong teenager refused to listen to advice.",
+      "He made a headstrong decision that led to trouble."
+    ],
+    "evolution": [
+      {
+        "period": "Middle English",
+        "form": "head + strong",
+        "meaning": "stubborn",
+        "usage": "Compound arose in the 14th century to denote a person driven by strong personal opinions."
+      },
+      {
+        "period": "Middle English",
+        "form": "head + strong",
+        "meaning": "stubborn",
+        "usage": "Middle English development."
+      },
+      {
+        "period": "Modern English",
+        "form": "headstrong",
+        "meaning": "Self-willed and obstinate; stubborn.",
+        "usage": "Standard modern usage."
+      }
+    ]
+  },
+  "healthful": {
+    "meaning": "Conducive to good health; wholesome.",
+    "synonyms": [
+      "wholesome",
+      "healthy",
+      "nutritious",
+      "salubrious"
+    ],
+    "antonyms": [
+      "unhealthful",
+      "toxic",
+      "harmful",
+      "noxious"
+    ],
+    "examples": [
+      "A healthful diet includes plenty of fruits and vegetables.",
+      "Clean mountain air is very healthful."
+    ],
+    "evolution": [
+      {
+        "period": "Old English",
+        "form": "hælþ",
+        "meaning": "health",
+        "usage": "Root noun."
+      },
+      {
+        "period": "Middle English",
+        "form": "healthful",
+        "meaning": "wholesome",
+        "usage": "Formed with suffix '-ful' in the 14th century."
+      },
+      {
+        "period": "Modern English",
+        "form": "healthful",
+        "meaning": "Conducive to good health; wholesome.",
+        "usage": "Standard modern usage."
+      }
+    ]
+  },
+  "healthy": {
+    "meaning": "In a good physical or mental state; indicating good health.",
+    "synonyms": [
+      "fit",
+      "well",
+      "robust",
+      "wholesome"
+    ],
+    "antonyms": [
+      "sick",
+      "ill",
+      "unhealthy",
+      "weak"
+    ],
+    "examples": [
+      "He is a healthy young boy.",
+      "The company reported a healthy profit this quarter."
+    ],
+    "evolution": [
+      {
+        "period": "Old English",
+        "form": "hælþ",
+        "meaning": "health",
+        "usage": "Root noun."
+      },
+      {
+        "period": "Modern English",
+        "form": "healthy",
+        "meaning": "in health",
+        "usage": "Adjective formed with suffix '-y' in the 16th century."
+      },
+      {
+        "period": "Modern English",
+        "form": "healthy",
+        "meaning": "In a good physical or mental state; indicating good health.",
+        "usage": "Standard modern usage."
+      }
+    ]
+  },
+  "heckler": {
+    "meaning": "A person who interrupts a performer or speaker with derisive comments.",
+    "synonyms": [
+      "taunter",
+      "disruptor",
+      "jeerer",
+      "critic"
+    ],
+    "antonyms": [
+      "supporter",
+      "fan",
+      "fan",
+      "fan"
+    ],
+    "examples": [
+      "The comedian handled the heckler with sharp wit.",
+      "Several hecklers were removed from the political rally."
+    ],
+    "evolution": [
+      {
+        "period": "Middle English",
+        "form": "hekele",
+        "meaning": "to comb flax",
+        "usage": "Root verb."
+      },
+      {
+        "period": "Middle English (Scots)",
+        "form": "heckle",
+        "meaning": "to cross-examine sharply",
+        "usage": "Developed from the idea of carding/teasing fibers; shifted to public shouting/jeering in the 19th century."
+      },
+      {
+        "period": "Modern English",
+        "form": "heckler",
+        "meaning": "A person who interrupts a performer or speaker with derisive comments.",
+        "usage": "Standard modern usage."
+      }
+    ]
+  },
+  "hedonist": {
+    "meaning": "A person who believes that the pursuit of pleasure is the most important goal in life.",
+    "synonyms": [
+      "sensualist",
+      "sybarite",
+      "pleasure-seeker",
+      "pleasure-seeker"
+    ],
+    "antonyms": [
+      "ascetic",
+      "puritan",
+      "puritan",
+      "puritan"
+    ],
+    "examples": [
+      "He lived like a true hedonist, traveling and dining at fine restaurants.",
+      "Her hedonist philosophy ignored future consequences."
+    ],
+    "evolution": [
+      {
+        "period": "Greek",
+        "form": "hedone",
+        "meaning": "pleasure",
+        "usage": "Root noun."
+      },
+      {
+        "period": "Modern English",
+        "form": "hedonist",
+        "meaning": "pleasure-seeker",
+        "usage": "Coined in the 19th century model of philosophical terms."
+      },
+      {
+        "period": "Modern English",
+        "form": "hedonist",
+        "meaning": "A person who believes that the pursuit of pleasure is the most important goal in life.",
+        "usage": "Standard modern usage."
+      }
+    ]
+  },
+  "heed": {
+    "meaning": "Pay attention to; take notice of.",
+    "synonyms": [
+      "note",
+      "notice",
+      "mind",
+      "observe"
+    ],
+    "antonyms": [
+      "ignore",
+      "neglect",
+      "disregard",
+      "disregard"
+    ],
+    "examples": [
+      "You should heed the warnings of the experts.",
+      "He failed because he did not heed the advice of his peers."
+    ],
+    "evolution": [
+      {
+        "period": "Old English",
+        "form": "hedan",
+        "meaning": "to observe, guard, or attend to",
+        "usage": "Germanic verb; spelling modernized in Middle English."
+      },
+      {
+        "period": "Middle English",
+        "form": "hedan",
+        "meaning": "to observe, guard, or attend to",
+        "usage": "Middle English development."
+      },
+      {
+        "period": "Modern English",
+        "form": "heed",
+        "meaning": "Pay attention to; take notice of.",
+        "usage": "Standard modern usage."
+      }
+    ]
+  },
+  "heedless": {
+    "meaning": "Showing a lack of care or attention.",
+    "synonyms": [
+      "careless",
+      "reckless",
+      "thoughtless",
+      "inattentive"
+    ],
+    "antonyms": [
+      "careful",
+      "attentive",
+      "cautious",
+      "heedful"
+    ],
+    "examples": [
+      "He drove on, heedless of the speed limit.",
+      "Her heedless remarks offended several guests."
+    ],
+    "evolution": [
+      {
+        "period": "Old English",
+        "form": "hedan",
+        "meaning": "observe",
+        "usage": "Root verb."
+      },
+      {
+        "period": "Middle English",
+        "form": "heedless",
+        "meaning": "thoughtless",
+        "usage": "Formed in the 14th century with suffix '-less'."
+      },
+      {
+        "period": "Modern English",
+        "form": "heedless",
+        "meaning": "Showing a lack of care or attention.",
+        "usage": "Standard modern usage."
+      }
+    ]
+  },
+  "hegemony": {
+    "meaning": "Leadership or dominance, especially by one state or group over others.",
+    "synonyms": [
+      "dominance",
+      "supremacy",
+      "authority",
+      "leadership"
+    ],
+    "antonyms": [
+      "subordination",
+      "weakness",
+      "weakness",
+      "weakness"
+    ],
+    "examples": [
+      "The empire established its hegemony over the neighboring states.",
+      "Critics questioned the economic hegemony of the superpower."
+    ],
+    "evolution": [
+      {
+        "period": "Greek",
+        "form": "hegemon",
+        "meaning": "leader",
+        "usage": "From 'hegeisthai' (to lead)."
+      },
+      {
+        "period": "Greek",
+        "form": "hegemonia",
+        "meaning": "leadership or authority",
+        "usage": "Noun form; borrowed into English in the 16th century."
+      },
+      {
+        "period": "Modern English",
+        "form": "hegemony",
+        "meaning": "Leadership or dominance, especially by one state or group over others.",
+        "usage": "Standard modern usage."
+      }
+    ]
+  },
+  "heinous": {
+    "meaning": "Utterly wicked or odious (especially of a crime).",
+    "synonyms": [
+      "wicked",
+      "atrocious",
+      "monstrous",
+      "abominable"
+    ],
+    "antonyms": [
+      "admirable",
+      "virtue",
+      "minor",
+      "venial"
+    ],
+    "examples": [
+      "He was sentenced to life imprisonment for his heinous crimes.",
+      "Lying to a friend is a heinous act of betrayal."
+    ],
+    "evolution": [
+      {
+        "period": "Old French",
+        "form": "hair",
+        "meaning": "to hate",
+        "usage": "Root verb of Germanic origin."
+      },
+      {
+        "period": "Old French",
+        "form": "hainos",
+        "meaning": "hateful or odious",
+        "usage": "Adjective form; borrowed into Middle English in the 14th century."
+      },
+      {
+        "period": "Modern English",
+        "form": "heinous",
+        "meaning": "Utterly wicked or odious (especially of a crime).",
+        "usage": "Standard modern usage."
+      }
+    ]
+  },
+  "helm": {
+    "meaning": "A tiller or wheel and associated gear for steering a ship; a position of leadership or control.",
+    "synonyms": [
+      "rudder",
+      "tiller",
+      "wheel",
+      "command"
+    ],
+    "antonyms": [
+      "antonym",
+      "antonym",
+      "antonym",
+      "antonym"
+    ],
+    "examples": [
+      "The captain stood at the helm of the ship.",
+      "She took the helm of the company during a difficult restructuring period."
+    ],
+    "evolution": [
+      {
+        "period": "Old English",
+        "form": "helma",
+        "meaning": "rudder or tiller",
+        "usage": "Everyday maritime noun; developed metaphorical sense of leadership in Early Modern English."
+      },
+      {
+        "period": "Middle English",
+        "form": "helma",
+        "meaning": "rudder or tiller",
+        "usage": "Middle English development."
+      },
+      {
+        "period": "Modern English",
+        "form": "helm",
+        "meaning": "A tiller or wheel and associated gear for steering a ship; a position of leadership or control.",
+        "usage": "Standard modern usage."
+      }
+    ]
+  },
+  "hem": {
+    "meaning": "The edge of a piece of cloth or clothing turned under and sewn; to surround and restrict space.",
+    "synonyms": [
+      "border",
+      "edge",
+      "sew",
+      "surround"
+    ],
+    "antonyms": [
+      "antonym",
+      "antonym",
+      "antonym",
+      "antonym"
+    ],
+    "examples": [
+      "She adjusted the hem of her skirt.",
+      "The town was hemmed in by mountains on all sides."
+    ],
+    "evolution": [
+      {
+        "period": "Old English",
+        "form": "hem",
+        "meaning": "border or edge",
+        "usage": "Germanic noun; verb meaning to turn under and sew, and 'hem in' meaning to enclose, developed in Middle English."
+      },
+      {
+        "period": "Middle English",
+        "form": "hem",
+        "meaning": "border or edge",
+        "usage": "Middle English development."
+      },
+      {
+        "period": "Modern English",
+        "form": "hem",
+        "meaning": "The edge of a piece of cloth or clothing turned under and sewn; to surround and restrict space.",
+        "usage": "Standard modern usage."
+      }
+    ]
+  },
+  "herald": {
+    "meaning": "An official messenger bringing news; a sign that something will happen; to announce.",
+    "synonyms": [
+      "harbinger",
+      "precursor",
+      "messenger",
+      "proclaim"
+    ],
+    "antonyms": [
+      "antonym",
+      "antonym",
+      "antonym",
+      "antonym"
+    ],
+    "examples": [
+      "The herald announced the arrival of the prince.",
+      "Dark clouds herald the approach of a storm."
+    ],
+    "evolution": [
+      {
+        "period": "Medieval Latin",
+        "form": "heraldus",
+        "meaning": "army officer; marshal",
+        "usage": "From Germanic roots 'hari' (army) + 'wald' (rule)."
+      },
+      {
+        "period": "Old French",
+        "form": "heraut",
+        "meaning": "herald",
+        "usage": "Adopted in French chivalry."
+      },
+      {
+        "period": "Middle English",
+        "form": "heraud / herald",
+        "meaning": "messenger; court officer",
+        "usage": "Spelling modernized; shifted from military/court officer to general messenger or sign."
+      }
+    ]
+  },
+  "herbivorous": {
+    "meaning": "Feeding on plants (of an animal).",
+    "synonyms": [
+      "plant-eating",
+      "vegetarian",
+      "phytophagous",
+      "phytophagous"
+    ],
+    "antonyms": [
+      "carnivorous",
+      "omnivore",
+      "omnivore",
+      "omnivore"
+    ],
+    "examples": [
+      "Cows and sheep are herbivorous animals.",
+      "The dinosaur was herbivorous, feeding on tree leaves."
+    ],
+    "evolution": [
+      {
+        "period": "Latin",
+        "form": "herba",
+        "meaning": "grass or herb",
+        "usage": "Root noun."
+      },
+      {
+        "period": "Latin",
+        "form": "vorare",
+        "meaning": "to devour",
+        "usage": "Root verb."
+      },
+      {
+        "period": "Modern English",
+        "form": "herbivorous",
+        "meaning": "plant-devouring",
+        "usage": "Coined in the 17th century by combining Latin roots."
+      }
+    ]
+  },
+  "hereafter": {
+    "meaning": "From this time on; in the future; life after death.",
+    "synonyms": [
+      "future",
+      "afterlife",
+      "subsequently",
+      "hereafter"
+    ],
+    "antonyms": [
+      "antonym",
+      "antonym",
+      "antonym",
+      "antonym"
+    ],
+    "examples": [
+      "Hereafter, all employees must sign in at the front desk.",
+      "Do you believe in the hereafter?"
+    ],
+    "evolution": [
+      {
+        "period": "Old English",
+        "form": "her æfter",
+        "meaning": "after this in time",
+        "usage": "Germanic adverbial compound; noun sense of 'afterlife' arose in the 14th century."
+      },
+      {
+        "period": "Middle English",
+        "form": "her æfter",
+        "meaning": "after this in time",
+        "usage": "Middle English development."
+      },
+      {
+        "period": "Modern English",
+        "form": "hereafter",
+        "meaning": "From this time on; in the future; life after death.",
+        "usage": "Standard modern usage."
+      }
+    ]
+  },
+  "heresy": {
+    "meaning": "Belief or opinion contrary to orthodox religious doctrine; opinion at odds with what is generally accepted.",
+    "synonyms": [
+      "nonconformity",
+      "dissent",
+      "heterodoxy",
+      "apostasy"
+    ],
+    "antonyms": [
+      "orthodoxy",
+      "conformity",
+      "belief",
+      "belief"
+    ],
+    "examples": [
+      "He was burned at the stake for heresy.",
+      "To question the coach's decision was considered heresy by the team."
+    ],
+    "evolution": [
+      {
+        "period": "Greek",
+        "form": "hairesis",
+        "meaning": "choice, course of action, or school of thought",
+        "usage": "From 'haireomai' (to choose)."
+      },
+      {
+        "period": "Latin",
+        "form": "haeresis",
+        "meaning": "sect or unorthodox belief",
+        "usage": "Used by early Christian writers for split doctrines."
+      },
+      {
+        "period": "Old French",
+        "form": "heresie",
+        "meaning": "heresy",
+        "usage": "Middle French form."
+      },
+      {
+        "period": "Middle English",
+        "form": "heresye",
+        "meaning": "doctrine against Church",
+        "usage": "Spelling modernized; generalized in Modern English to any unorthodox opinion."
+      }
+    ]
+  },
+  "hermetic": {
+    "meaning": "Complete and airtight (of a seal or closure); relating to an occult alchemical tradition.",
+    "synonyms": [
+      "airtight",
+      "sealed",
+      "shut",
+      "esoteric"
+    ],
+    "antonyms": [
+      "leaky",
+      "open",
+      "public",
+      "public"
+    ],
+    "examples": [
+      "The food was stored in a hermetic container.",
+      "She lived in a hermetic world, cut off from all outside reality."
+    ],
+    "evolution": [
+      {
+        "period": "Greek",
+        "form": "Hermes Trismegistus",
+        "meaning": "Hermes the Thrice-Great",
+        "usage": "Mythological figure associated with alchemy and magic secrets."
+      },
+      {
+        "period": "Latin (Medieval)",
+        "form": "hermeticus",
+        "meaning": "relating to alchemical secrets",
+        "usage": "Used for secret alchemy spells, including 'hermetic sealing' (sealing glass tubes with heat); entered English in the 17th century."
+      },
+      {
+        "period": "Modern English",
+        "form": "hermetic",
+        "meaning": "Complete and airtight (of a seal or closure); relating to an occult alchemical tradition.",
+        "usage": "Standard modern usage."
+      }
+    ]
+  },
+  "hermitage": {
+    "meaning": "The dwelling of a hermit, especially when small and remote; a secluded retreat.",
+    "synonyms": [
+      "sanctuary",
+      "retreat",
+      "hideaway",
+      "asylum"
+    ],
+    "antonyms": [
+      "antonym",
+      "antonym",
+      "antonym",
+      "antonym"
+    ],
+    "examples": [
+      "He lived in a remote hermitage in the mountains.",
+      "The palace featured a quiet garden hermitage for prayer."
+    ],
+    "evolution": [
+      {
+        "period": "Greek",
+        "form": "eremos",
+        "meaning": "solitary or desert",
+        "usage": "Root adjective."
+      },
+      {
+        "period": "Late Latin",
+        "form": "eremita",
+        "meaning": "hermit",
+        "usage": "Noun for solitary dweller."
+      },
+      {
+        "period": "Old French",
+        "form": "hermitage",
+        "meaning": "hermitage",
+        "usage": "Noun representing remote dwelling; entered English in the 14th century."
+      }
+    ]
+  },
+  "herpetologist": {
+    "meaning": "A zoologist who studies reptiles and amphibians.",
+    "synonyms": [
+      "reptile expert",
+      "zoologist",
+      "zoologist",
+      "zoologist"
+    ],
+    "antonyms": [
+      "antonym",
+      "antonym",
+      "antonym",
+      "antonym"
+    ],
+    "examples": [
+      "The herpetologist identified the venomous snake.",
+      "She works as a herpetologist at the natural history museum."
+    ],
+    "evolution": [
+      {
+        "period": "Greek",
+        "form": "herpeton",
+        "meaning": "creeping thing; reptile",
+        "usage": "From 'herpein' (to creep)."
+      },
+      {
+        "period": "Greek",
+        "form": "-logia",
+        "meaning": "study of",
+        "usage": "Suffix."
+      },
+      {
+        "period": "Modern English",
+        "form": "herpetologist",
+        "meaning": "reptile scholar",
+        "usage": "Coined in the 19th century by appending suffix '-ist' to 'herpetology'."
+      }
+    ]
+  },
+  "heterodox": {
+    "meaning": "Not conforming with accepted or orthodox standards or beliefs.",
+    "synonyms": [
+      "unorthodox",
+      "heretical",
+      "nonconforming",
+      "dissident"
+    ],
+    "antonyms": [
+      "orthodox",
+      "conformist",
+      "traditional",
+      "traditional"
+    ],
+    "examples": [
+      "He held heterodox opinions on economic policy.",
+      "Her heterodox lifestyle shocked the conservative community."
+    ],
+    "evolution": [
+      {
+        "period": "Greek",
+        "form": "heteros",
+        "meaning": "other",
+        "usage": "Root adjective."
+      },
+      {
+        "period": "Greek",
+        "form": "doxa",
+        "meaning": "opinion",
+        "usage": "Root noun."
+      },
+      {
+        "period": "Greek",
+        "form": "heterodoxos",
+        "meaning": "having other opinions",
+        "usage": "Combined adjective; borrowed into English in the 17th century."
+      }
+    ]
+  },
+  "heterogeneous": {
+    "meaning": "Diverse in character or content; consisting of dissimilar ingredients.",
+    "synonyms": [
+      "diverse",
+      "varied",
+      "miscellaneous",
+      "assorted"
+    ],
+    "antonyms": [
+      "homogeneous",
+      "uniform",
+      "identical",
+      "consistent"
+    ],
+    "examples": [
+      "The student body is a heterogeneous group from many countries.",
+      "The soil is a heterogeneous mixture of sand, clay, and organic matter."
+    ],
+    "evolution": [
+      {
+        "period": "Greek",
+        "form": "heteros",
+        "meaning": "other",
+        "usage": "Root adjective."
+      },
+      {
+        "period": "Greek",
+        "form": "genos",
+        "meaning": "kind or class",
+        "usage": "Root noun."
+      },
+      {
+        "period": "Medieval Latin",
+        "form": "heterogeneus",
+        "meaning": "of other kind",
+        "usage": "Combined adjective; anglicized to 'heterogeneous' in the 17th century."
+      }
+    ]
+  },
+  "hew": {
+    "meaning": "Chop or cut wood, stone, or coal with an axe or heavy tool; conform or adhere to a policy or rule.",
+    "synonyms": [
+      "chop",
+      "cut",
+      "carve",
+      "adhere"
+    ],
+    "antonyms": [
+      "build",
+      "join",
+      "deviate",
+      "deviate"
+    ],
+    "examples": [
+      "They hewed logs to build a rustic cabin.",
+      "We must hew to the rules of the company."
+    ],
+    "evolution": [
+      {
+        "period": "Proto-Germanic",
+        "form": "hawwan",
+        "meaning": "to strike or cut",
+        "usage": "Root verb."
+      },
+      {
+        "period": "Old English",
+        "form": "heawan",
+        "meaning": "to chop or strike",
+        "usage": "Everyday farming/woodcraft verb; spelling modernized in Middle English; metaphorical 'hew to' (adhere) arose in American English."
+      },
+      {
+        "period": "Modern English",
+        "form": "hew",
+        "meaning": "Chop or cut wood, stone, or coal with an axe or heavy tool; conform or adhere to a policy or rule.",
+        "usage": "Standard modern usage."
+      }
+    ]
+  },
+  "heyday": {
+    "meaning": "The period of greatest success, popularity, or vigor.",
+    "synonyms": [
+      "prime",
+      "peak",
+      "zenith",
+      "golden age"
+    ],
+    "antonyms": [
+      "decline",
+      "nadir",
+      "decay",
+      "decay"
+    ],
+    "examples": [
+      "In his heyday, the actor was famous worldwide.",
+      "The town was a busy port during the heyday of the coal industry."
+    ],
+    "evolution": [
+      {
+        "period": "Low German",
+        "form": "heida",
+        "meaning": "exclamation of joy",
+        "usage": "Root exclamation."
+      },
+      {
+        "period": "Middle English",
+        "form": "heyda",
+        "meaning": "exclamation of surprise/joy",
+        "usage": "Entered English as an exclamation; shifted in the 16th century to represent high spirits, and eventually to denote the peak period of a person's life."
+      },
+      {
+        "period": "Modern English",
+        "form": "heyday",
+        "meaning": "The period of greatest success, popularity, or vigor.",
+        "usage": "Standard modern usage."
+      }
+    ]
+  },
+  "hiatus": {
+    "meaning": "A pause or gap in a sequence, series, or process.",
+    "synonyms": [
+      "pause",
+      "gap",
+      "break",
+      "interval"
+    ],
+    "antonyms": [
+      "continuity",
+      "resumption",
+      "resumption",
+      "resumption"
+    ],
+    "examples": [
+      "The band went on a temporary hiatus after the world tour.",
+      "There was a hiatus of several years between his novels."
+    ],
+    "evolution": [
+      {
+        "period": "Latin",
+        "form": "hiare",
+        "meaning": "to gape or open wide",
+        "usage": "Root verb."
+      },
+      {
+        "period": "Latin",
+        "form": "hiatus",
+        "meaning": "gap or opening",
+        "usage": "Noun form; borrowed into English in the 16th century; used in anatomy (gap in organ) and grammar (vowel gap), then generalized."
+      },
+      {
+        "period": "Modern English",
+        "form": "hiatus",
+        "meaning": "A pause or gap in a sequence, series, or process.",
+        "usage": "Standard modern usage."
+      }
+    ]
+  },
+  "hibernal": {
+    "meaning": "Of, relating to, or occurring in winter; wintry.",
+    "synonyms": [
+      "wintry",
+      "cold",
+      "brumal",
+      "brumal"
+    ],
+    "antonyms": [
+      "vernal",
+      "aestival",
+      "summery",
+      "summery"
+    ],
+    "examples": [
+      "The trees were bare in the hibernal landscape.",
+      "They prepared for the long hibernal darkness of the Arctic."
+    ],
+    "evolution": [
+      {
+        "period": "Latin",
+        "form": "hiems",
+        "meaning": "winter",
+        "usage": "Root noun."
+      },
+      {
+        "period": "Latin",
+        "form": "hibernus",
+        "meaning": "wintry",
+        "usage": "Adjective form."
+      },
+      {
+        "period": "Modern English",
+        "form": "hibernal",
+        "meaning": "wintry",
+        "usage": "Borrowed from Latin 'hibernalis' in the 17th century."
+      }
+    ]
+  },
+  "hibernate": {
+    "meaning": "Spend the winter in a dormant or inactive state (of an animal or process).",
+    "synonyms": [
+      "sleep",
+      "lie dormant",
+      "winter",
+      "winter"
+    ],
+    "antonyms": [
+      "wake up",
+      "remain active",
+      "remain active",
+      "remain active"
+    ],
+    "examples": [
+      "Bears hibernate during the cold winter months.",
+      "I plan to hibernate at home this weekend with a good book."
+    ],
+    "evolution": [
+      {
+        "period": "Latin",
+        "form": "hiems",
+        "meaning": "winter",
+        "usage": "Root noun."
+      },
+      {
+        "period": "Latin",
+        "form": "hibernare",
+        "meaning": "to winter; pass winter",
+        "usage": "Verb form; adopted in English scientific contexts in the early 19th century."
+      },
+      {
+        "period": "Modern English",
+        "form": "hibernate",
+        "meaning": "Spend the winter in a dormant or inactive state (of an animal or process).",
+        "usage": "Standard modern usage."
+      }
+    ]
+  },
+  "hide": {
+    "meaning": "Keep out of sight; conceal; the skin of an animal, especially when tanned.",
+    "synonyms": [
+      "conceal",
+      "cover",
+      "skin",
+      "leather"
+    ],
+    "antonyms": [
+      "reveal",
+      "show",
+      "display",
+      "display"
+    ],
+    "examples": [
+      "She tried to hide the present from her brother.",
+      "The hunter stretched the deer hide to dry."
+    ],
+    "evolution": [
+      {
+        "period": "Old English",
+        "form": "hydan",
+        "meaning": "to conceal",
+        "usage": "Source of verb 'hide'."
+      },
+      {
+        "period": "Old English",
+        "form": "hyd",
+        "meaning": "animal skin",
+        "usage": "Source of noun 'hide'; homonyms merged in spelling in Middle English."
+      },
+      {
+        "period": "Modern English",
+        "form": "hide",
+        "meaning": "Keep out of sight; conceal; the skin of an animal, especially when tanned.",
+        "usage": "Standard modern usage."
+      }
+    ]
+  },
+  "hideous": {
+    "meaning": "Ugly or disgusting to look at; extremely unpleasant.",
+    "synonyms": [
+      "ugly",
+      "repulsive",
+      "monstrous",
+      "ghastly"
+    ],
+    "antonyms": [
+      "beautiful",
+      "attractive",
+      "lovely",
+      "pleasant"
+    ],
+    "examples": [
+      "The monster in the movie had a hideous face.",
+      "Littering is a hideous habit that ruins the park's appeal."
+    ],
+    "evolution": [
+      {
+        "period": "Old French",
+        "form": "hide",
+        "meaning": "fear or dread",
+        "usage": "Root noun of Germanic origin."
+      },
+      {
+        "period": "Old French",
+        "form": "hidous",
+        "meaning": "dreadful; terrifying",
+        "usage": "Adjective form; borrowed into Middle English, shifting from meaning 'terrifying/frightful' to 'ugly/offensive to the eye'."
+      },
+      {
+        "period": "Modern English",
+        "form": "hideous",
+        "meaning": "Ugly or disgusting to look at; extremely unpleasant.",
+        "usage": "Standard modern usage."
+      }
+    ]
+  },
+  "hierarchy": {
+    "meaning": "A system or organization in which groups are ranked according to status or authority.",
+    "synonyms": [
+      "pecking order",
+      "ranking",
+      "ladder",
+      "chain of command"
+    ],
+    "antonyms": [
+      "equality",
+      "anarchy",
+      "anarchy",
+      "anarchy"
+    ],
+    "examples": [
+      "He rose rapidly through the corporate hierarchy.",
+      "The church has a strict hierarchy of priests and bishops."
+    ],
+    "evolution": [
+      {
+        "period": "Greek",
+        "form": "hieros",
+        "meaning": "sacred",
+        "usage": "Root adjective."
+      },
+      {
+        "period": "Greek",
+        "form": "arkhes",
+        "meaning": "ruler",
+        "usage": "Root noun."
+      },
+      {
+        "period": "Greek",
+        "form": "hierarkhia",
+        "meaning": "rule of holy things",
+        "usage": "Used for celestial orders (angels); entered English via Old French 'ierarchie' in the 14th century; generalized to any status ladder in the 17th century."
+      }
+    ]
+  },
+  "hieroglyphic": {
+    "meaning": "Writing consisting of hieroglyphs (pictorial symbols); difficult to read.",
+    "synonyms": [
+      "pictorial writing",
+      "symbolic script",
+      "illegible script",
+      "illegible script"
+    ],
+    "antonyms": [
+      "antonym",
+      "antonym",
+      "antonym",
+      "antonym"
+    ],
+    "examples": [
+      "Archaeologists deciphered the hieroglyphics on the tomb wall.",
+      "His handwriting was so bad it looked like hieroglyphics."
+    ],
+    "evolution": [
+      {
+        "period": "Greek",
+        "form": "hieros",
+        "meaning": "sacred",
+        "usage": "Root adjective."
+      },
+      {
+        "period": "Greek",
+        "form": "glyphein",
+        "meaning": "to carve",
+        "usage": "Root verb."
+      },
+      {
+        "period": "Greek",
+        "form": "hieroglyphikos",
+        "meaning": "sacred carving",
+        "usage": "Used for Egyptian inscriptions; borrowed into French and English in the 16th century."
+      }
+    ]
+  },
+  "high-flown": {
+    "meaning": "Extravagant, proud, or lofty (especially of language or ideas).",
+    "synonyms": [
+      "lofty",
+      "grandiose",
+      "pompous",
+      "pretentious"
+    ],
+    "antonyms": [
+      "simple",
+      "direct",
+      "modest",
+      "realistic"
+    ],
+    "examples": [
+      "He delivered a high-flown speech about honor and glory.",
+      "Her high-flown plans were difficult to execute."
+    ],
+    "evolution": [
+      {
+        "period": "Modern English",
+        "form": "high + flown",
+        "meaning": "high-flown",
+        "usage": "Coined in the 17th century as a compound representing ideas or language flown above normal levels."
+      },
+      {
+        "period": "Middle English",
+        "form": "high + flown",
+        "meaning": "high-flown",
+        "usage": "Middle English development."
+      },
+      {
+        "period": "Modern English",
+        "form": "high-flown",
+        "meaning": "Extravagant, proud, or lofty (especially of language or ideas).",
+        "usage": "Standard modern usage."
+      }
+    ]
+  },
+  "hilarity": {
+    "meaning": "Extreme amusement, especially expressed by laughter.",
+    "synonyms": [
+      "amusement",
+      "laughter",
+      "mirth",
+      "glee"
+    ],
+    "antonyms": [
+      "sadness",
+      "gloom",
+      "gravity",
+      "solemnity"
+    ],
+    "examples": [
+      "The comedian's performance was met with roars of hilarity.",
+      "The party was filled with music and hilarity."
+    ],
+    "evolution": [
+      {
+        "period": "Latin",
+        "form": "hilaris",
+        "meaning": "cheerful or glad",
+        "usage": "Root adjective (from Greek 'hilaros')."
+      },
+      {
+        "period": "Latin",
+        "form": "hilaritas",
+        "meaning": "cheerfulness",
+        "usage": "Noun form."
+      },
+      {
+        "period": "French",
+        "form": "hilarité",
+        "meaning": "hilarity",
+        "usage": "Entered French in the Middle Ages; borrowed into English in the 16th century."
+      }
+    ]
+  },
+  "hindmost": {
+    "meaning": "Furthest back; rearmost.",
+    "synonyms": [
+      "last",
+      "final",
+      "rearmost",
+      "rearmost"
+    ],
+    "antonyms": [
+      "front",
+      "first",
+      "foremost",
+      "foremost"
+    ],
+    "examples": [
+      "The hindmost runners struggled to keep up with the pack.",
+      "He took his place in the hindmost row."
+    ],
+    "evolution": [
+      {
+        "period": "Old English",
+        "form": "hinder",
+        "meaning": "behind",
+        "usage": "Root adverb."
+      },
+      {
+        "period": "Middle English",
+        "form": "hindmost",
+        "meaning": "furthest behind",
+        "usage": "Formed by adding superlative suffix '-most' to 'hind/hinder'."
+      },
+      {
+        "period": "Modern English",
+        "form": "hindmost",
+        "meaning": "Furthest back; rearmost.",
+        "usage": "Standard modern usage."
+      }
+    ]
+  },
+  "hindrance": {
+    "meaning": "A thing that provides resistance, delay, or obstruction; an obstacle.",
+    "synonyms": [
+      "obstacle",
+      "barrier",
+      "impediment",
+      "hurdle"
+    ],
+    "antonyms": [
+      "help",
+      "aid",
+      "benefit",
+      "assistance"
+    ],
+    "examples": [
+      "The lack of funding was a major hindrance to the project.",
+      "She was more of a hindrance than a help in the kitchen."
+    ],
+    "evolution": [
+      {
+        "period": "Old English",
+        "form": "hinderen",
+        "meaning": "to obstruct or keep back",
+        "usage": "Root verb."
+      },
+      {
+        "period": "Middle English",
+        "form": "hindrance",
+        "meaning": "obstruction",
+        "usage": "Noun formed with suffix '-ance' in the 15th century."
+      },
+      {
+        "period": "Modern English",
+        "form": "hindrance",
+        "meaning": "A thing that provides resistance, delay, or obstruction; an obstacle.",
+        "usage": "Standard modern usage."
+      }
+    ]
+  },
+  "hindsight": {
+    "meaning": "Understanding of a situation only after it has happened.",
+    "synonyms": [
+      "retrospection",
+      "revision",
+      "revision",
+      "revision"
+    ],
+    "antonyms": [
+      "foresight",
+      "foresight",
+      "foresight",
+      "foresight"
+    ],
+    "examples": [
+      "With hindsight, we realize we made a mistake.",
+      "Hindsight is always clearer than foresight."
+    ],
+    "evolution": [
+      {
+        "period": "Modern English",
+        "form": "hind + sight",
+        "meaning": "hindsight",
+        "usage": "Coined in the 19th century as a direct antonym/counterpart to 'foresight'."
+      },
+      {
+        "period": "Middle English",
+        "form": "hind + sight",
+        "meaning": "hindsight",
+        "usage": "Middle English development."
+      },
+      {
+        "period": "Modern English",
+        "form": "hindsight",
+        "meaning": "Understanding of a situation only after it has happened.",
+        "usage": "Standard modern usage."
+      }
+    ]
+  },
+  "hinterlands": {
+    "meaning": "Uncharted or remote areas beyond coastal districts or urban centers.",
+    "synonyms": [
+      "backwoods",
+      "wilderness",
+      "remote areas",
+      "outback"
+    ],
+    "antonyms": [
+      "city",
+      "metropolis",
+      "coast",
+      "coast"
+    ],
+    "examples": [
+      "The explorers ventured deep into the hinterlands.",
+      "Many small villages are located in the country's hinterlands."
+    ],
+    "evolution": [
+      {
+        "period": "German",
+        "form": "hinter",
+        "meaning": "behind",
+        "usage": "Root preposition."
+      },
+      {
+        "period": "German",
+        "form": "Land",
+        "meaning": "land",
+        "usage": "Root noun."
+      },
+      {
+        "period": "German",
+        "form": "Hinterland",
+        "meaning": "land behind coast/city",
+        "usage": "Borrowed into English in the late 19th century in geopolitical discussions."
+      }
+    ]
+  },
+  "hireling": {
+    "meaning": "A person who works only for material reward; a mercenary.",
+    "synonyms": [
+      "mercenary",
+      "hack",
+      "servant",
+      "minion"
+    ],
+    "antonyms": [
+      "volunteer",
+      "idealist",
+      "idealist",
+      "idealist"
+    ],
+    "examples": [
+      "The dictator used armed hirelings to suppress the protests.",
+      "He was dismissed as a mere hireling who had no interest in the company."
+    ],
+    "evolution": [
+      {
+        "period": "Old English",
+        "form": "hyrian",
+        "meaning": "to hire",
+        "usage": "Root verb."
+      },
+      {
+        "period": "Old English",
+        "form": "hyreling",
+        "meaning": "hired person",
+        "usage": "Noun formed with suffix '-ling' (often carrying a derogatory connotation of serving purely for money)."
+      },
+      {
+        "period": "Modern English",
+        "form": "hireling",
+        "meaning": "A person who works only for material reward; a mercenary.",
+        "usage": "Standard modern usage."
+      }
+    ]
+  },
+  "hirsute": {
+    "meaning": "Hairy; covered with hair.",
+    "synonyms": [
+      "hairy",
+      "shaggy",
+      "bushy",
+      "bearded"
+    ],
+    "antonyms": [
+      "hairless",
+      "bald",
+      "smooth",
+      "smooth"
+    ],
+    "examples": [
+      "He had a hirsute chest and arms.",
+      "The scientist studied the hirsute caterpillars under the microscope."
+    ],
+    "evolution": [
+      {
+        "period": "Latin",
+        "form": "hirsutus",
+        "meaning": "rough or shaggy",
+        "usage": "Adjective form; borrowed into English in the 17th century."
+      },
+      {
+        "period": "Middle English",
+        "form": "hirsutus",
+        "meaning": "rough or shaggy",
+        "usage": "Middle English development."
+      },
+      {
+        "period": "Modern English",
+        "form": "hirsute",
+        "meaning": "Hairy; covered with hair.",
+        "usage": "Standard modern usage."
+      }
+    ]
+  },
+  "historic": {
+    "meaning": "Famous or important in history, or potentially so.",
+    "synonyms": [
+      "historical",
+      "famous",
+      "momentous",
+      "significant"
+    ],
+    "antonyms": [
+      "insignificant",
+      "trivial",
+      "modern",
+      "modern"
+    ],
+    "examples": [
+      "Today is a historic day as the peace treaty is signed.",
+      "We visited the historic battlefield where the conflict ended."
+    ],
+    "evolution": [
+      {
+        "period": "Greek",
+        "form": "historia",
+        "meaning": "inquiry or history",
+        "usage": "Root noun."
+      },
+      {
+        "period": "Latin",
+        "form": "historicus",
+        "meaning": "relating to history",
+        "usage": "Adjective form."
+      },
+      {
+        "period": "Modern English",
+        "form": "historic",
+        "meaning": "momentous; historical",
+        "usage": "Adopted in the 17th century; now distinguished from 'historical' by meaning of great importance."
+      }
+    ]
+  },
+  "historical": {
+    "meaning": "Concerning history or past events; based on history.",
+    "synonyms": [
+      "chronicled",
+      "past",
+      "documented",
+      "actual"
+    ],
+    "antonyms": [
+      "fictional",
+      "future",
+      "imaginary",
+      "imaginary"
+    ],
+    "examples": [
+      "She writes historical novels set in the Middle Ages.",
+      "The museum has a collection of historical documents."
+    ],
+    "evolution": [
+      {
+        "period": "Greek",
+        "form": "historia",
+        "meaning": "history",
+        "usage": "Root noun."
+      },
+      {
+        "period": "Modern English",
+        "form": "historical",
+        "meaning": "relating to past events",
+        "usage": "Formed with suffix '-ical' in the 16th century to represent things relating to history (whether famous/important or not)."
+      },
+      {
+        "period": "Modern English",
+        "form": "historical",
+        "meaning": "Concerning history or past events; based on history.",
+        "usage": "Standard modern usage."
+      }
+    ]
+  },
+  "histrionic": {
+    "meaning": "Exaggerated dramatic behavior designed to attract attention; theatrical.",
+    "synonyms": [
+      "dramatic",
+      "theatrical",
+      "melodramatic",
+      "affected"
+    ],
+    "antonyms": [
+      "understated",
+      "natural",
+      "genuine",
+      "quiet"
+    ],
+    "examples": [
+      "She burst into histrionic tears when she didn't get her way.",
+      "His histrionic gestures made the speech feel insincere."
+    ],
+    "evolution": [
+      {
+        "period": "Latin",
+        "form": "histrio",
+        "meaning": "actor",
+        "usage": "Root noun."
+      },
+      {
+        "period": "Latin",
+        "form": "histrionicus",
+        "meaning": "relating to actors",
+        "usage": "Adjective form; entered English in the 17th century; developed pejorative sense of insincere dramatic display."
+      },
+      {
+        "period": "Modern English",
+        "form": "histrionic",
+        "meaning": "Exaggerated dramatic behavior designed to attract attention; theatrical.",
+        "usage": "Standard modern usage."
+      }
+    ]
+  },
+  "hive": {
+    "meaning": "A structure for housing bees; a place swarming with busy activity.",
+    "synonyms": [
+      "beehive",
+      "swarming place",
+      "center",
+      "center"
+    ],
+    "antonyms": [
+      "antonym",
+      "antonym",
+      "antonym",
+      "antonym"
+    ],
+    "examples": [
+      "Bees buzzed around the wooden hive in the orchard.",
+      "The office was a hive of activity as the project deadline approached."
+    ],
+    "evolution": [
+      {
+        "period": "Old English",
+        "form": "hyf",
+        "meaning": "beehive",
+        "usage": "Germanic noun; spelling modernized; metaphorical usage arose in Early Modern English."
+      },
+      {
+        "period": "Middle English",
+        "form": "hyf",
+        "meaning": "beehive",
+        "usage": "Middle English development."
+      },
+      {
+        "period": "Modern English",
+        "form": "hive",
+        "meaning": "A structure for housing bees; a place swarming with busy activity.",
+        "usage": "Standard modern usage."
+      }
+    ]
+  },
+  "hoard": {
+    "meaning": "A stock or store of valued objects kept secret; to accumulate such a store.",
+    "synonyms": [
+      "store",
+      "stock",
+      "stash",
+      "accumulate"
+    ],
+    "antonyms": [
+      "spend",
+      "squander",
+      "distribute",
+      "waste"
+    ],
+    "examples": [
+      "The dragon guarded its hoard of gold in the cavern.",
+      "Many people began to hoard food and water before the storm."
+    ],
+    "evolution": [
+      {
+        "period": "Proto-Germanic",
+        "form": "huzdam",
+        "meaning": "treasure",
+        "usage": "Root noun."
+      },
+      {
+        "period": "Old English",
+        "form": "hord",
+        "meaning": "treasure or stock",
+        "usage": "Everyday noun and verb; spelling modernized in Middle English."
+      },
+      {
+        "period": "Modern English",
+        "form": "hoard",
+        "meaning": "A stock or store of valued objects kept secret; to accumulate such a store.",
+        "usage": "Standard modern usage."
+      }
+    ]
+  },
+  "hoary": {
+    "meaning": "Grayish-white with age; old and trite (of jokes or ideas).",
+    "synonyms": [
+      "grey-haired",
+      "white-haired",
+      "ancient",
+      "trite"
+    ],
+    "antonyms": [
+      "young",
+      "modern",
+      "colorful",
+      "fresh"
+    ],
+    "examples": [
+      "The old man had a hoary beard.",
+      "He retold the same hoary jokes we had heard a hundred times."
+    ],
+    "evolution": [
+      {
+        "period": "Old English",
+        "form": "har",
+        "meaning": "grey, old, or venerable",
+        "usage": "Root adjective."
+      },
+      {
+        "period": "Middle English",
+        "form": "hoar",
+        "meaning": "grey-white",
+        "usage": "Adjective form; modified to 'hoary' in the 16th century."
+      },
+      {
+        "period": "Modern English",
+        "form": "hoary",
+        "meaning": "Grayish-white with age; old and trite (of jokes or ideas).",
+        "usage": "Standard modern usage."
+      }
+    ]
+  },
+  "hoax": {
+    "meaning": "A humorous or malicious deception; to trick or deceive.",
+    "synonyms": [
+      "deception",
+      "practical joke",
+      "prank",
+      "trick"
+    ],
+    "antonyms": [
+      "truth",
+      "fact",
+      "fact",
+      "fact"
+    ],
+    "examples": [
+      "The bomb threat turned out to be a hoax.",
+      "The website hoaxed millions of visitors with fake photos."
+    ],
+    "evolution": [
+      {
+        "period": "Early Modern English",
+        "form": "hocus-pocus",
+        "meaning": "magical trick formula",
+        "usage": "Slang phrase of obscure origin."
+      },
+      {
+        "period": "Modern English",
+        "form": "hoax",
+        "meaning": "deception; to trick",
+        "usage": "Coined in the late 18th century as a contraction/slang verb from 'hocus'."
+      },
+      {
+        "period": "Modern English",
+        "form": "hoax",
+        "meaning": "A humorous or malicious deception; to trick or deceive.",
+        "usage": "Standard modern usage."
+      }
+    ]
+  },
+  "holocaust": {
+    "meaning": "Destruction or slaughter on a mass scale, especially by fire; the Nazi campaign of genocide.",
+    "synonyms": [
+      "slaughter",
+      "massacre",
+      "devastation",
+      "catastrophe"
+    ],
+    "antonyms": [
+      "antonym",
+      "antonym",
+      "antonym",
+      "antonym"
+    ],
+    "examples": [
+      "A nuclear war would result in a global holocaust.",
+      "The monument was built to honor the victims of the Holocaust."
+    ],
+    "evolution": [
+      {
+        "period": "Greek",
+        "form": "holos",
+        "meaning": "whole",
+        "usage": "Root adjective."
+      },
+      {
+        "period": "Greek",
+        "form": "kaustos",
+        "meaning": "burned",
+        "usage": "From 'kaiein' (to burn)."
+      },
+      {
+        "period": "Greek",
+        "form": "holokauston",
+        "meaning": "burnt offering",
+        "usage": "Combined noun for sacrifices burned whole."
+      },
+      {
+        "period": "Latin",
+        "form": "holocaustum",
+        "meaning": "holocaust",
+        "usage": "Borrowed into church Latin; entered English in the 13th century, shifting from religious offering to general mass destruction by fire, and specifically to WWII genocide in the 20th century."
+      }
+    ]
+  },
+  "holster": {
+    "meaning": "A holder for carrying a handgun, worn on a belt or strap.",
+    "synonyms": [
+      "gun holder",
+      "sheath",
+      "sheath",
+      "sheath"
+    ],
+    "antonyms": [
+      "antonym",
+      "antonym",
+      "antonym",
+      "antonym"
+    ],
+    "examples": [
+      "The officer slid his pistol back into its leather holster.",
+      "He wore a holster strapped to his chest."
+    ],
+    "evolution": [
+      {
+        "period": "Dutch (Probable)",
+        "form": "holster",
+        "meaning": "holster or case",
+        "usage": "Of Germanic origin; entered English in the 17th century."
+      },
+      {
+        "period": "Middle English",
+        "form": "holster",
+        "meaning": "holster or case",
+        "usage": "Middle English development."
+      },
+      {
+        "period": "Modern English",
+        "form": "holster",
+        "meaning": "A holder for carrying a handgun, worn on a belt or strap.",
+        "usage": "Standard modern usage."
+      }
+    ]
+  },
+  "homage": {
+    "meaning": "Special honor or respect shown publicly.",
+    "synonyms": [
+      "respect",
+      "honor",
+      "tribute",
+      "reverence"
+    ],
+    "antonyms": [
+      "disrespect",
+      "condemnation",
+      "criticism",
+      "insult"
+    ],
+    "examples": [
+      "Many came to pay homage to the dead king.",
+      "The movie was a direct homage to classic westerns."
+    ],
+    "evolution": [
+      {
+        "period": "Latin",
+        "form": "homo",
+        "meaning": "man",
+        "usage": "Root noun."
+      },
+      {
+        "period": "Old French",
+        "form": "homage",
+        "meaning": "fealty ceremony; state of being a man",
+        "usage": "Ceremony in which a vassal acknowledged himself to be the 'man' of his lord; entered English in the 14th century, shifting from feudal duty to general honor."
+      },
+      {
+        "period": "Modern English",
+        "form": "homage",
+        "meaning": "Special honor or respect shown publicly.",
+        "usage": "Standard modern usage."
+      }
+    ]
+  },
+  "homely": {
+    "meaning": "Simple, cozy, and comfortable; plain or unattractive in appearance.",
+    "synonyms": [
+      "plain",
+      "cozy",
+      "comfortable",
+      "unattractive"
+    ],
+    "antonyms": [
+      "beautiful",
+      "elegant",
+      "formal",
+      "ostentatious"
+    ],
+    "examples": [
+      "The cottage had a homely atmosphere with warm fires.",
+      "She was described as a homely woman with a kind heart."
+    ],
+    "evolution": [
+      {
+        "period": "Middle English",
+        "form": "home",
+        "meaning": "home",
+        "usage": "Root noun."
+      },
+      {
+        "period": "Middle English",
+        "form": "homely",
+        "meaning": "domestic; familiar; simple",
+        "usage": "Adjective form; developed sense of plainness/unattractiveness in the 16th century (especially in American English), while British English preserves cozy/domestic sense."
+      },
+      {
+        "period": "Modern English",
+        "form": "homely",
+        "meaning": "Simple, cozy, and comfortable; plain or unattractive in appearance.",
+        "usage": "Standard modern usage."
+      }
+    ]
+  },
+  "homeostasis": {
+    "meaning": "The tendency toward a stable equilibrium between physiological processes.",
+    "synonyms": [
+      "physiological balance",
+      "equilibrium",
+      "equilibrium",
+      "equilibrium"
+    ],
+    "antonyms": [
+      "imbalance",
+      "instability",
+      "instability",
+      "instability"
+    ],
+    "examples": [
+      "Sweating is a mechanism to maintain thermal homeostasis.",
+      "The kidneys play a vital role in maintaining body fluid homeostasis."
+    ],
+    "evolution": [
+      {
+        "period": "Greek",
+        "form": "homoios",
+        "meaning": "similar or same",
+        "usage": "Root adjective."
+      },
+      {
+        "period": "Greek",
+        "form": "stasis",
+        "meaning": "standing still; status",
+        "usage": "Root noun."
+      },
+      {
+        "period": "Modern English",
+        "form": "homeostasis",
+        "meaning": "internal equilibrium",
+        "usage": "Coined in 1926 by American physiologist Walter Cannon."
+      }
+    ]
+  },
+  "homespun": {
+    "meaning": "Spun or woven at home; simple, plain, and unsophisticated.",
+    "synonyms": [
+      "rustic",
+      "simple",
+      "coarse",
+      "unrefined"
+    ],
+    "antonyms": [
+      "sophisticated",
+      "elegant",
+      "refined",
+      "factory-made"
+    ],
+    "examples": [
+      "She wore a simple dress made of homespun cloth.",
+      "His homespun wisdom was appreciated by the villagers."
+    ],
+    "evolution": [
+      {
+        "period": "Modern English",
+        "form": "home + spun",
+        "meaning": "homespun",
+        "usage": "Coined in the 16th century to designate textiles made domestically; later shifted metaphorically to denote plain or rustic manners/wisdom."
+      },
+      {
+        "period": "Middle English",
+        "form": "home + spun",
+        "meaning": "homespun",
+        "usage": "Middle English development."
+      },
+      {
+        "period": "Modern English",
+        "form": "homespun",
+        "meaning": "Spun or woven at home; simple, plain, and unsophisticated.",
+        "usage": "Standard modern usage."
+      }
+    ]
+  },
+  "homily": {
+    "meaning": "A religious discourse intended primarily for spiritual edification; a tedious moralizing lecture.",
+    "synonyms": [
+      "sermon",
+      "lecture",
+      "discourse",
+      "talk"
+    ],
+    "antonyms": [
+      "antonym",
+      "antonym",
+      "antonym",
+      "antonym"
+    ],
+    "examples": [
+      "The priest delivered a moving homily on forgiveness.",
+      "We had to listen to another homily from our father about hard work."
+    ],
+    "evolution": [
+      {
+        "period": "Greek",
+        "form": "homilos",
+        "meaning": "crowd or assembly",
+        "usage": "Root noun."
+      },
+      {
+        "period": "Greek",
+        "form": "homilia",
+        "meaning": "converse or assembly sermon",
+        "usage": "Used in early church for familiar talks to crowds."
+      },
+      {
+        "period": "Latin",
+        "form": "homilia",
+        "meaning": "homily",
+        "usage": "Ecclesiastical Latin."
+      },
+      {
+        "period": "Middle English",
+        "form": "homily",
+        "meaning": "sermon",
+        "usage": "Borrowed in the 14th century; tedious moral lecture sense developed in the 16th century."
+      }
+    ]
+  },
+  "homogeneous": {
+    "meaning": "Of the same kind; alike; consisting of parts all of the same kind.",
+    "synonyms": [
+      "uniform",
+      "identical",
+      "consistent",
+      "unvarying"
+    ],
+    "antonyms": [
+      "heterogeneous",
+      "diverse",
+      "varied",
+      "mixed"
+    ],
+    "examples": [
+      "The population of the small island is relatively homogeneous.",
+      "Mix the ingredients until they form a homogeneous paste."
+    ],
+    "evolution": [
+      {
+        "period": "Greek",
+        "form": "homos",
+        "meaning": "same",
+        "usage": "Root adjective."
+      },
+      {
+        "period": "Greek",
+        "form": "genos",
+        "meaning": "kind or race",
+        "usage": "Root noun."
+      },
+      {
+        "period": "Medieval Latin",
+        "form": "homogeneus",
+        "meaning": "of same kind",
+        "usage": "Combined adjective; anglicized to 'homogeneous' in the 17th century."
+      }
+    ]
+  },
+  "hone": {
+    "meaning": "Sharpen a blade; refine or perfect a skill or tool.",
+    "synonyms": [
+      "sharpen",
+      "whet",
+      "refine",
+      "polish"
+    ],
+    "antonyms": [
+      "blunt",
+      "dull",
+      "degrade",
+      "degrade"
+    ],
+    "examples": [
+      "He used a fine whetstone to hone his pocket knife.",
+      "She attended workshops to hone her public speaking skills."
+    ],
+    "evolution": [
+      {
+        "period": "Proto-Germanic",
+        "form": "hanon",
+        "meaning": "stone",
+        "usage": "Root noun."
+      },
+      {
+        "period": "Old English",
+        "form": "han",
+        "meaning": "stone or rock",
+        "usage": "Germanic noun; verb sense of 'sharpening on a stone' arose in Middle English."
+      },
+      {
+        "period": "Modern English",
+        "form": "hone",
+        "meaning": "Sharpen a blade; refine or perfect a skill or tool.",
+        "usage": "Standard modern usage."
+      }
+    ]
+  },
+  "hoodwink": {
+    "meaning": "Deceive or trick someone.",
+    "synonyms": [
+      "deceive",
+      "trick",
+      "dupe",
+      "bamboozle"
+    ],
+    "antonyms": [
+      "undeceive",
+      "clarify",
+      "protect",
+      "protect"
+    ],
+    "examples": [
+      "The swindler tried to hoodwink the tourists with a fake map.",
+      "We were completely hoodwinked by his friendly manners."
+    ],
+    "evolution": [
+      {
+        "period": "Early Modern English",
+        "form": "hood + wink",
+        "meaning": "to blindfold / hood the eyes",
+        "usage": "Coined in the 16th century, literally meaning to pull a hood down over someone's eyes so they cannot see, which quickly shifted metaphorically to cheating/tricking them."
+      },
+      {
+        "period": "Middle English",
+        "form": "hood + wink",
+        "meaning": "to blindfold / hood the eyes",
+        "usage": "Middle English development."
+      },
+      {
+        "period": "Modern English",
+        "form": "hoodwink",
+        "meaning": "Deceive or trick someone.",
+        "usage": "Standard modern usage."
+      }
+    ]
+  },
+  "horde": {
+    "meaning": "A large group of people.",
+    "synonyms": [
+      "crowd",
+      "swarm",
+      "pack",
+      "host"
+    ],
+    "antonyms": [
+      "individual",
+      "small group",
+      "small group",
+      "small group"
+    ],
+    "examples": [
+      "Hordes of shoppers crowded the mall on Black Friday.",
+      "A horde of tourists descended on the historic site."
+    ],
+    "evolution": [
+      {
+        "period": "Turkish",
+        "form": "ordu",
+        "meaning": "camp or army",
+        "usage": "Root noun (source of Urdu language name)."
+      },
+      {
+        "period": "Russian",
+        "form": "orda",
+        "meaning": "clan or tribe",
+        "usage": "Used for Tatar/Mongol armies (e.g. Golden Horde)."
+      },
+      {
+        "period": "Polish",
+        "form": "horda",
+        "meaning": "horde",
+        "usage": "Adopted in Polish."
+      },
+      {
+        "period": "French",
+        "form": "horde",
+        "meaning": "horde",
+        "usage": "Adopted in French; borrowed into English in the 16th century, generalizing from Tatar tribes to any large, chaotic crowd."
+      }
+    ]
+  },
+  "horoscope": {
+    "meaning": "A forecast of a person's future based on the relative positions of the stars and planets at their birth.",
+    "synonyms": [
+      "star chart",
+      "astrological forecast",
+      "astrological forecast",
+      "astrological forecast"
+    ],
+    "antonyms": [
+      "antonym",
+      "antonym",
+      "antonym",
+      "antonym"
+    ],
+    "examples": [
+      "She checks her horoscope in the newspaper every morning.",
+      "His horoscope predicted a major career change this year."
+    ],
+    "evolution": [
+      {
+        "period": "Greek",
+        "form": "horo-",
+        "meaning": "time or hour",
+        "usage": "Root noun."
+      },
+      {
+        "period": "Greek",
+        "form": "skopos",
+        "meaning": "observer",
+        "usage": "Root noun."
+      },
+      {
+        "period": "Greek",
+        "form": "horoskopos",
+        "meaning": "hour-observer; birth chart",
+        "usage": "Combined astrological noun; borrowed into Latin 'horoscopus' and Old French 'horoscope', entering English in the 11th century."
+      }
+    ]
+  },
+  "hortatory": {
+    "meaning": "Tending or aiming to exhort, encourage, or urge.",
+    "synonyms": [
+      "encouraging",
+      "exhortative",
+      "advisory",
+      "inspiring"
+    ],
+    "antonyms": [
+      "discouraging",
+      "dissuasive",
+      "dissuasive",
+      "dissuasive"
+    ],
+    "examples": [
+      "The coach gave a hortatory speech to the team before the game.",
+      "The letter was written in a warm, hortatory tone."
+    ],
+    "evolution": [
+      {
+        "period": "Latin",
+        "form": "hortari",
+        "meaning": "to exhort or urge",
+        "usage": "Root verb."
+      },
+      {
+        "period": "Latin",
+        "form": "hortatorius",
+        "meaning": "encouraging",
+        "usage": "Adjective form; borrowed into English in the 17th century."
+      },
+      {
+        "period": "Modern English",
+        "form": "hortatory",
+        "meaning": "Tending or aiming to exhort, encourage, or urge.",
+        "usage": "Standard modern usage."
+      }
+    ]
+  },
+  "hostage": {
+    "meaning": "A person held as security for the fulfillment of a condition or ransom.",
+    "synonyms": [
+      "captive",
+      "prisoner",
+      "security",
+      "security"
+    ],
+    "antonyms": [
+      "antonym",
+      "antonym",
+      "antonym",
+      "antonym"
+    ],
+    "examples": [
+      "The rebels held three diplomats as hostages.",
+      "They demanded a ransom for the release of the hostage."
+    ],
+    "evolution": [
+      {
+        "period": "Latin",
+        "form": "hospes (hospit-)",
+        "meaning": "guest or host",
+        "usage": "Root noun."
+      },
+      {
+        "period": "Old French",
+        "form": "hostage",
+        "meaning": "lodging; security held in guestship",
+        "usage": "Shifted in French from providing guest lodging to holding a guest/security; borrowed into English in the 13th century."
+      },
+      {
+        "period": "Modern English",
+        "form": "hostage",
+        "meaning": "A person held as security for the fulfillment of a condition or ransom.",
+        "usage": "Standard modern usage."
+      }
+    ]
+  },
+  "hostility": {
+    "meaning": "Hostile behavior; unfriendliness, antagonism, or active opposition.",
+    "synonyms": [
+      "antagonism",
+      "enmity",
+      "animosity",
+      "conflict"
+    ],
+    "antonyms": [
+      "friendliness",
+      "peace",
+      "goodwill",
+      "sympathy"
+    ],
+    "examples": [
+      "There was open hostility between the two rival factions.",
+      "The plan was met with immediate hostility from the public."
+    ],
+    "evolution": [
+      {
+        "period": "Latin",
+        "form": "hostis",
+        "meaning": "enemy or stranger",
+        "usage": "Root noun."
+      },
+      {
+        "period": "Latin",
+        "form": "hostilitas",
+        "meaning": "enmity",
+        "usage": "Noun form."
+      },
+      {
+        "period": "French",
+        "form": "hostilité",
+        "meaning": "hostility",
+        "usage": "Entered French in the Middle Ages; borrowed into English in the 16th century."
+      }
+    ]
+  },
+  "hothead": {
+    "meaning": "A person who easily becomes angry or acts rashly.",
+    "synonyms": [
+      "firebrand",
+      "madcap",
+      "daredevil",
+      "daredevil"
+    ],
+    "antonyms": [
+      "peacekeeper",
+      "peacekeeper",
+      "peacekeeper",
+      "peacekeeper"
+    ],
+    "examples": [
+      "Don't be a hothead; think before you act.",
+      "He was a hothead who was always getting into arguments."
+    ],
+    "evolution": [
+      {
+        "period": "Early Modern English",
+        "form": "hot + head",
+        "meaning": "hothead",
+        "usage": "Coined in the 16th century to designate a passionate or rashly impetuous person."
+      },
+      {
+        "period": "Middle English",
+        "form": "hot + head",
+        "meaning": "hothead",
+        "usage": "Middle English development."
+      },
+      {
+        "period": "Modern English",
+        "form": "hothead",
+        "meaning": "A person who easily becomes angry or acts rashly.",
+        "usage": "Standard modern usage."
+      }
+    ]
+  },
+  "hovel": {
+    "meaning": "A small, squalid, unpleasant, or simply constructed dwelling.",
+    "synonyms": [
+      "shack",
+      "shanty",
+      "hut",
+      "cabin"
+    ],
+    "antonyms": [
+      "palace",
+      "mansion",
+      "mansion",
+      "mansion"
+    ],
+    "examples": [
+      "The poor family lived in a tiny wooden hovel.",
+      "The clean apartment felt like a palace compared to his previous hovel."
+    ],
+    "evolution": [
+      {
+        "period": "Middle English",
+        "form": "hovel",
+        "meaning": "shed or animal shelter",
+        "usage": "Arose in the 14th century of obscure origin; shifted in Modern English to mean a squalid human dwelling."
+      },
+      {
+        "period": "Middle English",
+        "form": "hovel",
+        "meaning": "shed or animal shelter",
+        "usage": "Middle English development."
+      },
+      {
+        "period": "Modern English",
+        "form": "hovel",
+        "meaning": "A small, squalid, unpleasant, or simply constructed dwelling.",
+        "usage": "Standard modern usage."
+      }
+    ]
+  },
+  "hover": {
+    "meaning": "Remain in one place in the air; linger close at hand.",
+    "synonyms": [
+      "flutter",
+      "hang",
+      "linger",
+      "drift"
+    ],
+    "antonyms": [
+      "antonym",
+      "antonym",
+      "antonym",
+      "antonym"
+    ],
+    "examples": [
+      "A helicopter hovered over the scene of the accident.",
+      "Reporters hovered around the exit hoping for a quick interview."
+    ],
+    "evolution": [
+      {
+        "period": "Middle English",
+        "form": "hoven",
+        "meaning": "to stay, wait, or linger",
+        "usage": "Root verb of obscure origin."
+      },
+      {
+        "period": "Middle English",
+        "form": "hoveren",
+        "meaning": "to flutter or hover",
+        "usage": "Frequentative verb form; spelling modernized."
+      },
+      {
+        "period": "Modern English",
+        "form": "hover",
+        "meaning": "Remain in one place in the air; linger close at hand.",
+        "usage": "Standard modern usage."
+      }
+    ]
+  },
+  "hubbub": {
+    "meaning": "A loud, confused noise, as of many voices; commotion.",
+    "synonyms": [
+      "uproar",
+      "commotion",
+      "noise",
+      "racket"
+    ],
+    "antonyms": [
+      "silence",
+      "quiet",
+      "peace",
+      "tranquility"
+    ],
+    "examples": [
+      "She could hardly hear him over the hubbub of the crowd.",
+      "A sudden hubbub arose in the crowded marketplace."
+    ],
+    "evolution": [
+      {
+        "period": "Gaelic / Irish",
+        "form": "abu!",
+        "meaning": "war cry",
+        "usage": "Or related to Irish outcry 'ubub!'; entered English in the 16th century as 'hubbub' representing wild, chaotic shouting."
+      },
+      {
+        "period": "Middle English",
+        "form": "abu!",
+        "meaning": "war cry",
+        "usage": "Middle English development."
+      },
+      {
+        "period": "Modern English",
+        "form": "hubbub",
+        "meaning": "A loud, confused noise, as of many voices; commotion.",
+        "usage": "Standard modern usage."
+      }
+    ]
+  },
+  "hubris": {
+    "meaning": "Excessive pride or self-confidence.",
+    "synonyms": [
+      "arrogance",
+      "vanity",
+      "pride",
+      "haughtiness"
+    ],
+    "antonyms": [
+      "humility",
+      "modesty",
+      "meekness",
+      "meekness"
+    ],
+    "examples": [
+      "The politician's hubris led directly to his downfall.",
+      "The company's failure was caused by corporate hubris."
+    ],
+    "evolution": [
+      {
+        "period": "Greek",
+        "form": "hubris",
+        "meaning": "outrage, insolence, or excessive pride",
+        "usage": "Transliterated directly into English in the 19th century; in Greek tragedy, it refers to pride that defies the gods, bringing doom."
+      },
+      {
+        "period": "Middle English",
+        "form": "hubris",
+        "meaning": "outrage, insolence, or excessive pride",
+        "usage": "Middle English development."
+      },
+      {
+        "period": "Modern English",
+        "form": "hubris",
+        "meaning": "Excessive pride or self-confidence.",
+        "usage": "Standard modern usage."
+      }
+    ]
+  },
+  "hue": {
+    "meaning": "A color or shade; character or aspect.",
+    "synonyms": [
+      "color",
+      "shade",
+      "tint",
+      "aspect"
+    ],
+    "antonyms": [
+      "antonym",
+      "antonym",
+      "antonym",
+      "antonym"
+    ],
+    "examples": [
+      "The sunset had a beautiful pink hue.",
+      "Politicians of all hues attended the assembly."
+    ],
+    "evolution": [
+      {
+        "period": "Old English",
+        "form": "hiw",
+        "meaning": "shape, appearance, form, or color",
+        "usage": "Germanic noun; spelling modernized to 'hue' in Middle English, narrowing in meaning to color."
+      },
+      {
+        "period": "Middle English",
+        "form": "hiw",
+        "meaning": "shape, appearance, form, or color",
+        "usage": "Middle English development."
+      },
+      {
+        "period": "Modern English",
+        "form": "hue",
+        "meaning": "A color or shade; character or aspect.",
+        "usage": "Standard modern usage."
+      }
+    ]
+  },
+  "hull": {
+    "meaning": "The main body of a ship or tank; the outer covering of a seed or fruit; to remove hulls.",
+    "synonyms": [
+      "body",
+      "frame",
+      "shell",
+      "casing"
+    ],
+    "antonyms": [
+      "antonym",
+      "antonym",
+      "antonym",
+      "antonym"
+    ],
+    "examples": [
+      "The ship's hull was damaged in the collision with the iceberg.",
+      "We need to hull the strawberries before eating."
+    ],
+    "evolution": [
+      {
+        "period": "Old English",
+        "form": "helan",
+        "meaning": "to cover or hide",
+        "usage": "Root verb."
+      },
+      {
+        "period": "Old English",
+        "form": "hulu",
+        "meaning": "casing or husk",
+        "usage": "Germanic noun; ship's body sense arose in the 15th century, possibly representing a hollow vessel."
+      },
+      {
+        "period": "Modern English",
+        "form": "hull",
+        "meaning": "The main body of a ship or tank; the outer covering of a seed or fruit; to remove hulls.",
+        "usage": "Standard modern usage."
+      }
+    ]
+  },
+  "humane": {
+    "meaning": "Having or showing compassion, kindness, or benevolence.",
+    "synonyms": [
+      "compassionate",
+      "kind",
+      "benevolent",
+      "merciful"
+    ],
+    "antonyms": [
+      "cruel",
+      "inhumane",
+      "brutal",
+      "sadistic"
+    ],
+    "examples": [
+      "The organization advocates for the humane treatment of animals.",
+      "He made a humane decision to pardon the young prisoner."
+    ],
+    "evolution": [
+      {
+        "period": "Latin",
+        "form": "humanus",
+        "meaning": "human; civilized; kind",
+        "usage": "Root adjective."
+      },
+      {
+        "period": "Modern English",
+        "form": "humane",
+        "meaning": "compassionate",
+        "usage": "Spelling split from 'human' in the 18th century to separate species description (human) from moral/civilized qualities (humane)."
+      },
+      {
+        "period": "Modern English",
+        "form": "humane",
+        "meaning": "Having or showing compassion, kindness, or benevolence.",
+        "usage": "Standard modern usage."
+      }
+    ]
+  },
+  "humanitarian": {
+    "meaning": "Concerned with or seeking to promote human welfare.",
+    "synonyms": [
+      "philanthropic",
+      "altruistic",
+      "benevolent",
+      "charitable"
+    ],
+    "antonyms": [
+      "selfish",
+      "misanthropic",
+      "misanthropic",
+      "misanthropic"
+    ],
+    "examples": [
+      "The charity provided humanitarian aid to the war victims.",
+      "She is a dedicated humanitarian who works in refugee camps."
+    ],
+    "evolution": [
+      {
+        "period": "Latin",
+        "form": "humanus",
+        "meaning": "human",
+        "usage": "Root adjective."
+      },
+      {
+        "period": "Modern English",
+        "form": "humanitarian",
+        "meaning": "welfare promoter",
+        "usage": "Coined in the 19th century with suffix '-arian' in social reform contexts."
+      },
+      {
+        "period": "Modern English",
+        "form": "humanitarian",
+        "meaning": "Concerned with or seeking to promote human welfare.",
+        "usage": "Standard modern usage."
+      }
+    ]
+  },
+  "humdrum": {
+    "meaning": "Lacking excitement or variety; dull and monotonous.",
+    "synonyms": [
+      "dull",
+      "boring",
+      "monotonous",
+      "mundane"
+    ],
+    "antonyms": [
+      "exciting",
+      "varied",
+      "interesting",
+      "thrilling"
+    ],
+    "examples": [
+      "He was tired of his humdrum office routine.",
+      "They lived a quiet, humdrum life in the suburbs."
+    ],
+    "evolution": [
+      {
+        "period": "Early Modern English",
+        "form": "hum + drum",
+        "meaning": "monotonous buzz",
+        "usage": "Coined in the 16th century as a reduplicative compound based on 'hum' (to drone/buzz), representing tedious, monotonous sounds."
+      },
+      {
+        "period": "Middle English",
+        "form": "hum + drum",
+        "meaning": "monotonous buzz",
+        "usage": "Middle English development."
+      },
+      {
+        "period": "Modern English",
+        "form": "humdrum",
+        "meaning": "Lacking excitement or variety; dull and monotonous.",
+        "usage": "Standard modern usage."
+      }
+    ]
+  },
+  "humid": {
+    "meaning": "Marked by a high level of water vapor in the atmosphere.",
+    "synonyms": [
+      "damp",
+      "moist",
+      "muggy",
+      "steamy"
+    ],
+    "antonyms": [
+      "dry",
+      "arid",
+      "parched",
+      "parched"
+    ],
+    "examples": [
+      "The air was hot and humid in the tropical jungle.",
+      "We need a dehumidifier to keep the basement dry."
+    ],
+    "evolution": [
+      {
+        "period": "Latin",
+        "form": "humidus",
+        "meaning": "moist or damp",
+        "usage": "From 'humere' (to be moist)."
+      },
+      {
+        "period": "French",
+        "form": "humide",
+        "meaning": "humid",
+        "usage": "Adopted in French."
+      },
+      {
+        "period": "Modern English",
+        "form": "humid",
+        "meaning": "damp; air-moist",
+        "usage": "Borrowed from French in the 15th century."
+      }
+    ]
+  },
+  "humility": {
+    "meaning": "A modest view of one's own importance; humbleness.",
+    "synonyms": [
+      "modesty",
+      "humbleness",
+      "meekness",
+      "meekness"
+    ],
+    "antonyms": [
+      "pride",
+      "arrogance",
+      "haughtiness",
+      "vanity"
+    ],
+    "examples": [
+      "He accepted the prize with great humility.",
+      "She showed true humility by admitting her mistakes."
+    ],
+    "evolution": [
+      {
+        "period": "Latin",
+        "form": "humus",
+        "meaning": "ground or soil",
+        "usage": "Root noun."
+      },
+      {
+        "period": "Latin",
+        "form": "humilis",
+        "meaning": "lowly; close to the ground",
+        "usage": "Adjective form."
+      },
+      {
+        "period": "Latin",
+        "form": "humilitas",
+        "meaning": "lowliness",
+        "usage": "Noun form."
+      },
+      {
+        "period": "Old French",
+        "form": "humilite",
+        "meaning": "humility",
+        "usage": "Entered French in the Middle Ages; anglicized to 'humility' in the 14th century."
+      }
+    ]
+  },
+  "hummock": {
+    "meaning": "A small hill, mound, or knoll.",
+    "synonyms": [
+      "mound",
+      "hillock",
+      "knoll",
+      "hump"
+    ],
+    "antonyms": [
+      "valley",
+      "hollow",
+      "hollow",
+      "hollow"
+    ],
+    "examples": [
+      "The flat landscape was broken by a small hummock of trees.",
+      "Ice hummocks formed along the shore of the frozen lake."
+    ],
+    "evolution": [
+      {
+        "period": "Early Modern English",
+        "form": "hummock",
+        "meaning": "mound",
+        "usage": "Arose in the 16th century of obscure maritime origin; possibly a diminutive variant of 'hump'."
+      },
+      {
+        "period": "Middle English",
+        "form": "hummock",
+        "meaning": "mound",
+        "usage": "Middle English development."
+      },
+      {
+        "period": "Modern English",
+        "form": "hummock",
+        "meaning": "A small hill, mound, or knoll.",
+        "usage": "Standard modern usage."
+      }
+    ]
+  },
+  "humor": {
+    "meaning": "The quality of being amusing; a state of mind or mood; to comply with someone's wishes.",
+    "synonyms": [
+      "comedy",
+      "mood",
+      "temper",
+      "indulge"
+    ],
+    "antonyms": [
+      "gravity",
+      "seriousness",
+      "frustrate",
+      "frustrate"
+    ],
+    "examples": [
+      "His joke showed a sharp sense of humor.",
+      "She was in a bad humor after the flight."
+    ],
+    "evolution": [
+      {
+        "period": "Latin",
+        "form": "humere",
+        "meaning": "to be moist",
+        "usage": "Root verb."
+      },
+      {
+        "period": "Latin",
+        "form": "humor",
+        "meaning": "moisture or fluid",
+        "usage": "Noun form; in medieval physiology, it referred to the four body fluids (blood, phlegm, yellow bile, black bile) controlling health and temperament; shifted to mean temperament/mood, and finally to meaning amusing/comic qualities in the 17th century."
+      },
+      {
+        "period": "Modern English",
+        "form": "humor",
+        "meaning": "The quality of being amusing; a state of mind or mood; to comply with someone's wishes.",
+        "usage": "Standard modern usage."
+      }
+    ]
+  },
+  "humus": {
+    "meaning": "The organic component of soil, formed by the decomposition of leaves and plant material.",
+    "synonyms": [
+      "topsoil",
+      "compost",
+      "mold",
+      "mold"
+    ],
+    "antonyms": [
+      "antonym",
+      "antonym",
+      "antonym",
+      "antonym"
+    ],
+    "examples": [
+      "The forest floor was rich in dark humus.",
+      "Adding compost increases the humus content of the soil."
+    ],
+    "evolution": [
+      {
+        "period": "Latin",
+        "form": "humus",
+        "meaning": "ground, earth, or soil",
+        "usage": "Root noun; borrowed into English in the 18th century as a technical soil-science term."
+      },
+      {
+        "period": "Middle English",
+        "form": "humus",
+        "meaning": "ground, earth, or soil",
+        "usage": "Middle English development."
+      },
+      {
+        "period": "Modern English",
+        "form": "humus",
+        "meaning": "The organic component of soil, formed by the decomposition of leaves and plant material.",
+        "usage": "Standard modern usage."
+      }
+    ]
+  },
+  "hurl": {
+    "meaning": "Throw an object with great force; utter insults vehemently.",
+    "synonyms": [
+      "throw",
+      "fling",
+      "cast",
+      "shout"
+    ],
+    "antonyms": [
+      "catch",
+      "gather",
+      "gather",
+      "gather"
+    ],
+    "examples": [
+      "The athlete managed to hurl the javelin across the field.",
+      "Protesters began to hurl insults at the police."
+    ],
+    "evolution": [
+      {
+        "period": "Middle English",
+        "form": "hurlen",
+        "meaning": "to crash, throw, or rush",
+        "usage": "Arose in the 13th century as an imitative verb representing forceful throwing or striking."
+      },
+      {
+        "period": "Middle English",
+        "form": "hurlen",
+        "meaning": "to crash, throw, or rush",
+        "usage": "Middle English development."
+      },
+      {
+        "period": "Modern English",
+        "form": "hurl",
+        "meaning": "Throw an object with great force; utter insults vehemently.",
+        "usage": "Standard modern usage."
+      }
+    ]
+  },
+  "hurtle": {
+    "meaning": "Move or cause to move at a great speed, typically in a wild or uncontrolled way.",
+    "synonyms": [
+      "speed",
+      "rubber",
+      "plunge",
+      "barrel"
+    ],
+    "antonyms": [
+      "crawl",
+      "dawdle",
+      "dawdle",
+      "dawdle"
+    ],
+    "examples": [
+      "The bobsled hurtled down the icy track.",
+      "Loose bricks hurtled from the roof during the storm."
+    ],
+    "evolution": [
+      {
+        "period": "Middle English",
+        "form": "hurten",
+        "meaning": "to strike or push",
+        "usage": "Root verb."
+      },
+      {
+        "period": "Middle English",
+        "form": "hurtlen",
+        "meaning": "to clash together; throw down",
+        "usage": "Frequentative verb form; spelling modernized."
+      },
+      {
+        "period": "Modern English",
+        "form": "hurtle",
+        "meaning": "Move or cause to move at a great speed, typically in a wild or uncontrolled way.",
+        "usage": "Standard modern usage."
+      }
+    ]
+  },
+  "husband": {
+    "meaning": "A married man; to use resources economically; conserve.",
+    "synonyms": [
+      "spouse",
+      "conserve",
+      "manage",
+      "save"
+    ],
+    "antonyms": [
+      "spend",
+      "waste",
+      "squander",
+      "squander"
+    ],
+    "examples": [
+      "She walked with her husband in the park.",
+      "We must husband our resources during the winter."
+    ],
+    "evolution": [
+      {
+        "period": "Old Norse",
+        "form": "hus",
+        "meaning": "house",
+        "usage": "Root noun."
+      },
+      {
+        "period": "Old Norse",
+        "form": "bondi",
+        "meaning": "householder",
+        "usage": "From 'bua' (to dwell)."
+      },
+      {
+        "period": "Old Norse",
+        "form": "husbondi",
+        "meaning": "master of the house",
+        "usage": "Combined noun; borrowed into Old English as 'husbonde'; the verb meaning to manage/conserve resources arose in the 15th century from the duties of farm management."
+      }
+    ]
+  },
+  "husbandry": {
+    "meaning": "The care, cultivation, and breeding of crops and animals; conservation of resources.",
+    "synonyms": [
+      "farming",
+      "agriculture",
+      "conservation",
+      "thrift"
+    ],
+    "antonyms": [
+      "wastefulness",
+      "wastefulness",
+      "wastefulness",
+      "wastefulness"
+    ],
+    "examples": [
+      "He studied animal husbandry at the agricultural college.",
+      "Thrifty husbandry allowed the family to survive the recession."
+    ],
+    "evolution": [
+      {
+        "period": "Old Norse",
+        "form": "husbondi",
+        "meaning": "householder",
+        "usage": "Root noun."
+      },
+      {
+        "period": "Middle English",
+        "form": "husbandry",
+        "meaning": "household management; farming",
+        "usage": "Noun formed with suffix '-ry' in the 14th century."
+      },
+      {
+        "period": "Modern English",
+        "form": "husbandry",
+        "meaning": "The care, cultivation, and breeding of crops and animals; conservation of resources.",
+        "usage": "Standard modern usage."
+      }
+    ]
+  },
+  "hut": {
+    "meaning": "A small, simple, single-story house or shelter.",
+    "synonyms": [
+      "shack",
+      "shanty",
+      "cabin",
+      "hovel"
+    ],
+    "antonyms": [
+      "mansion",
+      "palace",
+      "palace",
+      "palace"
+    ],
+    "examples": [
+      "The shepherds built a stone hut on the hillside.",
+      "We sought shelter in a mountain hut during the blizzard."
+    ],
+    "evolution": [
+      {
+        "period": "Old High German",
+        "form": "hutta",
+        "meaning": "cottage or shed",
+        "usage": "Root noun of Germanic origin."
+      },
+      {
+        "period": "French",
+        "form": "hutte",
+        "meaning": "cottage",
+        "usage": "Borrowed from German."
+      },
+      {
+        "period": "Modern English",
+        "form": "hut",
+        "meaning": "simple shelter",
+        "usage": "Borrowed from French in the 16th century."
+      }
+    ]
+  },
+  "hybrid": {
+    "meaning": "Offspring of two plants or animals of different species; a thing made by combining two different elements.",
+    "synonyms": [
+      "crossbreed",
+      "mixture",
+      "composite",
+      "fusion"
+    ],
+    "antonyms": [
+      "purebred",
+      "uniform",
+      "uniform",
+      "uniform"
+    ],
+    "examples": [
+      "A mule is a hybrid of a donkey and a horse.",
+      "The car has a hybrid engine combining gasoline and electricity."
+    ],
+    "evolution": [
+      {
+        "period": "Latin",
+        "form": "ibrida",
+        "meaning": "mongrel; offspring of wild boar and domestic sow",
+        "usage": "Root noun; borrowed into English in the 17th century, generalizing to any biological cross or mixed system."
+      },
+      {
+        "period": "Middle English",
+        "form": "ibrida",
+        "meaning": "mongrel; offspring of wild boar and domestic sow",
+        "usage": "Middle English development."
+      },
+      {
+        "period": "Modern English",
+        "form": "hybrid",
+        "meaning": "Offspring of two plants or animals of different species; a thing made by combining two different elements.",
+        "usage": "Standard modern usage."
+      }
+    ]
+  },
+  "hydrophobia": {
+    "meaning": "Extreme or irrational fear of water, especially as a symptom of rabies.",
+    "synonyms": [
+      "fear of water",
+      "rabies",
+      "rabies",
+      "rabies"
+    ],
+    "antonyms": [
+      "antonym",
+      "antonym",
+      "antonym",
+      "antonym"
+    ],
+    "examples": [
+      "The rabid dog displayed signs of hydrophobia.",
+      "He suffered from temporary hydrophobia after the animal bite."
+    ],
+    "evolution": [
+      {
+        "period": "Greek",
+        "form": "hydor",
+        "meaning": "water",
+        "usage": "Root noun."
+      },
+      {
+        "period": "Greek",
+        "form": "phobos",
+        "meaning": "fear",
+        "usage": "Root noun."
+      },
+      {
+        "period": "Greek",
+        "form": "hydrophobia",
+        "meaning": "fear of water",
+        "usage": "Combined medical noun; borrowed into Latin 'hydrophobia' and English in the 16th century."
+      }
+    ]
+  },
+  "hyperbole": {
+    "meaning": "Exaggerated statements or claims not meant to be taken literally.",
+    "synonyms": [
+      "exaggeration",
+      "overstatement",
+      "embellishment",
+      "embellishment"
+    ],
+    "antonyms": [
+      "understatement",
+      "litotes",
+      "litotes",
+      "litotes"
+    ],
+    "examples": [
+      "He used hyperbole, claiming he had walked a million miles.",
+      "The advertisement was full of marketing hyperbole."
+    ],
+    "evolution": [
+      {
+        "period": "Greek",
+        "form": "hyper",
+        "meaning": "over or beyond",
+        "usage": "Root preposition."
+      },
+      {
+        "period": "Greek",
+        "form": "ballein",
+        "meaning": "to throw",
+        "usage": "Root verb."
+      },
+      {
+        "period": "Greek",
+        "form": "hyperbole",
+        "meaning": "excess; exaggeration",
+        "usage": "Literally 'a throwing beyond'; borrowed into Latin and English in the 16th century as a rhetorical term."
+      }
+    ]
+  },
+  "hypercritical": {
+    "meaning": "Excessively critical, especially of small faults.",
+    "synonyms": [
+      "pedantic",
+      "captious",
+      "overcritical",
+      "fault-finding"
+    ],
+    "antonyms": [
+      "uncritical",
+      "forgiving",
+      "lax",
+      "lenient"
+    ],
+    "examples": [
+      "The hypercritical reviewer found fault with even the best performances.",
+      "She is hypercritical of her own writing, rewriting pages constantly."
+    ],
+    "evolution": [
+      {
+        "period": "Greek",
+        "form": "hyper",
+        "meaning": "over/beyond",
+        "usage": "Prefix."
+      },
+      {
+        "period": "Greek",
+        "form": "kritikos",
+        "meaning": "critical",
+        "usage": "From 'krinein' (to judge); combined in English in the 17th century."
+      },
+      {
+        "period": "Modern English",
+        "form": "hypercritical",
+        "meaning": "Excessively critical, especially of small faults.",
+        "usage": "Standard modern usage."
+      }
+    ]
+  },
+  "hypnosis": {
+    "meaning": "The induction of a state of consciousness in which a person apparently loses voluntary action.",
+    "synonyms": [
+      "trance",
+      "hypnotism",
+      "hypnotism",
+      "hypnotism"
+    ],
+    "antonyms": [
+      "alertness",
+      "alertness",
+      "alertness",
+      "alertness"
+    ],
+    "examples": [
+      "The therapist used hypnosis to help her recall the event.",
+      "He fell into a deep state of hypnosis."
+    ],
+    "evolution": [
+      {
+        "period": "Greek",
+        "form": "hypnos",
+        "meaning": "sleep",
+        "usage": "Root noun."
+      },
+      {
+        "period": "Modern English",
+        "form": "hypnosis",
+        "meaning": "induced trance state",
+        "usage": "Coined in 1843 by Scottish surgeon James Braid with suffix '-osis'."
+      },
+      {
+        "period": "Modern English",
+        "form": "hypnosis",
+        "meaning": "The induction of a state of consciousness in which a person apparently loses voluntary action.",
+        "usage": "Standard modern usage."
+      }
+    ]
+  },
+  "hypochondriac": {
+    "meaning": "A person who is abnormally anxious about their health.",
+    "synonyms": [
+      "valetudinarian",
+      "health-anxious person",
+      "health-anxious person",
+      "health-anxious person"
+    ],
+    "antonyms": [
+      "antonym",
+      "antonym",
+      "antonym",
+      "antonym"
+    ],
+    "examples": [
+      "As a true hypochondriac, he goes to the doctor for every sneeze.",
+      "She realized her health worries were hypochondriac fears."
+    ],
+    "evolution": [
+      {
+        "period": "Greek",
+        "form": "hypo",
+        "meaning": "under",
+        "usage": "Prefix."
+      },
+      {
+        "period": "Greek",
+        "form": "chondros",
+        "meaning": "breastbone cartilage",
+        "usage": "Root noun."
+      },
+      {
+        "period": "Greek",
+        "form": "hypokhondria",
+        "meaning": "the soft area below the ribs",
+        "usage": "Ancient medicine believed the organs in this region (liver/spleen) were the source of melancholy and health fears; borrowed into English, developing into 'hypochondriac' (anxious about health)."
+      }
+    ]
+  },
+  "hypocritical": {
+    "meaning": "Behaving in a way that suggests one has higher standards than is the case.",
+    "synonyms": [
+      "insincere",
+      "deceitful",
+      "sanctimonious",
+      "double-dealing"
+    ],
+    "antonyms": [
+      "sincere",
+      "honest",
+      "candid",
+      "genuine"
+    ],
+    "examples": [
+      "It was hypocritical of him to lecture us about honesty when he had lied.",
+      "We are tired of his hypocritical behavior."
+    ],
+    "evolution": [
+      {
+        "period": "Greek",
+        "form": "hypo",
+        "meaning": "under",
+        "usage": "Prefix."
+      },
+      {
+        "period": "Greek",
+        "form": "krinein",
+        "meaning": "to decide; judge",
+        "usage": "Root verb."
+      },
+      {
+        "period": "Greek",
+        "form": "hypokrinesthai",
+        "meaning": "to play a part; act on stage",
+        "usage": "Verb form."
+      },
+      {
+        "period": "Greek",
+        "form": "hypokrisis",
+        "meaning": "acting; pretense",
+        "usage": "Noun form; borrowed into Latin 'hypocrisis' and English as 'hypocrite' (one who pretends), leading to 'hypocritical' in the 16th century."
+      }
+    ]
+  },
+  "hypothetical": {
+    "meaning": "Based on or serving as a hypothesis; proposed or assumed.",
+    "synonyms": [
+      "theoretical",
+      "assumed",
+      "speculative",
+      "academic"
+    ],
+    "antonyms": [
+      "actual",
+      "real",
+      "factual",
+      "proven"
+    ],
+    "examples": [
+      "Let's consider a hypothetical situation where resources are limited.",
+      "His arguments were based on a purely hypothetical case."
+    ],
+    "evolution": [
+      {
+        "period": "Greek",
+        "form": "hypo",
+        "meaning": "under",
+        "usage": "Prefix."
+      },
+      {
+        "period": "Greek",
+        "form": "tithenai",
+        "meaning": "to place",
+        "usage": "Root verb."
+      },
+      {
+        "period": "Greek",
+        "form": "hypothesis",
+        "meaning": "foundation or proposal",
+        "usage": "Noun form; adjective 'hypothetical' arose in English in the 17th century."
+      }
+    ]
+  },
+  "hysteria": {
+    "meaning": "Exaggerated or uncontrollable emotion or excitement, especially among a group.",
+    "synonyms": [
+      "panic",
+      "frenzy",
+      "delirium",
+      "madness"
+    ],
+    "antonyms": [
+      "calm",
+      "serenity",
+      "composure",
+      "peace"
+    ],
+    "examples": [
+      "The crowd fell into a state of wild hysteria when the band arrived.",
+      "Mass hysteria spread through the town after the rumors."
+    ],
+    "evolution": [
+      {
+        "period": "Greek",
+        "form": "hystera",
+        "meaning": "womb",
+        "usage": "Root noun; ancient medicine believed emotional disturbances in women originated in the womb; coined in English medical texts in the 19th century, later generalized to any wild panic/excitement."
+      },
+      {
+        "period": "Middle English",
+        "form": "hystera",
+        "meaning": "womb",
+        "usage": "Middle English development."
+      },
+      {
+        "period": "Modern English",
+        "form": "hysteria",
+        "meaning": "Exaggerated or uncontrollable emotion or excitement, especially among a group.",
+        "usage": "Standard modern usage."
+      }
+    ]
+  }
+}

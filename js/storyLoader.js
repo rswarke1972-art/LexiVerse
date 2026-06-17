@@ -1,17 +1,14 @@
-let wordData; // only here
+if (typeof wordData === "undefined") {
+    var wordData = window.wordData || {};
+}
 let currentStoryIndex = 0;
 
-fetch("js/words.json")
-  .then(response => response.json())
-  .then(data => {
-      wordData = data;
-
-      // After JSON loads, start the app
-      startApp();
-  })
-  .catch(error => {
-      console.error("Error loading words.json:", error);
-  });
+// Start the app immediately if DOM is ready, otherwise wait for DOMContentLoaded
+if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", startApp);
+} else {
+    startApp();
+}
 
 function startApp() {
 

@@ -2,23 +2,16 @@ function goHome() {
     window.location.href = "index.html";
 }
 
-
-fetch("js/words.json")
-  .then(response => response.json())
-  .then(data => {
-      wordData = data;
-
-  });
+// Global word data holder (cached and loaded dynamically)
+if (typeof wordData === "undefined") {
+    var wordData = window.wordData || {};
+}
   
-  document.addEventListener("click", function (e) {
+document.addEventListener("click", function (e) {
     if (e.target.classList.contains("word-btn")) {
         openModal(e.target.dataset.word);
     }
 });
-
-function goHome() {
-    window.location.href = "index.html";
-}
 
 function resumeReading() {
     localStorage.setItem("lexiverse_start_mode", "resume");
@@ -31,11 +24,13 @@ function startNew() {
 }
 
 function openInfo(id) {
-    document.getElementById(id).style.display = "flex";
+    const el = document.getElementById(id);
+    if (el) el.style.display = "flex";
 }
 
 function closeInfo(id) {
-    document.getElementById(id).style.display = "none";
+    const el = document.getElementById(id);
+    if (el) el.style.display = "none";
 }
 
 function goToSelectPassage() {
@@ -48,15 +43,28 @@ window.addEventListener("click", function (e) {
     }
 });
 
-document.getElementById("showAllWordsBtn").addEventListener("click", function() {
-    const container = document.getElementById("allWordsContainer");
-    container.innerHTML = "";  // Clear previous list
+const showAllWordsBtn = document.getElementById("showAllWordsBtn");
+if (showAllWordsBtn) {
+    showAllWordsBtn.addEventListener("click", function() {
+        const container = document.getElementById("allWordsContainer");
+        if (!container) return;
+        container.innerHTML = "";  // Clear previous list
 
-    Object.keys(wordData).forEach(word => {
-        const wordBtn = document.createElement("button");
-        wordBtn.innerText = word;
-        wordBtn.className = "word-list-btn";
-        wordBtn.onclick = () => openModal(word);  // Same modal as passages
-        container.appendChild(wordBtn);
+        Object.keys(wordData).forEach(word => {
+            const wordBtn = document.createElement("button");
+            wordBtn.innerText = word;
+            wordBtn.className = "word-list-btn";
+            wordBtn.onclick = () => openModal(word);  // Same modal as passages
+            container.appendChild(wordBtn);
+        });
     });
-});
+}
+
+// PWA Service Worker Registration
+if ("serviceWorker" in navigator) {
+    window.addEventListener("load", () => {
+        navigator.serviceWorker.register("sw.js")
+            .then((reg) => console.log("LexiVerse PWA Service Worker registered!", reg.scope))
+            .catch((err) => console.error("Service Worker registration failed:", err));
+    });
+}

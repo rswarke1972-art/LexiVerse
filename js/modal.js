@@ -7,16 +7,62 @@ function loadVoices() {
 
 speechSynthesis.onvoiceschanged = loadVoices;
 
-function openModal(word) {
+async function openModal(word) {
 
     const modal = document.getElementById("wordModal");
     const modalBody = document.getElementById("modalBody");
-    const data = wordData[word.toLowerCase()];
+    const cleanWord = word.toLowerCase().trim();
 
-    // Safety check
+    if (!cleanWord) return;
+
+    // Ensure the modal is active and showing a loading indicator
+    modalBody.innerHTML = `<p style="padding: 20px; text-align: center; color: #aaa;">Loading details for "${word}"...</p>`;
+    modal.classList.add("active");
+
+    // Resolve wordData reference (checking local variables and window object)
+    let currentData = null;
+    if (typeof wordData !== "undefined" && wordData) {
+        currentData = wordData;
+    } else if (window.wordData) {
+        currentData = window.wordData;
+    } else {
+        window.wordData = {};
+        currentData = window.wordData;
+    }
+
+    // Dynamic fetch if word is not yet cached
+    if (!currentData[cleanWord]) {
+        const firstLetter = cleanWord[0];
+        const jsonPath = `js/${firstLetter.toUpperCase()}.json`;
+
+        try {
+            const response = await fetch(jsonPath);
+            if (!response.ok) {
+                throw new Error(`Word file not found (${response.status})`);
+            }
+            const fileData = await response.json();
+            Object.assign(currentData, fileData);
+        } catch (error) {
+            console.error(`Error loading word data for ${word}:`, error);
+            modalBody.innerHTML = `
+                <span class="close-btn" onclick="closeModal()">&times;</span>
+                <div class="modal-section" style="padding: 20px;">
+                    <h2 class="modal-word-title">${word.toUpperCase()}</h2>
+                    <p style="color: #ff3b3b; font-weight: bold; margin-bottom: 10px;">Error: Details could not be loaded.</p>
+                    <p style="color: #aaa; font-size: 14px;">Reason: ${error.message}</p>
+                    <p style="color: #888; font-size: 13px; margin-top: 15px;">The database file for letter "${firstLetter.toUpperCase()}" may not exist yet.</p>
+                </div>
+            `;
+            return;
+        }
+    }
+
+    const data = currentData[cleanWord];
     if (!data) {
-        modalBody.innerHTML = "<p>Word data not found.</p>";
-        modal.classList.add("active");
+        modalBody.innerHTML = `
+            <span class="close-btn" onclick="closeModal()">&times;</span>
+            <p style="padding: 20px; text-align: center;">Word data not found for "${word}".</p>
+        `;
         return;
     }
 
@@ -51,13 +97,14 @@ function openModal(word) {
 
     // ===== BUILD FULL MODAL CONTENT =====
     modalBody.innerHTML = `
+        <span class="close-btn" onclick="closeModal()">&times;</span>
         <h2 class="modal-word-title">${word.toUpperCase()}</h2>
         <p class="modal-ipa">${data.ipa || ""}</p>
         <button onclick="pronounceWord('${word}', 'us')">🔊 🇺🇸 US</button>
         <button onclick="pronounceWord('${word}', 'uk')">🔊 🇬🇧 UK</button>
         <button onclick="pronounceWord('${word}', 'in')">🔊 🇮🇳 IN</button>
 
-        <div class="modal-section">
+        <div class="modal-section" style="margin-top: 20px;">
             <p><strong>Meaning:</strong> ${data.meaning}</p>
         </div>
 
@@ -79,8 +126,6 @@ function openModal(word) {
 
         ${evolutionHTML}
     `;
-
-    modal.classList.add("active");
 }
 
 function pronounceWord(word, accent = "us") {

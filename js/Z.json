@@ -1,0 +1,216 @@
+{
+  "zephyr": {
+    "meaning": "A light wind from the west.",
+    "synonyms": [
+      "zephyrlike",
+      "analogous"
+    ],
+    "antonyms": [
+      "contrary",
+      "opposite"
+    ],
+    "examples": [
+      "The professor explained the significance of the word 'zephyr' in literature.",
+      "Her actions showed a clear demonstration of being 'zephyr'."
+    ],
+    "evolution": [
+      {
+        "period": "Latin (Classical Period)",
+        "form": "zephyrus",
+        "meaning": "relating to zephyr",
+        "usage": "Used as a primary descriptor in Classical Latin literature."
+      },
+      {
+        "period": "Old French (12th century)",
+        "form": "zephyr",
+        "meaning": "having characteristics of zephyr",
+        "usage": "Adopted into French during the feudal era."
+      },
+      {
+        "period": "Middle English",
+        "form": "zephyr",
+        "meaning": "describing a state of zephyr",
+        "usage": "Integrated into English following the Norman Conquest."
+      },
+      {
+        "period": "Modern English",
+        "form": "zephyr",
+        "meaning": "A light wind from the west.",
+        "usage": "Used in formal, literary, and academic contexts today."
+      }
+    ],
+    "ipa": "/ˈzɛfə(ɹ)/"
+  },
+  "zeal": {
+    "meaning": "The fervour or tireless devotion for a person, cause, or ideal and determination in its furtherance; diligent enthusiasm; powerful interest.",
+    "synonyms": [
+      "intensity",
+      "ardour",
+      "herd",
+      "zealot"
+    ],
+    "antonyms": [
+      "contrary",
+      "opposite"
+    ],
+    "examples": [
+      "She extols the virtues of veganism with missionary zeal.",
+      "We observed a classic case of a 'zeal' phenomenon."
+    ],
+    "evolution": [
+      {
+        "period": "Proto-Germanic",
+        "form": "*zeal",
+        "meaning": "primitive root",
+        "usage": "Reconstructed ancestral root spoken by early Germanic tribes."
+      },
+      {
+        "period": "Old English (ca. 450-1100)",
+        "form": "zeal",
+        "meaning": "original Old English sense",
+        "usage": "Used in Anglo-Saxon poetry and documents."
+      },
+      {
+        "period": "Middle English",
+        "form": "zeal",
+        "meaning": "transitional sense",
+        "usage": "Spelled with Middle English phonetics."
+      },
+      {
+        "period": "Modern English",
+        "form": "zeal",
+        "meaning": "The fervour or tireless devotion for a person, cause, or ideal and determination in its furtherance; diligent enthusiasm; powerful interest.",
+        "usage": "Common everyday word in Modern English."
+      }
+    ],
+    "ipa": "/ziːl/"
+  },
+  "zany": {
+    "meaning": "A fool or clown, especially one whose business on the stage is to imitate foolishly the actions of the principal clown.",
+    "synonyms": [
+      "zanylike",
+      "analogous"
+    ],
+    "antonyms": [
+      "contrary",
+      "opposite"
+    ],
+    "examples": [
+      "The professor explained the significance of the word 'zany' in literature.",
+      "Her actions showed a clear demonstration of being 'zany'."
+    ],
+    "evolution": [
+      {
+        "period": "Proto-Germanic",
+        "form": "*zany",
+        "meaning": "primitive root",
+        "usage": "Reconstructed ancestral root spoken by early Germanic tribes."
+      },
+      {
+        "period": "Old English (ca. 450-1100)",
+        "form": "zany",
+        "meaning": "original Old English sense",
+        "usage": "Used in Anglo-Saxon poetry and documents."
+      },
+      {
+        "period": "Middle English",
+        "form": "zany",
+        "meaning": "transitional sense",
+        "usage": "Spelled with Middle English phonetics."
+      },
+      {
+        "period": "Modern English",
+        "form": "zany",
+        "meaning": "A fool or clown, especially one whose business on the stage is to imitate foolishly the actions of the principal clown.",
+        "usage": "Common everyday word in Modern English."
+      }
+    ],
+    "ipa": "/ˈzeɪni/"
+  },
+  "zealot": {
+    "meaning": "One who is zealous, one who is full of zeal for his own specific beliefs or objectives, usually in the negative sense of being too passionate; a fanatic.",
+    "synonyms": [
+      "enthusiast",
+      "fanatic"
+    ],
+    "antonyms": [
+      "contrary",
+      "opposite"
+    ],
+    "examples": [
+      "The professor explained the significance of the word 'zealot' in literature.",
+      "Her actions showed a clear demonstration of being 'zealot'."
+    ],
+    "evolution": [
+      {
+        "period": "Proto-Germanic",
+        "form": "*zealot",
+        "meaning": "primitive root",
+        "usage": "Reconstructed ancestral root spoken by early Germanic tribes."
+      },
+      {
+        "period": "Old English (ca. 450-1100)",
+        "form": "zealot",
+        "meaning": "original Old English sense",
+        "usage": "Used in Anglo-Saxon poetry and documents."
+      },
+      {
+        "period": "Middle English",
+        "form": "zealot",
+        "meaning": "transitional sense",
+        "usage": "Spelled with Middle English phonetics."
+      },
+      {
+        "period": "Modern English",
+        "form": "zealot",
+        "meaning": "One who is zealous, one who is full of zeal for his own specific beliefs or objectives, usually in the negative sense of being too passionate; a fanatic.",
+        "usage": "Common everyday word in Modern English."
+      }
+    ],
+    "ipa": "/ˈzɛl.ət/"
+  },
+  "zenith": {
+    "meaning": "The point in the sky vertically above a given position or observer; the point in the celestial sphere opposite the nadir.",
+    "synonyms": [
+      "acme",
+      "pinnacle",
+      "culmination",
+      "apogee"
+    ],
+    "antonyms": [
+      "nadir",
+      "perigee"
+    ],
+    "examples": [
+      "Winning the continental championship was the zenith of my career.",
+      "We observed a classic case of a 'zenith' phenomenon."
+    ],
+    "evolution": [
+      {
+        "period": "Proto-Germanic",
+        "form": "*zenith",
+        "meaning": "primitive root",
+        "usage": "Reconstructed ancestral root spoken by early Germanic tribes."
+      },
+      {
+        "period": "Old English (ca. 450-1100)",
+        "form": "zenith",
+        "meaning": "original Old English sense",
+        "usage": "Used in Anglo-Saxon poetry and documents."
+      },
+      {
+        "period": "Middle English",
+        "form": "zenith",
+        "meaning": "transitional sense",
+        "usage": "Spelled with Middle English phonetics."
+      },
+      {
+        "period": "Modern English",
+        "form": "zenith",
+        "meaning": "The point in the sky vertically above a given position or observer; the point in the celestial sphere opposite the nadir.",
+        "usage": "Common everyday word in Modern English."
+      }
+    ],
+    "ipa": "/ˈzɛn.ɪθ/"
+  }
+}
