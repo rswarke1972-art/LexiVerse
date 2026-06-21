@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Words Practice - LexiVerse</title>
+    <link rel="manifest" href="manifest.json">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body class="black-bg">
+
+    <button class="back-btn" onclick="goHome()">← Back</button>
+
+    <div class="practice-container">
+        <h1 style="text-align: center; margin-top: 40px; letter-spacing: 2px;">WORDS PRACTICE</h1>
+        <p style="text-align: center; color: #888; margin-top: 10px;">Listen to the word and type it correctly below</p>
+
+        <div class="practice-card">
+            <!-- Accent Selector -->
+            <div class="accent-selector">
+                <button class="accent-btn active" id="btn-us" onclick="setAccent('us')">🇺🇸 US Accent</button>
+                <button class="accent-btn" id="btn-uk" onclick="setAccent('uk')">🇬🇧 UK Accent</button>
+                <button class="accent-btn" id="btn-in" onclick="setAccent('in')">🇮🇳 IN Accent</button>
+            </div>
+
+            <!-- Speaker/Mic Button -->
+            <button class="mic-btn" id="speak-btn" onclick="speakCurrentWord()" title="Listen to word">
+                🔊
+            </button>
+            <div style="color: #666; font-size: 13px; margin-top: -15px; margin-bottom: 25px;">Click to hear the word</div>
+
+            <!-- Input and Check Button -->
+            <input type="text" id="spelling-input" class="spelling-input" placeholder="Type spelling here..." autocomplete="off" autofocus>
+            
+            <button class="action-btn check-btn" id="check-btn" onclick="checkSpelling()">CHECK SPELLING</button>
+            <button class="action-btn next-btn hidden" id="next-btn" onclick="loadNextWord()">NEXT WORD</button>
+
+            <!-- Feedback msg -->
+            <div class="feedback-msg" id="feedback-msg"></div>
+
+            <!-- Stats tracking -->
+            <div class="practice-stats">
+                <div class="stat-item">Streak: <span id="streak-val">0</span> 🔥</div>
+                <div class="stat-item">Accuracy: <span id="accuracy-val">0%</span></div>
+                <div class="stat-item">Completed: <span id="completed-val">0</span></div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Scripts -->
+    <script src="js/practice.js"></script>
+</body>
+</html>

@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Grammar Play - LexiVerse</title>
+    <link rel="manifest" href="manifest.json">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body class="black-bg">
+
+    <button class="back-btn" onclick="goHome()">← Back</button>
+
+    <div class="grammar-container">
+        <h1 style="text-align: center; margin-top: 40px; letter-spacing: 2px;">GRAMMAR PLAY</h1>
+        <p style="text-align: center; color: #888; margin-top: 10px;">Master sentence structuring, prepositions, and grammar rules</p>
+
+        <div class="grammar-card">
+            <!-- Header Metadata -->
+            <div class="grammar-header-info">
+                <div class="question-counter" id="question-counter">Question 1 of 2100</div>
+                <div class="diff-badge diff-easy" id="difficulty-badge">EASY</div>
+            </div>
+
+            <!-- Progress Bar -->
+            <div class="progress-bar-container">
+                <div class="progress-bar-fill" id="progress-fill"></div>
+            </div>
+
+            <!-- Instruction -->
+            <div id="instruction-text" style="color: #ff3b3b; font-weight: bold; font-size: 15px; margin-bottom: 12px; text-transform: uppercase; letter-spacing: 0.5px;"></div>
+
+            <!-- Dynamic Question Areas -->
+            
+            <!-- Type 1 (Rearrange words) Area -->
+            <div id="rearrange-area" class="hidden">
+                <button class="clear-assembly-btn" onclick="clearAssembly()">Clear</button>
+                <div style="font-size: 13px; color: #666; margin-bottom: 6px;">Tap words to arrange them:</div>
+                <div id="assembled-words" class="assembled-words"></div>
+                <div style="font-size: 13px; color: #666; margin-bottom: 6px;">Word Bank:</div>
+                <div id="scrambled-words" class="scrambled-words"></div>
+            </div>
+
+            <!-- Type 2 & 3 (Gap fill and Sentence choice) Area -->
+            <div id="choice-area" class="hidden">
+                <div id="grammar-prompt" class="grammar-prompt"></div>
+                <div id="options-grid" class="grammar-options-grid"></div>
+            </div>
+
+            <!-- Check and Next buttons -->
+            <button class="action-btn check-btn" id="grammar-check-btn" onclick="checkAnswer()">CHECK ANSWER</button>
+            <button class="action-btn next-btn hidden" id="grammar-next-btn" onclick="loadNextQuestion()">NEXT QUESTION</button>
+
+            <!-- Feedback Details -->
+            <div class="feedback-msg" id="grammar-feedback" style="margin-top: 20px;"></div>
+
+            <!-- Gameplay stats -->
+            <div class="practice-stats" style="margin-top: 25px;">
+                <div class="stat-item">Streak: <span id="grammar-streak-val">0</span> 🔥</div>
+                <div class="stat-item">Accuracy: <span id="grammar-accuracy-val">0%</span></div>
+                <div class="stat-item">Completed: <span id="grammar-completed-val">0</span></div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Scripts -->
+    <script src="js/grammar.js"></script>
+</body>
+</html>
